@@ -90,6 +90,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "26307c6c7fd01ec0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "dd6350e009073dfd",
             "type": "leaf",
             "state": {
@@ -136,20 +146,6 @@
             }
           },
           {
-            "id": "472fbe59cb0c0d10",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 🎯5-01-24 até 11-01-25"
-            }
-          },
-          {
             "id": "d6f040d8f7209184",
             "type": "leaf",
             "state": {
@@ -172,6 +168,20 @@
             }
           },
           {
+            "id": "472fbe59cb0c0d10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/Certificações que seria bom  conseguir.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Certificações que seria bom  conseguir"
+            }
+          },
+          {
             "id": "e0a5bfef7fd066c4",
             "type": "leaf",
             "state": {
@@ -180,19 +190,8 @@
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
-          },
-          {
-            "id": "26307c6c7fd01ec0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d13d1e896b9ed863",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250430112802.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211207.png",
