@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.3.md",
+                "file": "notas bibliograficas/💼 carreira/Certificações que seria bom  conseguir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lesson 2.3"
+              "title": "Certificações que seria bom  conseguir"
             }
           }
         ]
@@ -170,9 +170,29 @@
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
+          },
+          {
+            "id": "e0a5bfef7fd066c4",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "26307c6c7fd01ec0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,12 +221,14 @@
   },
   "active": "d13d1e896b9ed863",
   "lastOpenFiles": [
-    "Pasted image 20250430112802.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.2.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250430112802.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211207.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211304.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250429201109.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.3.md",
-    "Pasted image 20250429201109.png",
-    "Pasted image 20250429201013.png",
-    "Pasted image 20250429192809.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.2.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250429201013.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250429192809.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.1.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.1.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.3.md",
@@ -214,17 +236,15 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.5.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.4.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.2.md",
-    "Pasted image 20250428212151.png",
-    "Pasted image 20250428212102.png",
-    "Pasted image 20250428211958.png",
-    "Pasted image 20250428211926.png",
-    "Pasted image 20250428211459.png",
-    "Pasted image 20250428211449.png",
-    "Pasted image 20250428211410.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428212151.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428212102.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211958.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211926.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211459.png",
     "notas_permanentes/grafico_de_inovacao.md",
     "notas bibliograficas/🧑🏽‍💻desenvolvimento pessoal/0otimizacao de estudo/0tabela_de_revisão.md",
     "notas bibliograficas/💼 carreira/programacao/Por onde começar um projeto.md",
-    "notas bibliograficas/💼 carreira/Certificações que seria bom eu tirar.md",
+    "notas bibliograficas/💼 carreira/Certificações que seria bom  conseguir.md",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/00-Casa/00-Meus documentos/artigo_de_inteligencia_artificial_tratamento_de_analise_de_dados_não_estruturados-attention-is-all-you-need-Paper.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Engenharia de software/Atividade Conceitual-trabalho.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Redes/NiltonDionisio Guerra-Partner NDG Linu-certificate.pdf",
