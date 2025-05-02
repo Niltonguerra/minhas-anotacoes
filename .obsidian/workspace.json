@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "e74a328f4ffe2909",
+    "type": "split",
+    "children": [
+      {
+        "id": "d92b04a61fc5338f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13d1e896b9ed863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lesson 2.3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86a6c7af9a6792f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00054995068941d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a94081eb84fb2b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "442575ccc9585d0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ae385e8e5901ef46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:direitoAutoral",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "6d280047996c7655",
+    "type": "split",
+    "children": [
+      {
+        "id": "040c3fbe8594b1ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd6350e009073dfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72546342dc2e9163",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e9d4bd29557ce75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🎯5-01-24 até 11-01-25"
+            }
+          },
+          {
+            "id": "472fbe59cb0c0d10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🎯5-01-24 até 11-01-25"
+            }
+          },
+          {
+            "id": "d6f040d8f7209184",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🎯5-01-24 até 11-01-25"
+            }
+          },
+          {
+            "id": "db92df186ef2767c",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d13d1e896b9ed863",
+  "lastOpenFiles": [
+    "Pasted image 20250430112802.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.2.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.3.md",
+    "Pasted image 20250429201109.png",
+    "Pasted image 20250429201013.png",
+    "Pasted image 20250429192809.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.1.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.1.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.3.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta dia 28.04.25.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.5.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.4.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.2.md",
+    "Pasted image 20250428212151.png",
+    "Pasted image 20250428212102.png",
+    "Pasted image 20250428211958.png",
+    "Pasted image 20250428211926.png",
+    "Pasted image 20250428211459.png",
+    "Pasted image 20250428211449.png",
+    "Pasted image 20250428211410.png",
+    "notas_permanentes/grafico_de_inovacao.md",
+    "notas bibliograficas/🧑🏽‍💻desenvolvimento pessoal/0otimizacao de estudo/0tabela_de_revisão.md",
+    "notas bibliograficas/💼 carreira/programacao/Por onde começar um projeto.md",
+    "notas bibliograficas/💼 carreira/Certificações que seria bom eu tirar.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/00-Casa/00-Meus documentos/artigo_de_inteligencia_artificial_tratamento_de_analise_de_dados_não_estruturados-attention-is-all-you-need-Paper.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Engenharia de software/Atividade Conceitual-trabalho.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Redes/NiltonDionisio Guerra-Partner NDG Linu-certificate.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/trabalho do 1sementre/2022-05-29 03-42-13.mkv",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/ANPD.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Ética e Moral.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/INTRODUÇÃO À LGPD NO DESENVOLVIMENTO DE SOFTWARE.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/LGPD  lei Geral de proteção de dados.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/marco civil da internet.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/marco da internet.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Órgãos que gerenciam as patentes.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Propriedade industrial.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Propriedade intelectual.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/propriedade sui generis.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/STF.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/mineracao_dados/aula dia 9_11_24.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/nuvem 2/trabalho de resumo de videos/resumo do vídeo 1.md",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/nuvem 2/trabalho de resumo de videos/resumo_dos_videos_para_entregar.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/testes de software/arquivo apenas com os testes definidos.pdf",
+    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/5 semestre/computação em nuvem/Revisao_Computacao_NuvemI_P1.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
