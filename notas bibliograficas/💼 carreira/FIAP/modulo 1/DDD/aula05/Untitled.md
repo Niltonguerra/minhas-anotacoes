@@ -62,3 +62,17 @@ table of contents: Create table of contents
 | Exemplo clássico | Dinheiro, Endereço  | Cliente, Pedido            |
 ### 🧠 Resumo Filosófico:
 ####  Objetos de valor **são definidos por seus atributos**, enquanto entidades **são definidas por sua identidade**.
+
+
+
+
+## Agregados
+- são coisas dentro de uma entidade que é a ação entre duas outras entidades  
+![[Pasted image 20250503182645.png]]
+
+![[Pasted image 20250503182223.png]]
+![[Pasted image 20250503182208.png]]
+![[Pasted image 20250503182447.png]]
+![[Pasted image 20250503182453.png]]
+
+
