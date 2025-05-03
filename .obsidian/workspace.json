@@ -191,7 +191,8 @@
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
