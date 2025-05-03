@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Sem título.md",
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "977c293f83697543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:direitoAutoral",
+                "query": "tag:tecnologia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +236,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d13d1e896b9ed863",
+  "active": "977c293f83697543",
   "lastOpenFiles": [
+    "Pasted image 20250503180348.png",
+    "Pasted image 20250503180322.png",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Untitled.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.5.md",
     "Pasted image 20250503173303.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250503173045.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer executar o DDD.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Sem título.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.4.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250503160630.png",
@@ -238,7 +258,6 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250428211304.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250429201109.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.2.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250429201013.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2/lesson 2.1.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.1.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.3.md",
@@ -260,7 +279,6 @@
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/marco civil da internet.md",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/marco da internet.md",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Órgãos que gerenciam as patentes.md",
-    "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/etica-e-moral- materia-facul/Propriedade industrial.md",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/nuvem 2/trabalho de resumo de videos/resumo_dos_videos_para_entregar.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/6semestre/testes de software/arquivo apenas com os testes definidos.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/5 semestre/computação em nuvem/Revisao_Computacao_NuvemI_P1.pdf",

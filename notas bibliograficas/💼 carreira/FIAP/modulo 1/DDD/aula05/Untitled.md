@@ -1,5 +1,5 @@
 ---
-Date: 2025-04-22T16:15:00
+Date: 2025-05-03T18:02:00
 tags:
   - tecnologia/DDD
 ---
@@ -16,25 +16,14 @@ ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 comando para criar o sumário automaticamente: 
 table of contents: Create table of contents
 
-
-
 # Explicação dos tópicos:
 
-![[Pasted image 20250422161904.png]]
+
+## Entidades
+- quando se coloca um id em um registro ele virá uma entidade
+![[Pasted image 20250503180322.png]]
+
+![[Pasted image 20250503180348.png]]
 
 
-![[Pasted image 20250422162030.png]]
-- as regras de negócio não devem ter duplicação
-
-## Objetos de valor
-![[Pasted image 20250422163157.png]]
-- objetos de valor não tem identificados, eles em si são os próprios identificadores
-- exemplo:
-	- endereço
-- nunca se atualiza, mas sim, se cria um novo sempre
-
-exemplo:
-![[Pasted image 20250422163627.png]]
-
-
-
+## Quando usar uma entidade e quando usar um objeto de valor
