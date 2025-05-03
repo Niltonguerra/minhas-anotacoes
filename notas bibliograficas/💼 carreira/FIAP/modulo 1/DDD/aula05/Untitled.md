@@ -74,5 +74,10 @@ table of contents: Create table of contents
 ![[Pasted image 20250503182208.png]]
 ![[Pasted image 20250503182447.png]]
 ![[Pasted image 20250503182453.png]]
+![[Pasted image 20250503183356.png]]
+
+
+![[Pasted image 20250503183920.png]]
+- são regras de negócio que não ficam na entidade, mas alheia a mesma e se comunicação com varias entidades e agregados  
 
 
