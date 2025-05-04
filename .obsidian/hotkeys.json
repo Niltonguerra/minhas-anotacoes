@@ -16,5 +16,13 @@
       ],
       "key": "E"
     }
+  ],
+  "vault-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

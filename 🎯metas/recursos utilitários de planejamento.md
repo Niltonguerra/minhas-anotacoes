@@ -1,3 +1,0 @@
-emojis para usar:
-✅
-❌
