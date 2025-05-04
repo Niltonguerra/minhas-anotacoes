@@ -9,5 +9,6 @@ Enter your Week 2 Discussion Post here.
 
 Comment thoughtfully (1-2 sentences) on two other learners' posts.
 
-
-no meu estado evi
+Answer: Um problema importante na minha comunidade local é a desigualdade social, que afeta o acesso à educação de qualidade, oportunidades de emprego e serviços básicos para pessoas que vivem em áreas com poucos recursos.
+Uma organização que trabalha para lidar com isso é a Pro Morato, uma ONG brasileira que atua nas periferias de São Paulo e outras regiões, oferecendo programas educacionais, capacitação profissional e projetos de desenvolvimento social.
+A Pro Morato constrói confiança trabalhando em parceria com lideranças locais, mantendo a transparência em suas ações e resultados e gerando impacto real por meio do engajamento comunitário de longo prazo e do empoderamento de jovens.
