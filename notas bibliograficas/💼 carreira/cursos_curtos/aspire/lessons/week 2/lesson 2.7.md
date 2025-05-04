@@ -19,5 +19,11 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+
+![[Pasted image 20250504144716.png]]
+
+
+
  How does trust affect the examples discussed in this video differently compared to the Alibaba and Rural Taobao examples from the last video?
- Answer: no caso do alibaba ou do rural taobao a confiança foi conquistada para servir como core da empresa, onde é usada como pedra fundamental para as operações da empresa atravésdo intercabio de mercadoria e valor do produto comprado que é gerenciado pela confiança agregada a marca alibaba ou taobal, já no caso da microfinance é diferente por conta que ela age como confiança dos funcionarios para com seus empregadores, sendo suada para que os funcionarios confiem em seus empregadores e trabalhem para poder assim gerar lucro para a empresa no final
+ Answer: No caso do Alibaba ou do Rural Taobao, a confiança foi construída para se tornar o núcleo da empresa — funcionando como pedra fundamental de suas operações. Essa confiança é refletida no intercâmbio de mercadorias e no valor dos produtos comprados, sendo gerenciada por meio da credibilidade agregada à marca Alibaba.  
+Já no caso da microfinança, a lógica é diferente: a confiança atua principalmente na relação entre funcionários e empregadores. Nesse modelo, é essencial que os colaboradores confiem em seus empregadores, pois essa confiança é o que sustenta o comprometimento no trabalho e, consequentemente, a geração de lucro para todos os envolvidos.
