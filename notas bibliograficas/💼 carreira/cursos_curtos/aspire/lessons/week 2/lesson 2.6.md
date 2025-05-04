@@ -19,7 +19,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
+![[Pasted image 20250503190745.png]]
 
 
 
