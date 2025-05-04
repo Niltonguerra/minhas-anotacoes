@@ -30,6 +30,7 @@ table of contents: Create table of contents
 ![[Pasted image 20250504072941.png]]
 
 
+![[Pasted image 20250504142241.png]]
 
-
-
+Why does Prof. Khanna describe U.S. e-commerce as the "dessert"?
+Answer:Ele disse isso porque, diferente das economias emergentes, os Estados Unidos possuem um nível muito maior de confiança entre as pessoas. Por exemplo, lá é comum confiar que, ao comprar algo pela internet, o produto realmente será entregue em sua casa. Já em muitos países com economias emergentes, essa confiança ainda não é tão consolidada — é comum surgir a dúvida: _"Será que, se eu colocar meu dinheiro aqui na internet, o produto realmente vai chegar na minha casa?"_
