@@ -8,112 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d13d1e896b9ed863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entidades, Agregados e serviços de domínio"
-            }
-          },
-          {
-            "id": "977c293f83697543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entidades, Agregados e serviços de domínio"
-            }
-          },
-          {
-            "id": "5aec811b5287a622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entidades, Agregados e serviços de domínio"
-            }
-          },
-          {
-            "id": "622d85982e33f1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Entidades, Agregados e serviços de domínio"
-            }
-          },
-          {
-            "id": "689f00e12e259f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula03/contexto delimitado 3.2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "contexto delimitado 3.2"
-            }
-          },
-          {
-            "id": "96bd04c2b4e19ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deus te amo!!!.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Deus te amo!!!"
-            }
-          },
-          {
             "id": "39c83b0b058dd01f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.1.md",
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lesson 3.1"
+              "title": "Event Storming"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -287,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,8 +223,12 @@
   },
   "active": "39c83b0b058dd01f",
   "lastOpenFiles": [
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/tarefa.md",
+    "Pasted image 20250504182448.png",
+    "Pasted image 20250504181906.png",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.1.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/tarefa.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/images/Pasted image 20250504144716.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/lesson 2.8.md",
@@ -343,17 +258,13 @@
     "notas bibliograficas/🧑🏽‍💻desenvolvimento pessoal/seja uma pessoa melhor",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Untitled.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250503183920.png",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250503183356.png",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250503182645.png",
-    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250503180322.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/lesson 2.5.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/lesson 2.4.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/lesson 2.3.md",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/00-Casa/00-Meus documentos/artigo_de_inteligencia_artificial_tratamento_de_analise_de_dados_não_estruturados-attention-is-all-you-need-Paper.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Engenharia de software/Atividade Conceitual-trabalho.pdf",
     "notas bibliograficas/💼 carreira/OneDrive-Fatec_Centro_Paula_Souza/1sementre/Redes/NiltonDionisio Guerra-Partner NDG Linu-certificate.pdf",
