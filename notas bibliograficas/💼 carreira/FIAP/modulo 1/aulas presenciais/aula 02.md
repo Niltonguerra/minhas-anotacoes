@@ -50,8 +50,15 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250507211427.png]]
 
+![[Pasted image 20250507211519.png]]
+![[Pasted image 20250507211604.png]]
 
 
+![[Pasted image 20250507212408.png]]
+
+
+
+![[Pasted image 20250507212627.png]]
 
 
 
