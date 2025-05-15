@@ -14,11 +14,10 @@ comando para criar o sumário automaticamente:
 table of contents: Create table of contents
 
 
-
 # Explicação dos tópicos:
+![[Pasted image 20250514215924.png]]
 
-
-
+![[Pasted image 20250514215932.png]]
 
 
 
