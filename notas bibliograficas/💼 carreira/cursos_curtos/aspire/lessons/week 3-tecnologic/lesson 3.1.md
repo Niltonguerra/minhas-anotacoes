@@ -19,7 +19,7 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250514215932.png]]
 
+![[Pasted image 20250514220403.png]]
+![[Pasted image 20250514220855.png]]
 
-
-
-
+![[Pasted image 20250514220834.png]]
