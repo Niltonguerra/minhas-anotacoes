@@ -25,7 +25,8 @@ table of contents: Create table of contents
 ![[Pasted image 20250514230823.png]]
 
 
-
+The lecture went over the idea that there will always be resistence towards new technology. What are your thoughts on this? How does it affect your own community?
+Answer:acredito que isso sempre vai acontecer, muito por conta que as pessoas no fundo tem medo, não apenas de serem substituidas, mas que todo o esforço 
 
 
 
