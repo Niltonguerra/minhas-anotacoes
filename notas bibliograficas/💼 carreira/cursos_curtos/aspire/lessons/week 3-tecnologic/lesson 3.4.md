@@ -40,10 +40,13 @@ table of contents: Create table of contents
 ![[Pasted image 20250514235128.png]]
 ![[Pasted image 20250515000154.png]]
 
+![[Pasted image 20250515001039.png]]
 
 
 
-
+Describe the basics of the AI Factory in your own words.  
+Answer: é uma empresa que usa a IA para com muito poucas pessoas poder atender milhares de pessoas mediante o uso de IA como auxiliadora 
+![[Pasted image 20250515001555.png]]
 
 
 
