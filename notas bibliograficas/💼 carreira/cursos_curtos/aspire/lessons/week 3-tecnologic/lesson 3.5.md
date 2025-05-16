@@ -40,4 +40,8 @@ table of contents: Create table of contents
 ![[Pasted image 20250516070329.png]]
 
 Use your own words to describe the findings of the study examining Human + AI collaboration over the capability frontier of AI performance.
-Answer: A IA é muito poderosa, todavia, ainda pode gerar alucinações, mediante esforço humano juntamente com a IA temos resultados interesssante
+Answer: A IA é muito poderosa, todavia, ainda pode gerar alucinações, mediante esforço humano juntamente com a IA temos resultados interessante
+
+![[Pasted image 20250516122156.png]]
+
+
