@@ -42,7 +42,8 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250516124316.png]]
 
+![[Pasted image 20250516125428.png]]
 
 Briefly summarize why AI-first companies are facing backlash. How do you plan to use AI available to you as a tool rather than see it as a threat?
-Answer: As empresas que priorizam AI estão enfrentando reações negativas por que as pessoa temem perder seus empregos, por conta que essa nova mudança no mundo assusta as pessoas, assim como também muitas vezes 
-
+Answer: Muitas empresas que adotam inteligência artificial têm enfrentado reações negativas, principalmente devido ao receio das pessoas de perderem seus empregos. Essa transformação tecnológica ainda causa insegurança, especialmente porque, em muitos casos, as empresas de IA não deixam claro como obtêm os dados utilizados ou quais informações dos usuários estão sendo coletadas para treinar e operar essas ferramentas.
+No meu caso, pretendo utilizar a IA como uma aliada: uma ferramenta de busca mais eficiente e acessível que o Google, além de um recurso valioso para refatorar textos — tornando-os mais claros, objetivos e fáceis de compreender.
