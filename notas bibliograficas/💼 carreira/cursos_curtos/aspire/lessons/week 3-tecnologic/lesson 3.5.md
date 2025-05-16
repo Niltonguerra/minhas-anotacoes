@@ -28,8 +28,14 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250516065359.png]]
 
+![[Pasted image 20250516065735.png]]
 
 
+![[Pasted image 20250516065813.png]]
 
+![[Pasted image 20250516065947.png]]
 
+![[Pasted image 20250516070309.png]]
+
+![[Pasted image 20250516070329.png]]
 
