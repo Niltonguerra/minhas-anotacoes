@@ -6,5 +6,3 @@ Answer: sim, por que a AI permite que as pessoas possam ser mais eficientes em s
 Answer:sim, pois atraves da tecnologia é possível ajudar a minha comunidade através de um aplicativo que facilite de o gerenciamento financeiro das pessoas.
 (Yes, because technology makes it possible to create solutions that can help my community, such as an app that simplifies personal financial management.)
 
-
-muito legal essa 
