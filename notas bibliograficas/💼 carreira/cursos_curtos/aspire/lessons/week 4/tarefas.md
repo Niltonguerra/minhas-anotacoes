@@ -23,7 +23,41 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250517161424.png]]
 
-![[Excalidraw/Drawing 2025-05-17 16.15.32.excalidraw]]
 
+## Specific:
+- O que exatamente você quer alcançar?
+    
+- Evite objetivos vagos. Seja claro e direto.
+    
+- Exemplo ruim: “Quero melhorar.”
+    
+- Exemplo bom: “Quero criar um aplicativo de finanças pessoais para minha comunidade.”
 
+## Measurable:
 
+- Como você vai medir seu progresso?
+    
+- Use números, metas claras ou critérios verificáveis.
+    
+- Exemplo: “Quero alcançar 1.000 downloads no primeiro mês.”
+## Attainable:
+- É possível atingir esse objetivo com os recursos e habilidades que você tem?
+    
+- Considere os limites reais, mas sem deixar de se desafiar.
+    
+- Exemplo: “Tenho conhecimento em Flutter e consigo desenvolver um MVP em 2 meses.”
+
+## Relevant:
+- Esse objetivo faz sentido para você ou sua comunidade?
+    
+- Está alinhado com seus valores, metas maiores ou com uma necessidade real?
+    
+- Exemplo: “O aplicativo ajuda pessoas da minha comunidade a controlarem suas finanças, algo que muitos têm dificuldade.”
+
+## Time-bound:
+
+- Qual é o prazo para alcançar esse objetivo?
+    
+- Definir um prazo ajuda a manter o foco e a motivação.
+    
+- Exemplo: “Quero lançar a primeira versão até o final do próximo semestre.”
