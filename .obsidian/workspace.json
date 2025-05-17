@@ -56,16 +56,15 @@
             "id": "4d5f0713e1cbb7ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/prova_final.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 842,
-                "zoom": 1.6726890756302522
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula 02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "prova_final"
+              "icon": "lucide-file",
+              "title": "aula 02"
             }
           }
         ],
@@ -268,8 +267,9 @@
   },
   "active": "4d5f0713e1cbb7ec",
   "lastOpenFiles": [
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Outcomes.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 16042025.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/prova_final.pdf",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Outcomes.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/nilton_dionisio_guerra_aspire_institute_application.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Project Plan.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Problem Statemednt.md",
