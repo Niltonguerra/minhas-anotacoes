@@ -1,7 +1,7 @@
 ---
-Date: ""
+Date: 2025-05-17T16:14:00
 tags:
-  - tecnologia
+  - AspireLeaders
 ---
 # Notas conectadas:
 

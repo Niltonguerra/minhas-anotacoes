@@ -3,7 +3,7 @@ Date: 2025-05-17T16:14:00
 tags:
   - AspireLeaders
 ---
-d# Notas conectadas:
+# Notas conectadas:
 
 
 # Resumo da nota:
@@ -21,8 +21,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
-
-![[Pasted image 20250517155822.png]]
+![[Pasted image 20250517160103.png]]
 
 
 

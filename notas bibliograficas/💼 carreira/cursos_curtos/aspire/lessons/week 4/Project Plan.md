@@ -1,7 +1,7 @@
 ---
-Date: ""
+Date: 2025-05-17T16:14:00
 tags:
-  - tecnologia
+  - AspireLeaders
 ---
 # Notas conectadas:
 
@@ -20,6 +20,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+![[Pasted image 20250517160054.png]]
 
 
 
