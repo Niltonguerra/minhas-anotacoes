@@ -66,3 +66,15 @@ Pode-se reduzir custos com parcerias com universidades ou incubadoras que apoiem
 
 
 
+
+The solution identified is the development of a personal financial management application specifically aimed at low-income communities. The proposal is to create a simple, accessible and intuitive tool, based on a one-time purchase model, avoiding recurring monthly charges that often alienate users with low incomes. The application will offer features such as expense control, setting savings goals, viewing graphs and financial education tips, always using simple language that is appropriate to the local reality. The proposal's unique feature is its focus on social inclusion and financial accessibility. While most applications on the market use models based on monthly subscriptions, this project seeks to market the application for a single and affordable price, prioritizing long-term social impact, especially among users with lower purchasing power.
+
+To implement the project, it would be ideal to have a team composed of different profiles: a mobile developer with experience in React Native, responsible for creating the multiplatform application (Android and iOS); a UX/UI designer, to ensure a user-friendly and accessible interface for people with little familiarity with technology; a financial education specialist, who will contribute relevant content and features; a person responsible for marketing and promotion, who will take care of the launch strategy and achieving the goal of 500 downloads in the first month; and, finally, a person from the community itself, who will act as a key user or tester, helping to validate the functionalities and ensure that the application is aligned with real local needs.
+
+In terms of resources and support, the project requires access to development tools such as React Native, Supabase, MongoDB and Figma. It will also be important to have the support of mentors experienced in fintech or social impact projects, promotion strategies through social networks, partnerships with local NGOs, technical schools and, if possible, institutional support through scholarships, accelerators or innovation notices.
+
+The estimated initial cost for developing the project ranges from R$8,000 to R$15,000, including online tools and services (between R$1,000 and R$2,000), hiring freelance developers and designers (between R$5,000 and R$10,000), marketing and advertising campaigns (between R$1,000 and R$2,000), and testing with post-MVP improvements (around R$1,000). It is worth noting that this amount can be reduced with strategic partnerships, such as support from universities or social project incubators.
+
+The estimated timeline for the project is distributed as follows: planning, interface design, and definition of priority functionalities will be carried out between August and September. The development of the first version (MVP) and testing with local users will take place in October and November. The official launch of the application and the advertising campaign will begin in December. Finally, in January, initial feedback will be collected to plan future product improvements.
+
+
