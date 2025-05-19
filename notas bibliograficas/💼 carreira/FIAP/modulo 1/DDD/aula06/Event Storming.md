@@ -23,7 +23,7 @@ table of contents: Create table of contents
 
 - Event Storming precisa ter comida 🤣🤣🤣🤣🤣
 	- ("programador é come mais que crente 🤣🤣🤣")
-		- é piada, kkkkk
+		- (é piada, kkkkk)
 
 
 
