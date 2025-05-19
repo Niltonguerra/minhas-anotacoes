@@ -35,5 +35,7 @@ table of contents: Create table of contents
 - um comando sempre precisa de um um ator ou politica
 
 
-7.
-
+### 7. definição  do modelo de leitura
+![[Pasted image 20250519201433.png]]
+- o modelo de leitura se refere a interface do usuário
+- o modelo de leitura sempre deve vir antes do comando
