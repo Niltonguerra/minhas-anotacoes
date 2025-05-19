@@ -29,5 +29,15 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250504182448.png]]
 
+- dica: caso vá usar o software MIRO: agrupe os elementos no miro, para selecionar todos de uma vez só 
+
+#passos do 
+## Brain storming
+![[Pasted image 20250519182325.png]]
+
+- como detectar que é para parar o brain storming?
+	- quando fica muito lento o surgimento de novas ideias
+- o que fazer quando sentir que é para parar?
+	- repasse o que foi visto com todos
 
 
