@@ -31,8 +31,8 @@ table of contents: Create table of contents
 
 - dica: caso vá usar o software MIRO: agrupe os elementos no miro, para selecionar todos de uma vez só 
 
-#passos do 
-## Brain storming
+## passos do Event Storming
+### 1.Brain storming
 ![[Pasted image 20250519182325.png]]
 
 - como detectar que é para parar o brain storming?
@@ -41,3 +41,16 @@ table of contents: Create table of contents
 	- repasse o que foi visto com todos
 
 
+### 2.organizar as ideias
+![[Pasted image 20250519182836.png|375]]![[Pasted image 20250519183017.png|325]]![[Pasted image 20250519183052.png|300]]
+
+
+### 3. trabalhar com os pontos de atenção 
+![[Pasted image 20250519183716.png|500]] ![[Pasted image 20250519183913.png|500]]
+
+
+### 4. definição dos eventos pivotais
+![[Pasted image 20250519184036.png|500]]
+
+o que é um eventos pivotal, é quando você muda o contexto do que você esta fazendo, por exemplo:
+- 
