@@ -53,4 +53,6 @@ table of contents: Create table of contents
 ![[Pasted image 20250519184036.png|500]]
 
 o que é um eventos pivotal, é quando você muda o contexto do que você esta fazendo, por exemplo:
-- 
+- 1º contexto: criação da atividade
+entre eles você deve colocar um evento pivotal
+- 2º contexto: correção da atividade
