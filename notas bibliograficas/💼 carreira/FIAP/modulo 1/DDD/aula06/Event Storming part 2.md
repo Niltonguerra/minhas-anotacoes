@@ -52,3 +52,25 @@ table of contents: Create table of contents
 ### 9. como criar o contexto delimitado
 ![[Pasted image 20250519203318.png]]
 
+por que é importante definir um contexto delimitado?
+para que possa definir um escopo para onde um time vai atuar
+
+#### como definir um contexto delimitado?
+eles costumam se relacionar pelos seguintes itens
+- Linguagem ubíqua comum.
+- Regras de negócio específicas.
+- Entidades e agregados comuns.
+
+#### exemplos de contexto delimitado:
+- **Contexto de Catálogo**
+    - Eventos: "Produto Cadastrado", "Produto Atualizado"
+    - Responsável por manter os dados dos produtos.
+
+- **Contexto de Carrinho de Compras**
+    - Eventos: "Item Adicionado ao Carrinho", "Carrinho Abandonado"
+
+- **Contexto de Pedido**
+    - Eventos: "Pedido Realizado", "Pedido Cancelado"
+
+- **Contexto de Pagamento**
+    - Eventos: "Pagamento Aprovado", "Pagamento Rejeitado"
