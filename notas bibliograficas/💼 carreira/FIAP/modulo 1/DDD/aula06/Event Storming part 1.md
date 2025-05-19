@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2025-05-19T19:48:00
 tags:
   - tecnologia/DDD
 ---
