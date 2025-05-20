@@ -7,19 +7,16 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+nessa nota vimos o que é upstream(etapa de planejamento) e downstream(execução do planejamento) assim também como o que uma boa documentação precisa ter, sendo ela: a persona, a jornada do problema
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#O que é Upstream e downStream?|O que é Upstream e downStream?]]
+- [[#uma boa documentação tem|uma boa documentação tem]]
+- [[#persona|persona]]
+- [[#Jornada do problema|Jornada do problema]]
+- [[#Requisitos funcionais e não funcionais|Requisitos funcionais e não funcionais]]
 
 # Explicação dos tópicos:
-
-
 ## O que é Upstream e downStream?
 ![[Pasted image 20250520000016.png]]
 ![[Pasted image 20250520000107.png]]
@@ -52,4 +49,19 @@ table of contents: Create table of contents
 - exemplos de objetivos:
   ![[Pasted image 20250520001409.png]]
 
-- dever ser precisos e claros, livres de qualquer im
+- dever ser precisos e claros, livres de qualquer dupla interpretação
+
+
+![[Pasted image 20250520001552.png]]
+- é a nova jornada que com a implementação do sistema, o usuário vai passar a executar
+
+![[Pasted image 20250520001741.png]]
+
+
+## Requisitos funcionais e não funcionais
+![[Pasted image 20250520001749.png]]
+
+![[Pasted image 20250520001807.png]]
+
+![[Pasted image 20250520001900.png]]
+

@@ -7,9 +7,7 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+nessa aula vimos os 4 riscos que um projeto digital corre, além disso também vimos 2 perguntas para se considerar antes de começar um projeto e tudo isso acompanhado de muitos exemplos, além disso também vimos como mitigar os riscos, problemas comuns, boas práticas e um exemplo prático
 
 # Tópicos:
 - [[#4 riscos de um projeto|4 riscos de um projeto]]
