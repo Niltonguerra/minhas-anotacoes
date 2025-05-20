@@ -7,15 +7,15 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+nessa nota vimos novamente o que é definition of ready e definition of done, mas dessa vez vimos de forma mais aprofundada, com exemplos de critérios de aceite para os dois, assim como também vimos os resultados positivos que essas abordagens podem trazer
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#o que é Definition of ready?|o que é Definition of ready?]]
+	- [[#o que é Definition of ready?#exemplos  de requisitos para a aprovação do definition of ready|exemplos  de requisitos para a aprovação do definition of ready]]
+- [[#o que é Definition of Done?|o que é Definition of Done?]]
+	- [[#o que é Definition of Done?#exemplos  de requisitos para a aprovação do definition of done|exemplos  de requisitos para a aprovação do definition of done]]
+- [[#ciclo da vida de uma tarefa|ciclo da vida de uma tarefa]]
+- [[#resultados que esses processos podem trazer|resultados que esses processos podem trazer]]
 
 # Explicação dos tópicos:
 

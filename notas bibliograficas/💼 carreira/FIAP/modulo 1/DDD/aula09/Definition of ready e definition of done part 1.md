@@ -7,10 +7,7 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-
+essa nota fala sobre o que é os eventos de upstream, que é a etapa de planejamento e downstream que é a etapa de execução, além disso também fala de técnicas para estimar um projeto, sendo as técnicas comentadas a Fibonacci e a Monte Carlo
 # Tópicos:
 - [[#o que deveria ser definido no upstream?|o que deveria ser definido no upstream?]]
 - [[#como estimar um projeto?|como estimar um projeto?]]
