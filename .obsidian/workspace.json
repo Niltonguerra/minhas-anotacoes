@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Event Storming part 2"
+              "title": "Refinamento Técnico"
             }
           }
         ]
@@ -219,10 +219,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de44ad75ecb48fbe",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/typescript/TS  - Aula 2.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/typescript/TS  - Aula 1.pdf",
+    "Pasted image 20250520085137.png",
+    "Pasted image 20250520085111.png",
+    "Pasted image 20250520085058.png",
+    "Pasted image 20250520084741.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico.md",
@@ -233,12 +239,8 @@
     "Pasted image 20250520001741.png",
     "Pasted image 20250520001552.png",
     "Pasted image 20250520001409.png",
-    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520001012.png",
-    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520000647.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520001000.png",
-    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520000530.png",
     "notas bibliograficas/💼 carreira/desing/Design atômico.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
@@ -250,7 +252,6 @@
     "notas bibliograficas/arquivado/certificados/Alura",
     "notas bibliograficas/arquivado/certificados/Nova pasta",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/3- Certificado Mercado de trabalho- Nilton.pdf",
-    "notas bibliograficas/arquivado/certificados/certificados SENAI/2- Certificado de finanças pessoais-Nilton.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula 02.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 16042025.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Outcomes.md",
@@ -266,7 +267,6 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.5.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.4.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.3.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.2.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
