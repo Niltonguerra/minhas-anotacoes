@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Design de código vs Arquitetura de software.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal/O que é arquitetura hexagonal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Design de código vs Arquitetura de software"
+              "title": "O que é arquitetura hexagonal"
             }
           }
         ]
@@ -221,9 +221,13 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "Pasted image 20250520204045.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Untitled.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/introdução ao design de código.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Design de código vs Arquitetura de software.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal/O que é arquitetura hexagonal.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Design de código vs Arquitetura de software.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
     "Pasted image 20250520200225.png",
     "Pasted image 20250520195830.png",
@@ -258,15 +262,11 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
