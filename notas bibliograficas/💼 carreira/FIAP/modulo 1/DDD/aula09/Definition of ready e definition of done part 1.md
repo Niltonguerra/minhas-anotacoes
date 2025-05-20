@@ -12,11 +12,10 @@ exemplo de tamanho:
 ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#o que deveria ser definido no upstream?|o que deveria ser definido no upstream?]]
+- [[#como estimar um projeto?|como estimar um projeto?]]
+	- [[#como estimar um projeto?#1º maneira: através do Fibonacci|1º maneira: através do Fibonacci]]
+	- [[#como estimar um projeto?#2º maneira: Monte Carlo|2º maneira: Monte Carlo]]
 
 # Explicação dos tópicos:
 
@@ -45,6 +44,8 @@ Resposta: não
 ![[Pasted image 20250520181057.png]]
 
 ![[Pasted image 20250520181122.png]]
-- você faz uma 
-![[Pasted image 20250520181230.png]]
+- você faz uma gráfico médio das entregas feitas mediante um período
+- para isso é necessário que o time já esteja a um bom tempo junto para usar essa estratégia
 
+![[Pasted image 20250520181230.png]]
+-  também é importante fazer um checklist na etapa de Downstream
