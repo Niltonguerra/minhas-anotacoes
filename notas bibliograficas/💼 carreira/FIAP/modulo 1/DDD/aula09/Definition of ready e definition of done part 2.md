@@ -21,8 +21,22 @@ table of contents: Create table of contents
 
 ## o que é Definition of ready?
 ![[Pasted image 20250520184047.png]]
--  é quando 
+-  é uma serie de requisitos que são necessários serem cumpridos para que que um projeto possa deixar a etapa de upstream para a etapa de downstream 
+### exemplos  de requisitos para a aprovação do definition of ready
+![[Pasted image 20250520185246.png]]
+![[Pasted image 20250520185528.png]]
 
 
+## o que é Definition of Done?
+![[Pasted image 20250520184501.png]]
+- são os processos necessários para finalizar uma tarefa, por exemplo:
+- code review
+- aceite de QA
+- aceite de TL
+- aceite de PO
+
+
+## ciclo da vida de uma tarefa
+![[Pasted image 20250520184707.png]]
 
 
