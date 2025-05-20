@@ -1,7 +1,7 @@
 ---
 Date: 2025-05-20T19:35:00
 tags:
-  - tecnologia/
+  - tecnologia/Typescript
 ---
 # Notas conectadas:
 
@@ -13,17 +13,24 @@ ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
 
 # Explicação dos tópicos:
 
+## introdução
+### introdução a orientação a objeto
+![[Pasted image 20250520194210.png]]
+
+### por que usar Orientação a objeto com o typescript
+![[Pasted image 20250520194354.png]]
+
+### comparação entre ts e js
+![[Pasted image 20250520194538.png]]
 
 
+### fundamentos da OO(orientação a objeto) em ts
+![[Pasted image 20250520194819.png]]
 
-
+![[Pasted image 20250520195016.png]]
 
 
 
