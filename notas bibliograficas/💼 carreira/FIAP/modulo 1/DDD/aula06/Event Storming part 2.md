@@ -7,9 +7,7 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+nessa nota  continuamos a ver o que é event storming, dessa forma continuamos e vimos o que depois de definir os eventos pivotais, devemos definir os comandos, sendo esses sempre conectados com um ator/politica, depois vimos que precisamos definir os atores e politicas, depois vimos que o modelo de leitura é como se fosse a interface do usuário, além disso também vimos como usar os agregados e organiza-los, e por fim vimos como criar um contexto delimitado com exemplos de como criar o mesmo 
 
 # Tópicos:
 - [[#continuação do Event Storming...|continuação do Event Storming...]]

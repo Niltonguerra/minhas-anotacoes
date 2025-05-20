@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Levantamento de Requisitos part 2"
+              "title": "Event Storming part 2"
             }
           }
         ]
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,9 +221,11 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08",
     "Pasted image 20250520001900.png",
     "Pasted image 20250520001807.png",
@@ -234,8 +235,6 @@
     "Pasted image 20250520001409.png",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520001012.png",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520000647.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250520001000.png",

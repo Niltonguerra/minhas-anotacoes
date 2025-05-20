@@ -4,9 +4,7 @@ tags:
   - tecnologia/DDD
 ---
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+nessa nota iniciamos o estudo do event storming para isso, entendemos que é importante fazer com que todos os integrantes se sintam confortáveis, além disso também vimos que os passos para o mesmo são fazer um brain storming entre todos os integrantes, depois organizar as ideias, e depois seguir colocando pontos de atenção(dúvidas de como vão ser feitas as coisas) depois definir os eventos pivotais que são meio que o encerramento de uma ação, tipo cadastrar o usuário, ou enviar uma atividade, ou avaliar uma nota
 
 # Tópicos:
 - [[#O que é preciso para fazer um event storming?|O que é preciso para fazer um event storming?]]
