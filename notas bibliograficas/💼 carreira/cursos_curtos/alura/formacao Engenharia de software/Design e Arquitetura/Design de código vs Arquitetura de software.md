@@ -20,8 +20,13 @@ table of contents: Create table of contents
 
 
 
+## Desing de código
+![[Pasted image 20250520195817.png]]
+- 
 
-
-
-
-
+## Arquitetura de software
+![[Pasted image 20250520195830.png]]
+![[Pasted image 20250520200225.png]]
+- é uma visão de alto nível de como modelar um sistema
+- como por exemplo qual arquitetura você vai usar,por exemplo, se hexagonal/ se micro serviços/ arquitetura limpa e etc
+- basicam
