@@ -12,13 +12,19 @@ exemplo de tamanho:
 ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#continuação do Event Storming...|continuação do Event Storming...]]
+	- [[#continuação do Event Storming...#5. definir o comando|5. definir o comando]]
+		- [[#5. definir o comando#comandos são no presente, como:|comandos são no presente, como:]]
+	- [[#continuação do Event Storming...#6. criar os atores/politicas|6. criar os atores/politicas]]
+	- [[#continuação do Event Storming...#7. definição  do modelo de leitura|7. definição  do modelo de leitura]]
+	- [[#continuação do Event Storming...#8. como definir o agregado|8. como definir o agregado]]
+	- [[#continuação do Event Storming...#9. como criar o contexto delimitado|9. como criar o contexto delimitado]]
+		- [[#9. como criar o contexto delimitado#como definir um contexto delimitado?|como definir um contexto delimitado?]]
+		- [[#9. como criar o contexto delimitado#exemplos de contexto delimitado:|exemplos de contexto delimitado:]]
 
 # Explicação dos tópicos:
+
+
 ## continuação do Event Storming...
 ### 5. definir o comando
 ![[Pasted image 20250519194916.png]]

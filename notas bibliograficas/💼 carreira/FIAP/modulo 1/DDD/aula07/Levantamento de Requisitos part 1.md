@@ -12,10 +12,21 @@ exemplo de tamanho:
 ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#4 riscos de um projeto|4 riscos de um projeto]]
+- [[#Risco de Valor|Risco de Valor]]
+	- [[#Risco de Valor#2 perguntas importantes para se considerar antes de começar um projeto|2 perguntas importantes para se considerar antes de começar um projeto]]
+		- [[#2 perguntas importantes para se considerar antes de começar um projeto#exemplo de caso de falha no desenvolvimento de um projeto:|exemplo de caso de falha no desenvolvimento de um projeto:]]
+- [[#Risco de Negócio|Risco de Negócio]]
+	- [[#Risco de Negócio#exemplo|exemplo]]
+- [[#Risco de Usabilidade|Risco de Usabilidade]]
+	- [[#Risco de Usabilidade#exemplo:|exemplo:]]
+- [[#Risco técnico|Risco técnico]]
+	- [[#Risco técnico#exemplo:|exemplo:]]
+- [[#como mitigar os riscos?|como mitigar os riscos?]]
+	- [[#como mitigar os riscos?#planejamento de demandas|planejamento de demandas]]
+- [[#problemas comuns no desenvolvimento|problemas comuns no desenvolvimento]]
+- [[#Documentação de requisitos|Documentação de requisitos]]
+- [[#Exemplo prático|Exemplo prático]]
 
 
 # Explicação dos tópicos:

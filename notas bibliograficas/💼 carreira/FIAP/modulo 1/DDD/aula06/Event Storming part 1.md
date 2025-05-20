@@ -9,15 +9,16 @@ exemplo de tamanho:
 ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#O que é preciso para fazer um event storming?|O que é preciso para fazer um event storming?]]
+- [[#passos do Event Storming|passos do Event Storming]]
+	- [[#passos do Event Storming#1.Brain storming|1.Brain storming]]
+	- [[#passos do Event Storming#2.organizar as ideias|2.organizar as ideias]]
+	- [[#passos do Event Storming#3. trabalhar com os pontos de atenção|3. trabalhar com os pontos de atenção]]
+	- [[#passos do Event Storming#4. definição dos eventos pivotais|4. definição dos eventos pivotais]]
 
 # Explicação dos tópicos:
 
-
+## O que é preciso para fazer um event storming? 
 ![[Pasted image 20250504181906.png]]
 
 
