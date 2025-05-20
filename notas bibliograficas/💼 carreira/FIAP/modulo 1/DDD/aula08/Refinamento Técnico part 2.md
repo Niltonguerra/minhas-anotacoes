@@ -21,10 +21,10 @@ table of contents: Create table of contents
 - ser proativo nas perguntas
 - ser gentil e convidativo
 - não precisa se desculpar toda hora
-- tente gerar um clima gostoso
-- 
+- tente gerar um clima gostos
 
 
+![[Pasted image 20250520091804.png]]
 
 
 
