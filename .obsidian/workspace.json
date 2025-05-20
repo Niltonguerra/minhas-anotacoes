@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/introdução ao design de código.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Design de código vs Arquitetura de software.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "introdução ao design de código"
+              "title": "Design de código vs Arquitetura de software"
             }
           }
         ]
@@ -221,8 +221,10 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Untitled.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Design de código vs Arquitetura de software.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/introdução ao design de código.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
     "Pasted image 20250520200225.png",
     "Pasted image 20250520195830.png",
     "Pasted image 20250520195817.png",
@@ -260,13 +262,11 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-    "notas bibliograficas/💼 carreira/desing/Design atômico.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

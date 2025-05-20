@@ -2,6 +2,8 @@
 Date: 2025-05-20T19:22:00
 tags:
   - tecnologia/engenhariaDeSoftware
+  - tecnologia/DesignDeCodigo
+  - tecnologia/ArquiteturaDeSoftware
 ---
 # Notas conectadas:
 
