@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d92b04a61fc5338f",
+        "id": "bc0870bd435c51e0",
         "type": "tabs",
         "children": [
           {
-            "id": "39c83b0b058dd01f",
+            "id": "de44ad75ecb48fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/análise SMART.md",
+                "file": "notas bibliograficas/💼 carreira/desing/Design atômico.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "análise SMART"
-            }
-          },
-          {
-            "id": "70ff589a45f98096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/análise SMART.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "análise SMART"
-            }
-          },
-          {
-            "id": "7f7ea464eb109b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/análise SMART.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "análise SMART"
-            }
-          },
-          {
-            "id": "4d5f0713e1cbb7ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Levantamento de Requisitos"
+              "title": "Design atômico"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,23 +219,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d5f0713e1cbb7ec",
+  "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
-    "Pasted image 20250519211300.png",
-    "Pasted image 20250519210728.png",
-    "Pasted image 20250519210700.png",
-    "Pasted image 20250519210144.png",
-    "Pasted image 20250519205855.png",
-    "Pasted image 20250519205400.png",
-    "Pasted image 20250519205133.png",
-    "Pasted image 20250519204646.png",
-    "Pasted image 20250519204550.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519182325.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519182836.png",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos.md",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519211807.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519211735.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519211603.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519211300.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519210728.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519210700.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519210144.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519205855.png",
+    "notas bibliograficas/💼 carreira/FIAP/img/Pasted image 20250519205400.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07",
-    "Pasted image 20250519203318.png",
-    "Pasted image 20250519203052.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",

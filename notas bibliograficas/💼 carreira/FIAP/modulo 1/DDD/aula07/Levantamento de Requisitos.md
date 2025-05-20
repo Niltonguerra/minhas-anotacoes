@@ -102,7 +102,17 @@ table of contents: Create table of contents
 
 
 
+## Documentação de requisitos
+![[Pasted image 20250519211603.png]]
+-  definir o que vai ser feito no projeto
+- documentar tudo o que você fizer
 
+
+
+## Exemplo prático
+![[Pasted image 20250519211735.png]]
+
+![[Pasted image 20250519211807.png]]
 
 
 
