@@ -63,7 +63,47 @@ table of contents: Create table of contents
 	- integrava o e-mail com vários outros serviços 
 	- os usuários não gostaram do sistema
 
-## Risco de técnico
+## Risco técnico
+![[Pasted image 20250519210144.png]]
+- é não ter pessoas suficientes ou de tecnologia para desenvolver a demanda
+### exemplo:
+- Windows vista
+- era muito ruim o produto em si
+	- bugado
+	- difícil de usar 
+
+
+
+
+## como mitigar os riscos?
+![[Pasted image 20250519210700.png]]
+
+### planejamento de demandas
+![[Pasted image 20250519210728.png]]
+
+- backlog
+	- local onde se coloca todos os projetos que ainda não estão totalmente apresentáveis
+- levantamento de requisitos
+	- entender o problema e descrever o mesmo
+- refinamento técnico
+	- escolher as tecnologias para o projeto
+- Quebras técnicas e estimativas
+	- criar os cronogramas
+- pronto para desenvolvimento
+	- deixar tudo pronto para o desenvolvimento
+
+## problemas comuns no desenvolvimento
+![[Pasted image 20250519211300.png]]
+- não entender a demanda de desenvolvimento
+- ser uma coisa mais complexa do que se imagina
+- erros no planejamento e na execução 
+
+
+
+
+
+
+
 
 
 
