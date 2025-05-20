@@ -36,7 +36,21 @@ table of contents: Create table of contents
 - aceite de PO
 
 
+### exemplos  de requisitos para a aprovação do definition of done
+![[Pasted image 20250520185908.png]]
+![[Pasted image 20250520185945.png]]
+
+
 ## ciclo da vida de uma tarefa
 ![[Pasted image 20250520184707.png]]
 
 
+## resultados que esses processos podem trazer
+![[Pasted image 20250520190336.png]]
+- menos bugs 
+- desenvolvimentos mais fluídos
+- mais previsibilidade
+- menos interrupções
+- mais coisas entreges
+
+![[Pasted image 20250520190621.png]]![[Pasted image 20250520190929.png]]
