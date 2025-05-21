@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/O que é arquitetura hexagonal.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "O que é arquitetura hexagonal"
+              "title": "KISS"
             }
           }
         ]
@@ -219,18 +219,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/O que é arquitetura hexagonal.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Boas práticas na Modelagem de API's REST.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/o que é Clean Architecture.md",
     "Pasted image 20250520210151.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/O que é arquitetura hexagonal.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest/códigos de resposta de uma api rest.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest",
     "Pasted image 20250520204045.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Untitled.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Design de código vs Arquitetura de software.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
