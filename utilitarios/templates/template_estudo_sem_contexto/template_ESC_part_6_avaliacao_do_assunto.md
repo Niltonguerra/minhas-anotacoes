@@ -15,17 +15,27 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## Análise Crítica e Avaliação
+### por que eu deveria usar ou não  essa ferramenta/conceito/recurso?
 
-## como ele funciona?
+### pontos fortes
 
-### "como cada parte dele funciona?"
+### pontos fracos
 
-### como as partes se comunicam entre si?
+### benefícios
+- escalabilidade
+- manutenibilidade
+- testabilidade
 
-### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
+### custos?
+- tempo necessário
+- complexidade
+- ele pode se tornar obsoleto?
+- ele pode ser descontinuado?
 
-### O que depende do quê no contexto do assunto estudado?
+### quando é recomendável usar ele?
 
+### quando não é recomendável usar ele?
+### alternativas para essa ferramenta?
 
-## quais são suas subpartes e como elas integram?
-
+### quais recursos são semelhantes a esse e por que?

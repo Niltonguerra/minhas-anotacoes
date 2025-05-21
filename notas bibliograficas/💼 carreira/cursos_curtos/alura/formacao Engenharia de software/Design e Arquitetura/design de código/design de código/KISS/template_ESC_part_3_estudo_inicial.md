@@ -16,8 +16,16 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## Validação e Revisão Externa:
+## como ele funciona?
 
-### Busque diferentes perspectivas
+### "como cada parte dele funciona?"
 
-### procure como foi usado em projeto reais esse assunto
+### como as partes se comunicam entre si?
+
+### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
+
+### O que depende do quê no contexto do assunto estudado?
+
+
+## quais são suas subpartes e como elas integram?
+

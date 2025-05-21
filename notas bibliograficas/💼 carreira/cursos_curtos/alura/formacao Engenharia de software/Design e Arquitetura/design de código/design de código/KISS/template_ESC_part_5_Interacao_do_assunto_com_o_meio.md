@@ -12,20 +12,11 @@ ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 comando para criar o sumário automaticamente: 
 table of contents: Create table of contents
 
-
-
 # Explicação dos tópicos:
 
-## como ele funciona?
+## O que depende do quê?
+### esse assunto está conectado com o que outros assuntos?
+### como ele se integra com os outros assuntos?
+### ele faz parte de algum outro assunto maior?
 
-### "como cada parte dele funciona?"
-
-### como as partes se comunicam entre si?
-
-### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
-
-### O que depende do quê no contexto do assunto estudado?
-
-
-## quais são suas subpartes e como elas integram?
-
+### ele contém em si outros assuntos menores?

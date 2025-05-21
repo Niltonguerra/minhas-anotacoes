@@ -17,7 +17,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 ## Análise Crítica e Avaliação
-### por que eu deveria usar ou não usar o mesmo?
+### por que eu deveria usar ou não  essa ferramenta/conceito/recurso?
 
 ### pontos fortes
 
@@ -37,6 +37,6 @@ table of contents: Create table of contents
 ### quando é recomendável usar ele?
 
 ### quando não é recomendável usar ele?
-### alternativas para para esse recurso
+### alternativas para essa ferramenta?
 
 ### quais recursos são semelhantes a esse e por que?

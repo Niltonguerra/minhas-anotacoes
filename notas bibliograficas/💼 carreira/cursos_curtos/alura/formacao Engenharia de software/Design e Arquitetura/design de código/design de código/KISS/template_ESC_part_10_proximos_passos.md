@@ -16,16 +16,14 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## como ele funciona?
+## Extensão e Conexões Futuras:
 
-### "como cada parte dele funciona?"
+### Como este conteúdo se conecta com outros estudos?
 
-### como as partes se comunicam entre si?
-
-### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
-
-### O que depende do quê no contexto do assunto estudado?
+### Quais são os próximos passos para me aprofundar ainda mais desse contexto? 
 
 
-## quais são suas subpartes e como elas integram?
+**(opcional)**
+-  tente identificar lacunas de melhoria do assunto ou zonas cinza que o assunto não abrange(não precisa se esforçar muito nisso, tente fazer isso por uns 15 - 30 min ) 
 
+-  se der, apenas se der, tente gravar um vídeo sobre o assunto estudado e publicar na internet

@@ -16,16 +16,22 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## como ele funciona?
+## levantamento de informações
 
-### "como cada parte dele funciona?"
+### Pré-Requisitos e Contexto
 
-### como as partes se comunicam entre si?
+- Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
 
-### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
-
-### O que depende do quê no contexto do assunto estudado?
+- Em que contexto este tópico se insere?
 
 
-## quais são suas subpartes e como elas integram?
+### Fontes Primárias e Autoridades
+
+- Quem são os principais autores/criadores/referências deste conteúdo? 
+
+- Quais são as principais fontes de conteúdo sobre esse assunto?
+
+- quais são as 3 ou 5 fontes mais autoritárias e completas sobre esse assunto
+
+- por que eu deveria usar o mesmo ou não devo usar?
 
