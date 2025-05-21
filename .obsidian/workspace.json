@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_8_analise_de_outras_perspectivas_do_assunto.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template_ESC_part_8_analise_de_outras_perspectivas_do_assunto"
+              "title": "introdução ao design de código"
             }
           }
         ]
@@ -191,13 +191,11 @@
               "title": "OZ Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,36 +218,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de44ad75ecb48fbe",
+  "active": "26307c6c7fd01ec0",
   "lastOpenFiles": [
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_7_exercitando_o_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Boas práticas na Modelagem de API's REST.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Design de código vs Arquitetura de software.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/O que é arquitetura hexagonal.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/o que é Clean Architecture.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_7_exercitando_o_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_8_analise_de_outras_perspectivas_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_9_resumo_geral_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_10_proximos_passos.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_6_avaliacao_do_assunto.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_6_avaliacao_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_6_avaliacao_do_assunto.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_5_Interacao_do_assunto_com_o_meio.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_5_Interacao_do_assunto_com_o_meio.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_4_estudo_aprofundado.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_3_estudo_inicial.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_5_Interacao_do_assunto_com_o_meio.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_4_estudo_aprofundado.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_3_estudo_inicial.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_3_estudo_inicial.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_2_análise_inicial.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_1_levantamento_de_informacoes.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_2_análise_inicial.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_1_levantamento_de_informacoes.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_1_levantamento_de_informacoes.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_2_análise_inicial.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_estudo_sem_contexto_geral.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Design de código vs Arquitetura de software.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_estudo_sem_contexto_geral.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula 02.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
     "utilitarios/templates/template_english.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_8_analise_de_outras_perspectivas_do_assunto.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_9_resumo_geral_do_assunto.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS/template_ESC_part_10_proximos_passos.md",
     "utilitarios/templates/template_estudo_sem_contexto 1",
     "utilitarios/templates/template_Cornell.md",
     "utilitarios/templates/template programação.md",
-    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_geral.md",
-    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_10_proximos_passos.md",
-    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_9_resumo_geral_do_assunto.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
@@ -258,7 +257,7 @@
     "utilitarios/templates/template_estudo_sem_contexto",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
@@ -267,7 +266,6 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520195016.png",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
