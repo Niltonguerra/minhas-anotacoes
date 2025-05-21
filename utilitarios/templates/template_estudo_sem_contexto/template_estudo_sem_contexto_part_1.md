@@ -90,38 +90,41 @@ table of contents: Create table of contents
 ### como ele se entrega com os outros assuntos?
 ### ele faz parte de alguma outro assunto maior?
 
-### ele contém em si outros estudos e a
-## 2.Mapeamento de Conceitos e Relações:
-
-- **Identifique as relações:**
-	- **Dependências:** O que depende do quê? (Ex: Casos de Uso dependem de Entidades, Controladores dependem de Casos de Uso, Frameworks dependem de Interfaces Adapter.)
-	- **Fluxos de Informação/Controle:** Como as informações se movem entre as partes? (Ex: Fluxo de dados em uma requisição HTTP através das camadas da CA.)
-	- **Princípios Subjacentes:** Quais princípios (Ex: SOLID, DRY, KISS) são aplicados em cada parte?
-- **Crie um glossário de termos específicos.**
-2. **Identificação de Regras, Princípios e Padrões:**
-    
-    - **Quais são as regras ou diretrizes fundamentais que governam este conteúdo?** (Ex: Regra da Dependência na Clean Architecture: As dependências devem apontar para dentro.)
-    - **Quais princípios gerais são articulados ou inferidos?** (Ex: Independência de Frameworks, Testabilidade, Manutenibilidade.)
-    - **Existem padrões de design ou modelos específicos associados?** (Ex: Camadas, Inversão de Dependência, Strategy, Repository.)
+### ele contém em si outros estudos e assuntos menores dentro de si?
 
 ---
 
 # Fase 3: Crítica, Aplicação e Validação (Funciona? Onde se aplica? Prós e Contras?)
+## Análise Crítica e Avaliação
+### por que eu deveria usar o mesmo ou não devo usar?
+### pontos fortes
 
-1. **Análise Crítica e Avaliação:**
+### benefícios
+- escalabilidade
+- manutenibilidade
+- testabilidade
+### pontos fracos
+### custos?
+- tempo necessário
+- complexidade
+- ele pode se tornar obsoleto?
+- ele pode ser descontinuado?
+
+### quando é recomendável usar ele?
+
+### quando não é recomendável usar ele?
+### alternativas para para esse recurso
+
+### recursos semelhantes a esse e por que são semelhantes a esse?
+
+
+## exercite o conhecimento adquirido
     
-    - **Vantagens/Benefícios:** Quais são os ganhos ou pontos fortes de aplicar este conteúdo? (Ex: Aumento da testabilidade, facilidade de manutenção, independência tecnológica.)
-    - **Desvantagens/Custos/Complexidade:** Quais são os desafios, trade-offs ou custos (financeiros, tempo, curva de aprendizado) associados? (Ex: Aumento da complexidade inicial, mais arquivos/camadas, curva de aprendizado para a equipe.)
-    - **Cenários de Aplicação Ideal:** Em que tipo de situação ou projeto este conteúdo brilha? (Ex: Sistemas de grande porte, complexos, com longa vida útil esperada, onde a lógica de negócio é crucial.)
-    - **Cenários Onde Não é Recomendado/Overkill:** Quando a aplicação deste conteúdo pode ser excessiva ou inadequada? (Ex: Pequenos projetos, MVPs, aplicações com pouca lógica de negócio.)
-    - **Alternativas e Comparações:** Quais outras abordagens/modelos existem que visam resolver problemas similares? Como este conteúdo se compara a eles? (Ex: DDD, Onion Architecture, Hexagonal Architecture, N-tier Architecture.)
-2. **Aplicação Prática (Se aplicável):**
-    
-    - **Execução de Exemplos/Tutoriais:** Recrie ou execute exemplos fornecidos pelas fontes ou por outros especialistas.
-    - **Mini-Projeto/Exercício:** Desenvolva um pequeno projeto ou resolva um problema específico aplicando os princípios e conceitos aprendidos. (Ex: Implementar um pequeno sistema CRUD usando Clean Architecture.)
-    - **Documente suas decisões de design e as justificativas.**
-    - **Teste!** Valide a aplicação através de testes unitários, de integração, etc.
-3. **Validação e Revisão Externa:**
+- Execução de Exemplos/Tutoriais: Recrie ou execute exemplos fornecidos pelas fontes ou por outros especialistas.
+- Mini-Projeto/Exercício: Desenvolva um pequeno projeto ou resolva um problema específico aplicando os princípios e conceitos aprendidos. (Ex: Implementar um pequeno sistema CRUD usando Clean Architecture.)
+- Documente suas decisões de design e as justificativas.
+- Teste! Valide a aplicação através de testes unitários, de integração, etc.
+2. **Validação e Revisão Externa:**
     
     - **Busque diferentes perspectivas:** Leia artigos, assista palestras de outros especialistas que discutem ou criticam o conteúdo. Isso ajuda a formar uma visão mais completa e menos enviesada.
     - **Compare com exemplos reais:** Procure por projetos de código aberto ou estudos de caso que apliquem este conteúdo. Analise como ele foi implementado na prática.
