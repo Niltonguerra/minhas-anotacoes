@@ -36,53 +36,60 @@ table of contents: Create table of contents
 
 
 
-## Fase 1: Delimitação e Visão Geral (Onde estou? O que vou estudar?)
+# Fase 1: Delimitação e Visão Geral (Onde estou? O que vou estudar?)
 
 ## Pré-Requisitos e Contexto
 
 ### Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
 
 ### Em que contexto este tópico se insere?
-- **Qual problema (ou conjunto de problemas) este tópico se propõe a resolver?** (Ex: Acoplamento forte, dificuldade de manutenção, baixa testabilidade, dependência de tecnologia, etc.)
-1. **Fontes Primárias e Autoridade:**
-    
-    - **Quem são os principais autores/criadores/referências deste conteúdo?** (Ex: Robert C. Martin (Uncle Bob), Martin Fowler, Eric Evans (Domain-Driven Design, que é relacionado).)
-    - **Quais são as obras originais/canônicas que definem este conteúdo?** (Ex: Livro "Clean Architecture: A Craftsman's Guide to Software Structure and Design" de Uncle Bob, artigos no blog clean-code-developer.com, etc.)
-    - **Identifique as 3-5 fontes mais autoritárias e completas.** (Isso será seu ponto de partida para a fase 2.)
 
-### definição oficial do assunto estudado
+---
+## Fontes Primárias e Autoridades
 
-### por que foi criado?
-- quais são os princípios desse assunto? o que norteou o desenvolvimento do mesmo 
+### Quem são os principais autores/criadores/referências deste conteúdo? 
+
+### Quais são as principais fontes de conteúdo sobre esse assunto?
+
+### quais são as 3 ou 5 fontes mais autoritárias e completas sobre esse assunto
+
+---
+## definição oficial do assunto estudado
 
 ### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
 
+### como você explicaria isso para um amigo de forma simples?
 
+### como você explicaria isso para um amigo de forma mais completa?
 
+---
+## por que foi criado?
 
-### quais são suas propriedades inerentes?
-- pontos positivos 
+### quais são os princípios desse assunto? 
 
-- pontos negativos
+### o que norteou o desenvolvimento do mesmo?
 
+---
+## quais são suas propriedades inerentes?
 
+### pontos positivos 
+
+### pontos negativos
+
+### quando é recomendável usar/aplicar?
 
 ---
 
-### Fase 2: Imersão e Desconstrução (O que é? Como funciona?)
-
-1. **Leitura Ativa e Anotações Detalhadas:**
-    
-    - Leia as fontes primárias identificadas na Fase 1.
-    - **Não apenas leia, _interaja_ com o texto.**
-    - **Para cada conceito/princípio/componente:**
-        - **Definição:** Qual é a definição exata?
-        - **Propósito/Objetivo:** Por que ele existe? Qual problema ele resolve?
-        - **Características Principais:** Quais são suas propriedades inerentes?
-        - **Funcionamento:** Como ele opera? Quais são seus mecanismos internos?
-        - **Componentes/Partes:** Se for um sistema, quais são suas subpartes e como elas interagem? (Ex: Camadas da Clean Architecture: Entidades, Casos de Uso, Controladores/Interfaces, Frameworks/Drivers.)
-        - **Exemplos Concretos:** Como isso se manifesta na prática? (Ex: Como um "Caso de Uso" é implementado? Como a "Interface Adapter" atua?)
-2. **Mapeamento de Conceitos e Relações:**
+# Fase 2: Imersão e Desconstrução (O que é? Como funciona?)
+## Perguntas para analisar(para cada principio e conceito do texto)
+- **Para cada conceito/princípio/componente:**
+	- **Definição:** Qual é a definição exata?
+	- **Propósito/Objetivo:** Por que ele existe? Qual problema ele resolve?
+	- **Características Principais:** Quais são suas propriedades inerentes?
+	- **Funcionamento:** Como ele opera? Quais são seus mecanismos internos?
+	- **Componentes/Partes:** Se for um sistema, quais são suas subpartes e como elas interagem? (Ex: Camadas da Clean Architecture: Entidades, Casos de Uso, Controladores/Interfaces, Frameworks/Drivers.)
+	- **Exemplos Concretos:** Como isso se manifesta na prática? (Ex: Como um "Caso de Uso" é implementado? Como a "Interface Adapter" atua?)
+1. **Mapeamento de Conceitos e Relações:**
     
     - **Crie Mapas Mentais, Diagramas de Fluxo, Hierarquias, ou Tabelas Comparativas.**
     - **Identifique as relações:**
@@ -90,7 +97,7 @@ table of contents: Create table of contents
         - **Fluxos de Informação/Controle:** Como as informações se movem entre as partes? (Ex: Fluxo de dados em uma requisição HTTP através das camadas da CA.)
         - **Princípios Subjacentes:** Quais princípios (Ex: SOLID, DRY, KISS) são aplicados em cada parte?
     - **Crie um glossário de termos específicos.**
-3. **Identificação de Regras, Princípios e Padrões:**
+2. **Identificação de Regras, Princípios e Padrões:**
     
     - **Quais são as regras ou diretrizes fundamentais que governam este conteúdo?** (Ex: Regra da Dependência na Clean Architecture: As dependências devem apontar para dentro.)
     - **Quais princípios gerais são articulados ou inferidos?** (Ex: Independência de Frameworks, Testabilidade, Manutenibilidade.)
@@ -98,7 +105,7 @@ table of contents: Create table of contents
 
 ---
 
-### Fase 3: Crítica, Aplicação e Validação (Funciona? Onde se aplica? Prós e Contras?)
+# Fase 3: Crítica, Aplicação e Validação (Funciona? Onde se aplica? Prós e Contras?)
 
 1. **Análise Crítica e Avaliação:**
     
@@ -120,7 +127,7 @@ table of contents: Create table of contents
 
 ---
 
-### Fase 4: Integração, Síntese e Extensão (Onde isso me leva? Como posso ir além?)
+# Fase 4: Integração, Síntese e Extensão (Onde isso me leva? Como posso ir além?)
 
 1. **Síntese e Resumo Final:**
     
