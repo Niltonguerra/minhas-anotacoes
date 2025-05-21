@@ -18,21 +18,22 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## Definição do tópico central
 
-## o que é isso que estou estudando?
 ### definição oficial do assunto
+
 ### por que foi criado?
+
 ### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
 
-## Pré-Requisitos e Contexto:
-### Quais conhecimentos prévios são _essenciais_ para entender este tópico?
+### quais são suas propriedades inerentes?
+#### pontos positivos 
 
-### **Em que contexto este tópico se insere?**
+#### pontos negativos
 
-## Fontes Primárias e Autoridade
-### Quem são 5 principais referencias sobre esse assunto?
-### 
+### como ele funciona?
 
+#### como cada parte dele funciona?
 
-
-
+### como é usado em grandes projetos? 
+#### exemplos de uso
