@@ -16,22 +16,26 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## Análise inicial
+## por que foi criado?
 
-### Pré-Requisitos e Contexto
+### quais são os princípios desse assunto? 
 
-- Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
-
-- Em que contexto este tópico se insere?
+### o que norteou o desenvolvimento do mesmo?
 
 
-### Fontes Primárias e Autoridades
+## quais são suas propriedades inerentes?
 
-- Quem são os principais autores/criadores/referências deste conteúdo? 
+### pontos positivos 
 
-- Quais são as principais fontes de conteúdo sobre esse assunto?
+### pontos negativos
 
-- quais são as 3 ou 5 fontes mais autoritárias e completas sobre esse assunto
+### quando é recomendável usar/aplicar?
 
-- por que eu deveria usar o mesmo ou não devo usar?
 
+## definição oficial do assunto estudado
+
+### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
+
+### como você explicaria isso para um amigo de forma simples?
+
+### como você explicaria isso para um amigo de forma mais completa?

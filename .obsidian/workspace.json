@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1.md",
+                "file": "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template_estudo_sem_contexto_part_1"
+              "title": "template_estudo_sem_contexto_part_2"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 444.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +222,28 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
-    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_andamento.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_2.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_3.md",
+    "utilitarios/templates/template_estudo_sem_contexto_part_1.md",
+    "Pasted image 20250520210151.png",
+    "Pasted image 20250520204045.png",
+    "Pasted image 20250520200225.png",
+    "Pasted image 20250520195830.png",
+    "Pasted image 20250520195817.png",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (14).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (13).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (12).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (11).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (10).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (9).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (8).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (7).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (6).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (5).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (4).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1 - Copia (3).md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_andamento.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_inicial_de_estudo_sem_contexto_encerramento.md",
     "utilitarios/templates/template_estudo_sem_contexto",
     "utilitarios/templates/template_Cornell.md",
@@ -232,36 +253,15 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/O que é arquitetura hexagonal.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Boas práticas na Modelagem de API's REST.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/o que é Clean Architecture.md",
-    "Pasted image 20250520210151.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest/códigos de resposta de uma api rest.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest",
-    "Pasted image 20250520204045.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Untitled.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Design de código vs Arquitetura de software.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
-    "Pasted image 20250520200225.png",
-    "Pasted image 20250520195830.png",
-    "Pasted image 20250520195817.png",
-    "notas bibliograficas/💼 carreira/Certificações que seria bom  conseguir.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250412181928.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520195016.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 20 05 2025 - orientação a objeto no typescript.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 16042025.md",
-    "notas bibliograficas/🎹estudo musical/basico_musica/aulas/importancia_das_escala_musical aula 02.md",
-    "notas bibliograficas/🎹estudo musical/teclado/aulas/Campo harmônico de Dó maior.md",
-    "notas bibliograficas/🏢empresas/estudos-Globo/inovação.md",
-    "notas bibliograficas/⛪estudo_de_teologia/Profetismo.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
-    "notas_permanentes/0tabela_de_revisão.md",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
