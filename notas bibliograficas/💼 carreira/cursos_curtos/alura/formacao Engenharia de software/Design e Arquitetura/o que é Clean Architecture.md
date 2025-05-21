@@ -7,9 +7,7 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+aqui falamos um pouco sobre o que é clean architecture
 
 # Tópicos:
 
@@ -36,7 +34,15 @@ table of contents: Create table of contents
 		- por exemplo: a jornada para fazer uma conta, e todas as etapas para se cadastrar
 			- usando o exemplo acima, se tivesse uma regra para poder se cadastrar apenas com +18 aqui ficaria informado onde ele passaria para fazer essa validação
 - camada de controller, gateway, presentation
-	- essa camada é ainda mais externa que o use case, por exemplo, você tem um controller que gerencia a rota qu 
+	- essa camada é ainda mais externa que o use case e gerencia a nível de código ou se preferir, a nivel de como as coisas vão acontecer. 
+		- por exemplo, você tem um controller que gerencia a rota de cadastro, suponha a seguinte situação
+			- a presentetion mostra o formulario para se cadastrar
+			- o controlle: faz o controle da rota para se cadastrar
+			- o use case faz o controle das assões para a jornada de se cadastrar
+			- os services são acionados pelo use case para realizar a jornada de cadastro
+			- e tudo isso de acordo com as regras de domínio definidas na entidade( ponto importante, nesse nível não é codificado, mas sim é feito uma documentação e diagramação do sistema)
+- camada de devices, web, UI, DB, External interfaces 
+	- aqui é a comunicação com a camada mais externa da aplicação
 
 
 
