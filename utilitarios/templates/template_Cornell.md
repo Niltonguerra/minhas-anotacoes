@@ -1,7 +1,6 @@
 ---
 Date: ""
-tags:
-  - tecnologia
+tags: []
 ---
 # Notas conectadas:
 
@@ -19,7 +18,6 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
 
 
 

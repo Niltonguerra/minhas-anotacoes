@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
+                "file": "utilitarios/templates/template_estudo_sem_contexto_previo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "KISS"
+              "title": "template_estudo_sem_contexto_previo"
             }
           }
         ]
@@ -221,8 +221,13 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
+    "utilitarios/templates/template_Cornell.md",
+    "utilitarios/templates/template programação.md",
+    "utilitarios/templates/template_english.md",
+    "utilitarios/templates/template_estudo_sem_contexto_previo.md",
+    "utilitarios/templates/template_Cornell - Copia.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/O que é arquitetura hexagonal.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Boas práticas na Modelagem de API's REST.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/o que é Clean Architecture.md",
@@ -258,15 +263,10 @@
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
