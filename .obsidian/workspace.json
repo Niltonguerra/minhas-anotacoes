@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilitarios/templates/template_estudo_sem_contexto_previo.md",
+                "file": "utilitarios/templates/template_inicial_de_estudo_sem_contexto_previo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template_estudo_sem_contexto_previo"
+              "title": "template_inicial_de_estudo_sem_contexto_previo"
             }
           }
         ]
@@ -221,10 +221,11 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "utilitarios/templates/template_estudo_sem_contexto.md",
+    "utilitarios/templates/template_inicial_de_estudo_sem_contexto_previo.md",
     "utilitarios/templates/template_Cornell.md",
     "utilitarios/templates/template programação.md",
     "utilitarios/templates/template_english.md",
-    "utilitarios/templates/template_estudo_sem_contexto_previo.md",
     "utilitarios/templates/template_Cornell - Copia.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
@@ -262,7 +263,6 @@
     "notas_permanentes/grafico_de_inovacao.md",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura",

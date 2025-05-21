@@ -16,6 +16,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+
 ## definição oficial do assunto estudado
 
 ## por que foi criado?
