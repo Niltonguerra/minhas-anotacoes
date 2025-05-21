@@ -2,9 +2,6 @@
 Date: ""
 tags:
 ---
-# Notas conectadas:
-
-
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
 exemplo de tamanho:
@@ -18,22 +15,33 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-## Definição do tópico central
 
-### definição oficial do assunto
+## definição oficial do assunto estudado
 
-### por que foi criado?
+## por que foi criado?
 
-### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
+### quais são os princípios desse assunto? o que norteou o desenvolvimento do mesmo 
 
-### quais são suas propriedades inerentes?
-#### pontos positivos 
+## Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
 
-#### pontos negativos
+## quais são suas propriedades inerentes?
 
-### como ele funciona?
+### pontos positivos 
 
-#### como cada parte dele funciona?
+### pontos negativos
 
-### como é usado em grandes projetos? 
-#### exemplos de uso
+## como ele funciona?
+
+### "como cada parte dele funciona?"
+
+### como as partes se comunicam entre si?
+
+### ele usa que outras tecnologias do meio dele?
+
+### O que depende do quê
+
+
+## como é usado em profissionalmente? 
+
+### exemplos de uso
+
