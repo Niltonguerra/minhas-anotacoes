@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilitarios/templates/template_inicial_de_estudo_sem_contexto_previo.md",
+                "file": "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template_inicial_de_estudo_sem_contexto_previo"
+              "title": "template_estudo_sem_contexto_part_1"
             }
           }
         ]
@@ -221,8 +221,10 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
-    "utilitarios/templates/template_estudo_sem_contexto.md",
-    "utilitarios/templates/template_inicial_de_estudo_sem_contexto_previo.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_andamento.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_part_1.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_inicial_de_estudo_sem_contexto_encerramento.md",
+    "utilitarios/templates/template_estudo_sem_contexto",
     "utilitarios/templates/template_Cornell.md",
     "utilitarios/templates/template programação.md",
     "utilitarios/templates/template_english.md",
@@ -260,13 +262,11 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
     "notas_permanentes/0tabela_de_revisão.md",
-    "notas_permanentes/grafico_de_inovacao.md",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

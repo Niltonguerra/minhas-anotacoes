@@ -17,25 +17,6 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
-
-## como ele funciona?
-
-### "como cada parte dele funciona?"
-
-### como as partes se comunicam entre si?
-
-### ele usa que outras tecnologias do meio dele?
-
-### O que depende do quê
-
-
-## como é usado em profissionalmente? 
-
-### exemplos de uso
-
-
-
-
 # Fase 1: Delimitação e Visão Geral (Onde estou? O que vou estudar?)
 
 ## Pré-Requisitos e Contexto
@@ -53,7 +34,14 @@ table of contents: Create table of contents
 
 ### quais são as 3 ou 5 fontes mais autoritárias e completas sobre esse assunto
 
----
+
+
+
+
+# Fase 2: Imersão e Desconstrução (O que é? Como funciona?)
+
+## 1. Perguntas para analisar(para cada principio e conceito do texto)
+
 ## definição oficial do assunto estudado
 
 ### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
@@ -80,23 +68,36 @@ table of contents: Create table of contents
 
 ---
 
-# Fase 2: Imersão e Desconstrução (O que é? Como funciona?)
-## Perguntas para analisar(para cada principio e conceito do texto)
-- **Para cada conceito/princípio/componente:**
-	- **Definição:** Qual é a definição exata?
-	- **Propósito/Objetivo:** Por que ele existe? Qual problema ele resolve?
-	- **Características Principais:** Quais são suas propriedades inerentes?
-	- **Funcionamento:** Como ele opera? Quais são seus mecanismos internos?
-	- **Componentes/Partes:** Se for um sistema, quais são suas subpartes e como elas interagem? (Ex: Camadas da Clean Architecture: Entidades, Casos de Uso, Controladores/Interfaces, Frameworks/Drivers.)
-	- **Exemplos Concretos:** Como isso se manifesta na prática? (Ex: Como um "Caso de Uso" é implementado? Como a "Interface Adapter" atua?)
-1. **Mapeamento de Conceitos e Relações:**
-    
-    - **Crie Mapas Mentais, Diagramas de Fluxo, Hierarquias, ou Tabelas Comparativas.**
-    - **Identifique as relações:**
-        - **Dependências:** O que depende do quê? (Ex: Casos de Uso dependem de Entidades, Controladores dependem de Casos de Uso, Frameworks dependem de Interfaces Adapter.)
-        - **Fluxos de Informação/Controle:** Como as informações se movem entre as partes? (Ex: Fluxo de dados em uma requisição HTTP através das camadas da CA.)
-        - **Princípios Subjacentes:** Quais princípios (Ex: SOLID, DRY, KISS) são aplicados em cada parte?
-    - **Crie um glossário de termos específicos.**
+## como ele funciona?
+
+### "como cada parte dele funciona?"
+
+### como as partes se comunicam entre si?
+
+### ele usa que outras tecnologias(recursos) do meio dele?
+
+### O que depende do quê no contexto do assunto estudado?
+
+## quais são suas subpartes e como elas interagem?
+
+## como é usado profissionalmente? 
+
+### exemplos de uso
+
+
+## O que depende do quê?
+### esse assunto está conectado com o que outros assuntos?
+### como ele se entrega com os outros assuntos?
+### ele faz parte de alguma outro assunto maior?
+
+### ele contém em si outros estudos e a
+## 2.Mapeamento de Conceitos e Relações:
+
+- **Identifique as relações:**
+	- **Dependências:** O que depende do quê? (Ex: Casos de Uso dependem de Entidades, Controladores dependem de Casos de Uso, Frameworks dependem de Interfaces Adapter.)
+	- **Fluxos de Informação/Controle:** Como as informações se movem entre as partes? (Ex: Fluxo de dados em uma requisição HTTP através das camadas da CA.)
+	- **Princípios Subjacentes:** Quais princípios (Ex: SOLID, DRY, KISS) são aplicados em cada parte?
+- **Crie um glossário de termos específicos.**
 2. **Identificação de Regras, Princípios e Padrões:**
     
     - **Quais são as regras ou diretrizes fundamentais que governam este conteúdo?** (Ex: Regra da Dependência na Clean Architecture: As dependências devem apontar para dentro.)
