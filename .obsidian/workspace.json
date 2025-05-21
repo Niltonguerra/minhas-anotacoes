@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal/O que é arquitetura hexagonal.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/o que é Clean Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "O que é arquitetura hexagonal"
+              "title": "o que é Clean Architecture"
             }
           }
         ]
@@ -221,9 +221,14 @@
   },
   "active": "de44ad75ecb48fbe",
   "lastOpenFiles": [
+    "Pasted image 20250520210151.png",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/Boas práticas na Modelagem de API's REST.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/o que é Clean Architecture.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal/O que é arquitetura hexagonal.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest/códigos de resposta de uma api rest.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest",
     "Pasted image 20250520204045.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Untitled.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal/O que é arquitetura hexagonal.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/Design de código vs Arquitetura de software.md",
@@ -239,7 +244,6 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250412181928.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520195016.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520194139.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520194210.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 20 05 2025 - orientação a objeto no typescript.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 16042025.md",
     "notas bibliograficas/🎹estudo musical/basico_musica/aulas/importancia_das_escala_musical aula 02.md",
@@ -261,12 +265,8 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
