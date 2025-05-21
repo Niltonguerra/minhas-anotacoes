@@ -22,7 +22,7 @@ table of contents: Create table of contents
 
 ### o que norteou o desenvolvimento do mesmo?
 
-
+---
 ## quais são suas propriedades inerentes?
 
 ### pontos positivos 
@@ -31,7 +31,7 @@ table of contents: Create table of contents
 
 ### quando é recomendável usar/aplicar?
 
-
+---
 ## definição oficial do assunto estudado
 
 ### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
