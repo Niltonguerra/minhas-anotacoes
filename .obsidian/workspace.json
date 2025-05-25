@@ -106,7 +106,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🎯5-01-24 até 11-01-25"
+              "title": "Backlinks for introdução ao design de código"
             }
           },
           {
@@ -173,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/Certificações que seria bom  conseguir.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Certificações que seria bom  conseguir"
+              "title": "Outgoing links from introdução ao design de código"
             }
           },
           {
@@ -191,11 +193,12 @@
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +221,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26307c6c7fd01ec0",
+  "active": "e0a5bfef7fd066c4",
   "lastOpenFiles": [
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Boas práticas na Modelagem de API's REST.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Design de código vs Arquitetura de software.md",
