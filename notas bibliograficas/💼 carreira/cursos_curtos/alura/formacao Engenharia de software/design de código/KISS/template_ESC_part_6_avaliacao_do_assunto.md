@@ -1,7 +1,6 @@
 ---
 Date: ""
 tags:
-  - tecnologia/DesignDeCodigo
   - tecnologia/DesignDeCodigo/KISS
 ---
 # Resumo da nota:

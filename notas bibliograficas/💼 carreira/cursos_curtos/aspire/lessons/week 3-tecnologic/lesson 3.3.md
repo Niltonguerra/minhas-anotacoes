@@ -6,7 +6,6 @@ tags:
 ---
 # Notas conectadas:
 
-
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
 exemplo de tamanho:
