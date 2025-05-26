@@ -2,7 +2,6 @@
 Date: 2025-05-20T20:29:00
 tags:
   - tecnologia/DesignDeCodigo
-  - tecnologia
 ---
 # Notas conectadas:
 

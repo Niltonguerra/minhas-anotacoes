@@ -1,7 +1,8 @@
 ---
 Date: ""
 tags:
-  - tecnologia
+  - AspireLeaders
+  - IdentificarOportunidades
 ---
 # Notas conectadas:
 

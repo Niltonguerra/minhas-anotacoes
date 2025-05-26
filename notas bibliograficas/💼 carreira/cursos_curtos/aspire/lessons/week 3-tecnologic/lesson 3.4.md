@@ -2,6 +2,7 @@
 Date: ""
 tags:
   - AspireLeaders
+  - tecnologia/tecnologiaParaNegocios
 ---
 # Notas conectadas:
 

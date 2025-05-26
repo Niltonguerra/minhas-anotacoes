@@ -2,6 +2,7 @@
 Date: ""
 tags:
   - AspireLeaders
+  - IdentificarOportunidades
 ---
 # Notas conectadas:
 
