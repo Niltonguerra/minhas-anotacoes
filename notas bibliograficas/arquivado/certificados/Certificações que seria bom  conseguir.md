@@ -1,6 +1,8 @@
 ---
 Date: 
 tags:
+  - tecnologia
+  - tecnologia/Certificacoes
 ---
 
 EXIN PDPF
