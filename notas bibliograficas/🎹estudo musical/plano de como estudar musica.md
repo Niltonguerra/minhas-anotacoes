@@ -1,3 +1,9 @@
+---
+Date: 
+tags:
+  - musica
+---
+
 ### **Semana 1-2: Fundamentos Básicos**
 
 Objetivo: Familiarizar-se com o teclado e entender sua estrutura.

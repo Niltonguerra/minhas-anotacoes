@@ -1,6 +1,8 @@
 ---
 Date: 2024-10-16
 tags:
+  - GerenciamentoDeEmpresas/AnaliseDeViabilidadeDeNegocio
+  - AnaliseDeViabilidadeDeNegocio/inovacao
 ---
 
 # Arquivos vinculados:

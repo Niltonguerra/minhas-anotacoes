@@ -4,94 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a581435b9b12d901",
+        "id": "95698b74710f2e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "56954e62a63e8c58",
+            "id": "991f1624b62a1b62",
             "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
-                "page": 13,
-                "left": -21,
-                "top": 280,
-                "zoom": 0.7092824027413828
-              },
-              "icon": "lucide-file-text",
-              "title": "Aula 1"
-            }
-          },
-          {
-            "id": "7bd9ee52cdb03f66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
-                "page": 2,
-                "left": -21,
-                "top": 203,
-                "zoom": 0.7092824027413828
-              },
-              "icon": "lucide-file-text",
-              "title": "Aula 2"
-            }
-          },
-          {
-            "id": "8006f3e31cc7c4ab",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 3.pdf",
-                "page": 1,
-                "left": -21,
-                "top": 842,
-                "zoom": 0.7092824027413828
-              },
-              "icon": "lucide-file-text",
-              "title": "Aula 3"
-            }
-          },
-          {
-            "id": "7507167611508b09",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Refinamento Técnico part 1"
-            }
-          },
-          {
-            "id": "3a142f8632896adb",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Refinamento Técnico part 1"
-            }
-          },
-          {
-            "id": "0aaba97593dff39f",
-            "type": "leaf",
-            "dimension": 20,
             "state": {
               "type": "graph",
               "state": {},
@@ -99,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#metodos/Anki",
+                "query": "tag:musica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,9 +233,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0aaba97593dff39f",
+  "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "notas bibliograficas/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
+    "notas bibliograficas/🏢empresas/estudos-Globo/inovação.md",
+    "notas bibliograficas/CriacaoDeEmpresas/grafico_de_inovacao.md",
     "notas bibliograficas/⛪estudo_de_teologia/introdução ao Profetismo.md",
+    "notas bibliograficas/🎹estudo musical/aulas/teclado/musica para tocar.md",
+    "notas bibliograficas/🎹estudo musical/aulas/teclado/introdução ao teclado.md",
+    "notas bibliograficas/🎹estudo musical/aulas/teclado/fórmula dos acordes.md",
+    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/figuras rítmicas aula 02.md",
+    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/importancia_das_escala_musical aula 02.md",
+    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
+    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/tempos - o que é na musica.md",
+    "notas bibliograficas/🎹estudo musical/aulas/teclado/Campo harmônico de Dó maior.md",
+    "notas bibliograficas/🎹estudo musical/aulas/teclado/por que dos nomes das notas.md",
+    "notas bibliograficas/🎹estudo musical/plano de como estudar musica.md",
     "utilitarios/templates/template_english.md",
     "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 2.md",
     "notas bibliograficas/📖idiomas/por que aprender outro idioma.md",
@@ -337,22 +267,9 @@
     "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074025.m4a",
     "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
     "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
-    "notas bibliograficas/CriacaoDeEmpresas/grafico_de_inovacao.md",
     "notas bibliograficas/CriacaoDeEmpresas",
     "notas_permanentes/estrategias de estudo",
-    "notas_permanentes/Untitled.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/modulo01.md",
-    "notas bibliograficas/💼 carreira/FIAP/FIAP.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/reunião 23042025.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta dia 28.04.25.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta da reunião do dia 21.04.2025.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta 12052025.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
     "Untitled 1.canvas",

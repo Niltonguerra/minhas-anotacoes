@@ -1,7 +1,7 @@
 ---
 Date: 2024-12-22
 tags:
-  - musica
+  - musica/lerPartitura
 ---
 # Notas conectadas:
 

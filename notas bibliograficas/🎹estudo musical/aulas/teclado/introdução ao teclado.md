@@ -2,6 +2,7 @@
 Date: 2024-12-19
 tags:
   - musica
+  - musica/teclado
 ---
      # Notas conectadas:
 

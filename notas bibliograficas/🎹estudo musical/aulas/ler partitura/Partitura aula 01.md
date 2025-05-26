@@ -1,7 +1,8 @@
 ---
 Date: 2025-01-14
 tags:
-  - musica/partitura
+  - musica/lerPartitura
+  - musica
 ---
 # Notas conectadas:
 
