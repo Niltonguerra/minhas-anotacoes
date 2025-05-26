@@ -1,7 +1,7 @@
 ---
 Date: 2025-05-20T21:00:00
 tags:
-  - tecnologia/ArquiteturaDeSoftware/CleanArchitecture
+  - tecnologia/ArquiteturaDeSoftware
 ---
 # Notas conectadas:
 

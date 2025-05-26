@@ -4,6 +4,7 @@ tags:
   - tecnologia/engenhariaDeSoftware
   - tecnologia/DesignDeCodigo
   - tecnologia/ArquiteturaDeSoftware
+  - tecnologia
 ---
 # Notas conectadas:
 

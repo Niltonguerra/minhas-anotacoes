@@ -1,7 +1,8 @@
 ---
 Date: 2025-05-20T20:39:00
 tags:
-  - tecnologia/ArquiteturaDeSoftware/hexagonal
+  - tecnologia/ArquiteturaDeSoftware
+  - ArquiteturaDeSoftware/hexagonal
 ---
 # Notas conectadas:
 

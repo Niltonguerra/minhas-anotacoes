@@ -1,6 +1,8 @@
 ---
 Date: ""
 tags:
+  - tecnologia/DesignDeCodigo
+  - tecnologia/DesignDeCodigo/KISS
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
