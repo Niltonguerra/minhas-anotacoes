@@ -1,4 +1,8 @@
-
+---
+Date: 
+tags:
+  - techChallenge/reunioes
+---
 
 - deixar os outros falarem o que pensam primeiro
 - falar sobre o o que foi falado com o professor sobre a documentação [[informações do tech challenge]]

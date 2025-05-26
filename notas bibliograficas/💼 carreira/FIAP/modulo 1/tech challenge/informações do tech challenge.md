@@ -1,8 +1,7 @@
 ---
 Date: 
 tags:
-  - tecnologia/fiap
-  - fiap/modulo1
+  - fiap/modulo01
   - modulo1/techChallenge
 ---
 

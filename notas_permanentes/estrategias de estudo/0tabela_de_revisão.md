@@ -1,4 +1,10 @@
-#metodos/Anki   #revisao  #dataParaRever  
+---
+Date: 
+tags:
+  - metodos/Anki
+  - revisao
+---
+
 
 1º revisão
 1 dia após o estudo

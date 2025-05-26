@@ -95,13 +95,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
+                "file": "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "informações do tech challenge"
+              "title": "0tabela_de_revisão"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:teologia/",
+                "query": "tag:#metodos/Anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -280,10 +281,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md"
+                "file": "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for informações do tech challenge"
+              "title": "File properties for 0tabela_de_revisão"
             }
           },
           {
@@ -323,13 +324,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0aaba97593dff39f",
+  "active": "ae385e8e5901ef46",
   "lastOpenFiles": [
+    "notas_permanentes/grafico_de_inovacao.md",
+    "notas_permanentes/estrategias de estudo",
+    "notas_permanentes/Untitled.md",
+    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/modulo01.md",
+    "notas bibliograficas/💼 carreira/FIAP/FIAP.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/reunião 23042025.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta dia 28.04.25.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta da reunião do dia 21.04.2025.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta 12052025.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
@@ -347,13 +354,7 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/OutSystems introdução 1.1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 4.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 3.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
@@ -363,7 +364,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
