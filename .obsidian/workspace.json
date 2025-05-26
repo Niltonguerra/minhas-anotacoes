@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bc0870bd435c51e0",
+        "id": "c014dc40e1d7c8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "de44ad75ecb48fbe",
+            "id": "2186659be3391ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_1_levantamento_de_informacoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "introdução ao design de código"
+              "title": "template_ESC_part_1_levantamento_de_informacoes"
+            }
+          },
+          {
+            "id": "c5ae1d0c122c4eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "considerações iniciais sobre um projeto 1.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,13 +65,13 @@
             }
           },
           {
-            "id": "442575ccc9585d0a",
+            "id": "3d14eef97b09bca3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           },
           {
@@ -64,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tecnologia",
+                "query": "tag:#tecnologia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +90,33 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "2d0b097190e6f398",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ece6c7186dfa5043",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 313.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -90,13 +127,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26307c6c7fd01ec0",
+            "id": "4dc1e53f5f99e023",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "backlink",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for considerações iniciais sobre um projeto 1.1"
+            }
+          },
+          {
+            "id": "738b789336f7b652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from considerações iniciais sobre um projeto 1.1"
             }
           },
           {
@@ -129,62 +189,39 @@
             }
           },
           {
-            "id": "6e9d4bd29557ce75",
+            "id": "1be2b055b1e94437",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for introdução ao design de código"
-            }
-          },
-          {
-            "id": "d6f040d8f7209184",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "🎯metas/1-metas_semanais/🎯5-01-24 até 11-01-25.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 🎯5-01-24 até 11-01-25"
-            }
-          },
-          {
-            "id": "db92df186ef2767c",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "472fbe59cb0c0d10",
+            "id": "257eab3f44a270c6",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "file-properties",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md"
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from introdução ao design de código"
+              "icon": "lucide-info",
+              "title": "File properties for considerações iniciais sobre um projeto 1.1"
             }
           },
           {
-            "id": "e0a5bfef7fd066c4",
+            "id": "95d1c939de81c5c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "076095e195ae4a82",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -194,14 +231,16 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,17 +251,27 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "excel:Create Excel File": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e0a5bfef7fd066c4",
+  "active": "72546342dc2e9163",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
+    "Excel 2025-05-26 12.10.41.sheet.md",
+    "Excalidraw/Drawing 2025-05-26 12.10.40.excalidraw.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_1_levantamento_de_informacoes.md",
+    "Untitled 1.canvas",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/lesson 2.4.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.5.md",
+    "Untitled.canvas",
+    "notas bibliograficas/🏢empresas/estudos-Globo/inovação.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Boas práticas na Modelagem de API's REST.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Design de código vs Arquitetura de software.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/O que é arquitetura hexagonal.md",
@@ -240,18 +289,9 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_3_estudo_inicial.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_3_estudo_inicial.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_2_análise_inicial.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_1_levantamento_de_informacoes.md",
     "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_1_levantamento_de_informacoes.md",
-    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_2_análise_inicial.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_estudo_sem_contexto_geral.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula 02.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código/design de código/KISS.md",
-    "utilitarios/templates/template_english.md",
     "utilitarios/templates/template_estudo_sem_contexto 1",
-    "utilitarios/templates/template_Cornell.md",
-    "utilitarios/templates/template programação.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
@@ -266,10 +306,7 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250412181928.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520195016.png",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
-    "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf"
   ]
 }
