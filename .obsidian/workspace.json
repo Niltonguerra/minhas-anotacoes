@@ -93,15 +93,10 @@
             "type": "leaf",
             "dimension": 20,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "0tabela_de_revisão"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -178,8 +173,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,11 +274,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 0tabela_de_revisão"
+              "title": "File properties"
             }
           },
           {
@@ -324,12 +316,31 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ae385e8e5901ef46",
+  "active": "0aaba97593dff39f",
   "lastOpenFiles": [
-    "notas_permanentes/grafico_de_inovacao.md",
+    "notas bibliograficas/⛪estudo_de_teologia/introdução ao Profetismo.md",
+    "utilitarios/templates/template_english.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 2.md",
+    "notas bibliograficas/📖idiomas/por que aprender outro idioma.md",
+    "notas bibliograficas/📖idiomas/english/inglês - por que aprender.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/o que é as 1000 palavras e por que aprender elas.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/0-English_CORE2000.pdf",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/210 english frases.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 01 - some English grammar.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 3.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/words I already know.md",
+    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/words I don't know.md",
+    "notas bibliograficas/📖idiomas/english/img/pessego.png",
+    "notas bibliograficas/📖idiomas/english/Videos_em_ingles/y2mate.com - Texto em Inglês com ÁUDIO e TRADUÇÃO 01_480p.mp4",
+    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115075015.m4a",
+    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074553.m4a",
+    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074025.m4a",
+    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
+    "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
+    "notas bibliograficas/CriacaoDeEmpresas/grafico_de_inovacao.md",
+    "notas bibliograficas/CriacaoDeEmpresas",
     "notas_permanentes/estrategias de estudo",
     "notas_permanentes/Untitled.md",
-    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/modulo01.md",
     "notas bibliograficas/💼 carreira/FIAP/FIAP.md",
@@ -342,25 +353,8 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula03/contexto delimitado 3.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula03/linguagem ubíqua 3.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/como os times cooperam 4.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 4.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 3.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/prova_final.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
@@ -371,7 +365,6 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520204045.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250412181928.png"
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png"
   ]
 }

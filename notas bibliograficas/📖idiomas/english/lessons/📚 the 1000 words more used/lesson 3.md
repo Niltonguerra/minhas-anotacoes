@@ -1,8 +1,7 @@
 ---
 Date: 2025-01-14
 tags:
-  - idiomas/ingles
-  - 1000PalavrasMaisUsadas
+  - ingles/1000PalavrasMaisUsadas
 ---
 **Action Plan**:
 - Learn New Words (10 Minutes)

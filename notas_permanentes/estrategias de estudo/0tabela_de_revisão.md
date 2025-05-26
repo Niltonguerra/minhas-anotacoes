@@ -1,8 +1,8 @@
 ---
 Date: 
 tags:
-  - metodos/Anki
-  - revisao
+  - EstrategiasDeEstudo/Revisao
+  - EstrategiasDeEstudo
 ---
 
 
