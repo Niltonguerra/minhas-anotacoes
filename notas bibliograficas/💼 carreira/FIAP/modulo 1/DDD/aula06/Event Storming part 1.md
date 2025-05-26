@@ -3,6 +3,10 @@ Date: 2025-05-19T19:48:00
 tags:
   - tecnologia/DDD
 ---
+# Notas conectadas:
+matéria de apoio:
+[[DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf]]
+
 # Resumo da nota:
 nessa nota iniciamos o estudo do event storming para isso, entendemos que é importante fazer com que todos os integrantes se sintam confortáveis, além disso também vimos que os passos para o mesmo são fazer um brain storming entre todos os integrantes, depois organizar as ideias, e depois seguir colocando pontos de atenção(dúvidas de como vão ser feitas as coisas) depois definir os eventos pivotais que são meio que o encerramento de uma ação, tipo cadastrar o usuário, ou enviar uma atividade, ou avaliar uma nota
 

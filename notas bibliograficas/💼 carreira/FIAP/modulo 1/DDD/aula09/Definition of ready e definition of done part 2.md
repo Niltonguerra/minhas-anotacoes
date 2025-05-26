@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf]]
 
 # Resumo da nota:
 nessa nota vimos novamente o que é definition of ready e definition of done, mas dessa vez vimos de forma mais aprofundada, com exemplos de critérios de aceite para os dois, assim como também vimos os resultados positivos que essas abordagens podem trazer

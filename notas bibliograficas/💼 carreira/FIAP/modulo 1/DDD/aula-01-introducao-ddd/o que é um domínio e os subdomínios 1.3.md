@@ -4,6 +4,10 @@ tags:
   - tecnologia/DDD
 repositório: https://github.com/Niltonguerra/fiap
 ---
+# Notas conectadas:
+matéria de apoio:
+[[DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf]]
+
 # Resumo da nota:
 nessa nota estudados o que é um domínio e o que é um subdomínio e os tipos do mesmo, além disso o por que deles serem importantes.
 

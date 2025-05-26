@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf]]
 
 # Resumo da nota:
 não tem muito o que falar, na aula os professores simularam como é um refinamento, apenas isso

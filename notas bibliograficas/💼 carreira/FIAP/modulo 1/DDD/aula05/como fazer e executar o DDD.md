@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf]]
 
 # Resumo da nota:
 no máximo 350 caracteres no resumo.

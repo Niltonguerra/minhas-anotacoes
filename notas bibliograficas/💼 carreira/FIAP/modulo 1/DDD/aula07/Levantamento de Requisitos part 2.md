@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 7 - POSTECH - Template de Aula Levantamento de Requisitos.pdf]]
 
 # Resumo da nota:
 nessa nota vimos o que é upstream(etapa de planejamento) e downstream(execução do planejamento) assim também como o que uma boa documentação precisa ter, sendo ela: a persona, a jornada do problema/solução, métricas de sucesso do projeto, além disso também boas perguntas que são interessantes de se fazer na etapa de upstream

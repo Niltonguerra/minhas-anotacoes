@@ -4,20 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "c014dc40e1d7c8b5",
+        "id": "a581435b9b12d901",
         "type": "tabs",
         "children": [
           {
-            "id": "2186659be3391ab5",
+            "id": "56954e62a63e8c58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
+                "page": 13,
+                "left": -21,
+                "top": 280,
+                "zoom": 0.7092824027413828
+              },
+              "icon": "lucide-file-text",
+              "title": "Aula 1"
+            }
+          },
+          {
+            "id": "7bd9ee52cdb03f66",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
+                "page": 2,
+                "left": -21,
+                "top": 203,
+                "zoom": 0.7092824027413828
+              },
+              "icon": "lucide-file-text",
+              "title": "Aula 2"
+            }
+          },
+          {
+            "id": "8006f3e31cc7c4ab",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 3.pdf",
+                "page": 1,
+                "left": -21,
+                "top": 842,
+                "zoom": 0.7092824027413828
+              },
+              "icon": "lucide-file-text",
+              "title": "Aula 3"
+            }
+          },
+          {
+            "id": "7507167611508b09",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Refinamento Técnico part 1"
+            }
+          },
+          {
+            "id": "3a142f8632896adb",
+            "type": "leaf",
+            "dimension": 25,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Refinamento Técnico part 1"
+            }
+          },
+          {
+            "id": "0aaba97593dff39f",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "informações do tech challenge"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,9 +279,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for informações do tech challenge"
             }
           },
           {
@@ -233,52 +323,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2186659be3391ab5",
+  "active": "0aaba97593dff39f",
   "lastOpenFiles": [
-    "notas bibliograficas/⛪estudo_de_teologia/Profetismo.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/Introdução a arquitetura de soluções.md",
-    "notas bibliograficas/📖idiomas/english/lessons/02-01-2025/lesson 01 - some English grammar.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/typescript/Introdução a programação 1.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/o que é low Code.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/OutSystems introdução 1.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/reunião 23042025.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta dia 28.04.25.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta da reunião do dia 21.04.2025.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/reuniões/pauta 12052025.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/tech challenge/informações do tech challenge.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula do dia 20 05 2025 - orientação a objeto no typescript.md",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/aulas presenciais/aula 02 gerenciamento de projetos.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Outcomes.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.6.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.4.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.3.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula03/contexto delimitado 3.2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula03/linguagem ubíqua 3.1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/como os times cooperam 4.1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Objeto de valor e regras de negócio.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/como fazer e executar o DDD.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula06/Event Storming part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula07/Levantamento de Requisitos part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula08/Refinamento Técnico part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 2.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/Definition of ready e definition of done part 1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/OutSystems introdução 1.1.md",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 4.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 3.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 2.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/low_code/Aula 1.pdf",
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/prova_final.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excel 2025-05-26 12.34.13.sheet.md",
-    "Excel 2025-05-26 12.32.53.sheet.md",
-    "Excel 2025-05-26 12.10.41.sheet.md",
-    "Excel 2025-05-26 12.43.36.sheet.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Project Plan.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/Problem Statemednt.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/lesson 4.1.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 4,5- project/análise SMART.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/lesson 3.5.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/levantamento_de_informacoes_para_estudar_KISS.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/introdução ao design de código.md",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS",
-    "utilitarios/templates/template_estudo_sem_contexto 1",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520200225.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520204045.png",
-    "utilitarios/templates/template_estudo_sem_contexto",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/api rest",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/arquitetura hexagonal",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/design de código",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png",

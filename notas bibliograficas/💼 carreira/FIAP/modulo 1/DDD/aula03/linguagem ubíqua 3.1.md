@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 3 - PÓS-GRADUAÇÃO ON.pdf]]
 
 # Resumo da nota:
 

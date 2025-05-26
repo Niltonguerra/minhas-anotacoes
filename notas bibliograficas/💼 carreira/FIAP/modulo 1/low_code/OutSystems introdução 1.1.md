@@ -6,8 +6,11 @@ tags:
 repositório: https://github.com/Niltonguerra/fiap
 ---
 # Notas conectadas:
-
-
+materia da faculdade:
+[[Aula 1.pdf]]
+[[Aula 2.pdf]]
+[[Aula 3.pdf]]
+[[Aula 4.pdf]]
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
 

@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf]]
 
 # Resumo da nota:
 essa nota fala sobre o que é os eventos de upstream, que é a etapa de planejamento e downstream que é a etapa de execução, além disso também fala de técnicas para estimar um projeto, sendo as técnicas comentadas a Fibonacci e a Monte Carlo

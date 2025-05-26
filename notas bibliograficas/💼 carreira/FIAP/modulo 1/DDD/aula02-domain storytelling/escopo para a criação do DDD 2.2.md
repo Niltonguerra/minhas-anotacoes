@@ -4,8 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
-
+matéria de apoio:
+[[DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf]]
 # Resumo da nota:
 nessa nota vimos que deve-se o DDD tem duas etapas, uma etapa previa de lentamente de informações que depois vai ser seguida de uma fase de programação e também vimos dicas de como realizar esse processo de levantamento de informações.
 # Tópicos:

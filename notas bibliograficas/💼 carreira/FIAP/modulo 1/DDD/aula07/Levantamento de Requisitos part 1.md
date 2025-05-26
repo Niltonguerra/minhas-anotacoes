@@ -4,7 +4,8 @@ tags:
   - tecnologia/DDD
 ---
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 7 - POSTECH - Template de Aula Levantamento de Requisitos.pdf]]
 
 # Resumo da nota:
 nessa aula vimos os 4 riscos que um projeto digital corre, além disso também vimos 2 perguntas para se considerar antes de começar um projeto e tudo isso acompanhado de muitos exemplos, além disso também vimos como mitigar os riscos, problemas comuns, boas práticas e um exemplo prático

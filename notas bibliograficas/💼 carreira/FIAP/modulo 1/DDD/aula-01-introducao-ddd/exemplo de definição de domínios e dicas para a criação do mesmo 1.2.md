@@ -7,7 +7,8 @@ repositório: https://github.com/Niltonguerra/fiap
 
 
 # Notas conectadas:
-
+matéria de apoio:
+[[DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf]]
 
 # Resumo da nota:
 nessa nota vimos quem é o domain expert, assim como também vimos o que é são subdomínio principal, subdomínio de suporte e subdomínio genérico no contexto de programação  
