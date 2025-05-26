@@ -2,6 +2,7 @@
 Date: 2025-04-16T20:09:00
 tags:
   - tecnologia/ArquiteturaDeSolucoes
+  - tecnologia
 ---
 # Notas conectadas:
 

@@ -1,7 +1,7 @@
 ---
 Date: 2024-11-09
 tags:
-  - tecnologia
+  - idiomas/ingles
 ---
 Connect notes :
 

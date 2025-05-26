@@ -2,6 +2,7 @@
 Date: 2025-04-12T19:23:00
 tags:
   - tecnologia/DDD
+  - tecnologia
 repositório: https://github.com/Niltonguerra/fiap
 ---
 # Resumo da nota:

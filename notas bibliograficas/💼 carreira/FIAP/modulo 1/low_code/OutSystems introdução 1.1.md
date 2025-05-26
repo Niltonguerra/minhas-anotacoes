@@ -1,7 +1,8 @@
 ---
 Date: ""
 tags:
-  - tecnologia/OutSystems
+  - tecnologia/LowCode
+  - LowCode/OutSystems
 repositório: https://github.com/Niltonguerra/fiap
 ---
 # Notas conectadas:

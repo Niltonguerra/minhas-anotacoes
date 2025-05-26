@@ -1,7 +1,8 @@
 ---
 Date: ""
 tags:
-  - tecnologia/Typescript
+  - tecnologia
+  - tecnologia/ConhecimentoBasicoDeProgramacao
 repositório: https://github.com/Niltonguerra/fiap
 ---
 # Notas conectadas:
@@ -38,5 +39,3 @@ table of contents: Create table of contents
 
 ## Programação orientada a objeto
  
-
-- 

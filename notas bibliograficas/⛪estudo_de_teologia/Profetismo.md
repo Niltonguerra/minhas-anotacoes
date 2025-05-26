@@ -1,7 +1,8 @@
 ---
 Date: 2024-11-09
 tags:
-  - tecnologia
+  - Teologia
+  - Teologia/Profetismo
 ---
 # Notas conectadas:
 Aula de análise para saber se vale a pena assinar a aula de teologia

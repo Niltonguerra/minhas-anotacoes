@@ -2,6 +2,7 @@
 Date: 2025-05-07T20:05:00
 tags:
   - tecnologia
+  - tecnologia/GerenciamentoDeProjetos
 ---
 # Notas conectadas:
 
