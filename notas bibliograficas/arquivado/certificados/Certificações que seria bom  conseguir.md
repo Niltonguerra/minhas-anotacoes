@@ -1,3 +1,8 @@
+---
+Date: 
+tags:
+---
+
 EXIN PDPF
 - certificação para tratar dados de pessoas no Brasil
 

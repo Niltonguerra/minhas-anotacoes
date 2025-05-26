@@ -1,3 +1,10 @@
+---
+Date: 
+tags:
+  - AspireLeaders
+---
+
+
 Enter your Week 2 Discussion Post here. 
 
 **Discussion Post #2**: Strengthening Communities Through Trust and Action

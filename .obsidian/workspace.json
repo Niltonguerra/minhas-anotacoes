@@ -11,10 +11,15 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notas bibliograficas/arquivado/certificados/Certificações que seria bom  conseguir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Certificações que seria bom  conseguir"
             }
           }
         ]
@@ -191,9 +196,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "notas bibliograficas/arquivado/certificados/Certificações que seria bom  conseguir.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Certificações que seria bom  conseguir"
             }
           },
           {
@@ -233,8 +240,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "991f1624b62a1b62",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Boas práticas na Modelagem de API's REST.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_1_levantamento_de_informacoes.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/tarefa.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/tarefa.md",
+    "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reuniao_dia_17_10_2024.md",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reunião_dia_22_10_2024.md",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta da reuniao_dia_31_10_24.md",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu colorido.JPG",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu esboso.JPG",
+    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_monitores/reunião dia 17_10.md",
+    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
     "notas bibliograficas/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/inovação.md",
     "notas bibliograficas/CriacaoDeEmpresas/grafico_de_inovacao.md",
@@ -251,22 +270,12 @@
     "notas bibliograficas/🎹estudo musical/plano de como estudar musica.md",
     "utilitarios/templates/template_english.md",
     "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 2.md",
-    "notas bibliograficas/📖idiomas/por que aprender outro idioma.md",
-    "notas bibliograficas/📖idiomas/english/inglês - por que aprender.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/o que é as 1000 palavras e por que aprender elas.md",
     "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/0-English_CORE2000.pdf",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/210 english frases.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 01 - some English grammar.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 3.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/words I already know.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/words I don't know.md",
     "notas bibliograficas/📖idiomas/english/img/pessego.png",
     "notas bibliograficas/📖idiomas/english/Videos_em_ingles/y2mate.com - Texto em Inglês com ÁUDIO e TRADUÇÃO 01_480p.mp4",
     "notas bibliograficas/📖idiomas/english/audio/Recording 20250115075015.m4a",
     "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074553.m4a",
     "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074025.m4a",
-    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
-    "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
     "notas bibliograficas/CriacaoDeEmpresas",
     "notas_permanentes/estrategias de estudo",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
@@ -280,8 +289,6 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520200225.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520204045.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419224319.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250414194124.png"
+    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png"
   ]
 }
