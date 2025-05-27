@@ -1,6 +1,7 @@
 ---
 Date: ""
 tags:
+  - tecnologia/CoreWebVitals
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.

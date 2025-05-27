@@ -1,6 +1,7 @@
 ---
 Date: ""
 tags:
+  - tecnologia/CoreWebVitals
 ---
  # Resumo da nota:
 no máximo 350 caracteres no resumo.
@@ -39,10 +40,13 @@ table of contents: Create table of contents
 - Use um CDN.
 	- o que é CDN(Content Delivery Network)?
 		- é a aplicação de servidores distribuídos ao redor do mundo para melhor a comunicação entre clientes  e servidores
-	- 
-
-
-
+	- exemplos de provedores de CDN:
+		- - Cloudflare
+		- Amazon CloudFront
+		- Akamai
+		- Fastly
+		- Google Cloud CDN
+		- Microsoft Azure CDN
 
 #### Cumulative Layout Shift (CLS)
 - mede a quantidade de alterações na página enquanto é carregada
@@ -63,6 +67,8 @@ table of contents: Create table of contents
 - Reduza o uso de JavaScript pesado.
 - Adie scripts não críticos.
 
+##### o que é um chunks?
+- é a prática de dividir o código JS(TS) em pequenos arquivos 
 ##### como dividir o código em pequenos chunks?
 
 

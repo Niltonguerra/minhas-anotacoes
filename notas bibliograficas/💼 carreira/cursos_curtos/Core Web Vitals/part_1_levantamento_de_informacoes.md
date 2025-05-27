@@ -1,6 +1,8 @@
 ---
 Date: ""
 tags:
+  - tecnologia/CoreWebVitals
+  - tecnologia
 ---
 # Resumo da nota:
 nessa nota vimos quais são as principais fontes sobre core webvitals para permitir posteriormente um estudo mais aprofundado sobre o mesmo
