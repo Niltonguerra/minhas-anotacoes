@@ -23,15 +23,15 @@ table of contents: Create table of contents
 ### pontos fracos
 
 ### benefícios
-- escalabilidade
-- manutenibilidade
-- testabilidade
+#### escalabilidade
+#### manutenibilidade
+#### testabilidade
 
 ### custos?
-- tempo necessário
-- complexidade
-- ele pode se tornar obsoleto?
-- ele pode ser descontinuado?
+#### tempo necessário
+#### complexidade
+#### ele pode se tornar obsoleto?
+#### ele pode ser descontinuado?
 
 ### quando é recomendável usar ele?
 
