@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/O que é arquitetura hexagonal.md",
+                "file": "utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "O que é arquitetura hexagonal"
+              "title": "part_1_levantamento_de_informacoes"
             }
           }
         ],
@@ -230,8 +230,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,16 +251,22 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "excel:Create Excel File": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83b1b99ec5f7e400",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "utilitarios/templates/template_estudo_sem_contexto/part_2_análise_inicial.md",
+    "utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
+    "utilitarios/templates/template_estudo_sem_contexto/part_3_estudo_inicial.md",
+    "utilitarios/templates/template_estudo_sem_contexto/part_10_proximos_passos.md",
+    "utilitarios/templates/template_estudo_sem_contexto/ets",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_2_análise_inicial.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/trabalhando com theads no JS",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/O que é arquitetura hexagonal.md",
     "conflict-files-obsidian-git.md",
     "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_9_resumo_geral_do_assunto.md",
@@ -272,7 +277,6 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_4_estudo_aprofundado.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_3_estudo_inicial.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_1_levantamento_de_informacoes.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_2_análise_inicial.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_10_proximos_passos.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals",
     "notas bibliograficas/arquivado/certificados/Alura/certificação01.pdf",
@@ -281,8 +285,6 @@
     "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado blockchain.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado 8.9.2021.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/3- Certificado Mercado de trabalho- Nilton.pdf",
-    "notas bibliograficas/arquivado/certificados/certificados SENAI/2- Certificado de finanças pessoais-Nilton.pdf",
-    "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Introdução a Design de código e Arquitetura de software.md",
     "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
     "Deus te amo!!!.md",
@@ -293,12 +295,8 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/tarefa.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/tarefa.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reuniao_dia_17_10_2024.md",
-    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reunião_dia_22_10_2024.md",
-    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta da reuniao_dia_31_10_24.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu colorido.JPG",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu esboso.JPG",
-    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_monitores/reunião dia 17_10.md",
-    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
     "notas bibliograficas/📖idiomas/english/img/pessego.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
