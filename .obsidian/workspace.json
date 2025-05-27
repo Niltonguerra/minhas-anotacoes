@@ -11,16 +11,15 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 842,
-                "zoom": 1.3001410787451946
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_2_análise_inicial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "certificação02"
+              "icon": "lucide-file",
+              "title": "template_ESC_part_2_análise_inicial"
             }
           }
         ]
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_2_análise_inicial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for certificação02"
+              "title": "Backlinks for template_ESC_part_2_análise_inicial"
             }
           },
           {
@@ -145,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_2_análise_inicial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from certificação02"
+              "title": "Outgoing links from template_ESC_part_2_análise_inicial"
             }
           },
           {
@@ -198,10 +197,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf"
+                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_2_análise_inicial.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for certificação02"
+              "title": "File properties for template_ESC_part_2_análise_inicial"
             }
           },
           {
@@ -245,6 +244,24 @@
   },
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/levantamento_de_informacoes.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_estudo_sem_contexto_geral.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_1_levantamento_de_informacoes.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_estudo_sem_contexto_geral.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_10_proximos_passos.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_9_resumo_geral_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_8_analise_de_outras_perspectivas_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_7_exercitando_o_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_6_avaliacao_do_assunto.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_5_Interacao_do_assunto_com_o_meio.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_4_estudo_aprofundado.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_3_estudo_inicial.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/template_ESC_part_2_análise_inicial.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_6_avaliacao_do_assunto.md",
+    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_10_proximos_passos.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/design de código/KISS/template_ESC_part_2_análise_inicial.md",
+    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals",
+    "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
     "notas bibliograficas/arquivado/certificados/Alura/certificação01.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/certificado Logística.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado LGPD.pdf",
@@ -253,36 +270,18 @@
     "notas bibliograficas/arquivado/certificados/certificados SENAI/3- Certificado Mercado de trabalho- Nilton.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/2- Certificado de finanças pessoais-Nilton.pdf",
     "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
-    "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
-    "notas bibliograficas/arquivado/certificados/outros/aspire.pdf",
-    "notas bibliograficas/arquivado/certificados/outros/cartaDeConhecimentoDoAspire.pdf",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Introdução a Design de código e Arquitetura de software.md",
     "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
     "Deus te amo!!!.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/porque a tecnologia pode ser um bom negocio.md",
     "notas bibliograficas/arquivado/certificados/Certificações que seria bom  conseguir.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Boas práticas na Modelagem de API's REST.md",
-    "utilitarios/templates/template_estudo_sem_contexto/template_ESC_part_1_levantamento_de_informacoes.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/tarefa.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 2-how to create an organization/tarefa.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reuniao_dia_17_10_2024.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta_reunião_dia_22_10_2024.md",
-    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/pauta da reuniao_dia_31_10_24.md",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu colorido.JPG",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu esboso.JPG",
-    "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_monitores/reunião dia 17_10.md",
-    "notas_permanentes/estrategias de estudo/0tabela_de_revisão.md",
-    "notas bibliograficas/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
-    "notas bibliograficas/🏢empresas/estudos-Globo/inovação.md",
-    "notas bibliograficas/CriacaoDeEmpresas/grafico_de_inovacao.md",
-    "notas bibliograficas/⛪estudo_de_teologia/introdução ao Profetismo.md",
-    "notas bibliograficas/🎹estudo musical/aulas/teclado/musica para tocar.md",
-    "notas bibliograficas/🎹estudo musical/aulas/teclado/introdução ao teclado.md",
-    "notas bibliograficas/🎹estudo musical/aulas/teclado/fórmula dos acordes.md",
-    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/figuras rítmicas aula 02.md",
-    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/importancia_das_escala_musical aula 02.md",
-    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
-    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/tempos - o que é na musica.md",
     "notas bibliograficas/📖idiomas/english/img/pessego.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
