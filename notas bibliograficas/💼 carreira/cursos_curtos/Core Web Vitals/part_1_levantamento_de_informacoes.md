@@ -21,9 +21,10 @@ table of contents: Create table of contents
 ### Pré-Requisitos e Contexto
 
 - Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
+	- é importante ter conhecimentos básicos sobre web
 
 - Em que contexto este tópico se insere?
-
+	- ele se insere nos quesitos de qualidade de uma aplicação web
 
 ### Fontes Primárias e Autoridades
 
@@ -35,3 +36,10 @@ table of contents: Create table of contents
 
 - por que eu deveria usar o mesmo ou não devo usar?
 
+
+- quais são as principais ferramentas para usar para auxiliar no controle de core web vitals?
+	- https://pagespeed.web.dev/
+	- ferramenta do browser do chrome lighthouse
+	 
+	- por que usar essas ferramentas?
+		- por que elas geram feedback com sugestões do que melhorar no sistema web
