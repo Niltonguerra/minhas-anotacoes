@@ -11,10 +11,16 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 842,
+                "zoom": 1.4828159396154013
+              },
+              "icon": "lucide-file-text",
+              "title": "certificação02"
             }
           }
         ]
@@ -235,6 +241,18 @@
   },
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "notas bibliograficas/arquivado/certificados/Alura/certificação01.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/certificado Logística.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado LGPD.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado blockchain.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado 8.9.2021.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/3- Certificado Mercado de trabalho- Nilton.pdf",
+    "notas bibliograficas/arquivado/certificados/certificados SENAI/2- Certificado de finanças pessoais-Nilton.pdf",
+    "notas bibliograficas/arquivado/certificados/fatec/Lógica de programação.pdf",
+    "notas bibliograficas/arquivado/certificados/fatec/IA 900.pdf",
+    "notas bibliograficas/arquivado/certificados/outros/aspire.pdf",
+    "notas bibliograficas/arquivado/certificados/outros/cartaDeConhecimentoDoAspire.pdf",
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/Introdução a Design de código e Arquitetura de software.md",
     "notas_permanentes/estrategias de estudo/estratégia de estudos introdução.md",
     "Deus te amo!!!.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/porque a tecnologia pode ser um bom negocio.md",
@@ -261,19 +279,7 @@
     "notas bibliograficas/🎹estudo musical/aulas/ler partitura/importancia_das_escala_musical aula 02.md",
     "notas bibliograficas/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
     "notas bibliograficas/🎹estudo musical/aulas/ler partitura/tempos - o que é na musica.md",
-    "notas bibliograficas/🎹estudo musical/aulas/teclado/Campo harmônico de Dó maior.md",
-    "notas bibliograficas/🎹estudo musical/aulas/teclado/por que dos nomes das notas.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/0-English_CORE2000.pdf",
     "notas bibliograficas/📖idiomas/english/img/pessego.png",
-    "notas bibliograficas/📖idiomas/english/Videos_em_ingles/y2mate.com - Texto em Inglês com ÁUDIO e TRADUÇÃO 01_480p.mp4",
-    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115075015.m4a",
-    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074553.m4a",
-    "notas bibliograficas/📖idiomas/english/audio/Recording 20250115074025.m4a",
-    "notas bibliograficas/CriacaoDeEmpresas",
-    "notas_permanentes/estrategias de estudo",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula05/DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
