@@ -19,6 +19,18 @@ table of contents: Create table of contents
 ## por que foi criado?
 
 ### quais são os princípios desse assunto? 
+#### Largest Contentful Paint (LCP)
+- mede o tempo do maior elemento visual ser renderizado
+- deve ser menor que 2.5 segundos
+
+Como melhorar:
+- Otimize imagens (compressão, formatos modernos como WebP).
+- Use carregamento assíncrono para scripts e fontes.
+- Melhore o tempo de resposta do servidor.
+- Use um CDN.
+##### o que é CDN?
+
+
 
 ### o que norteou o desenvolvimento do mesmo?
 
