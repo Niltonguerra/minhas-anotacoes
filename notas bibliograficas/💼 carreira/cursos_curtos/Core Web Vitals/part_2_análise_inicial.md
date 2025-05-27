@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2025-05-27T20:45:00
 tags:
   - tecnologia/CoreWebVitals
 ---
@@ -71,9 +71,7 @@ table of contents: Create table of contents
 - é a prática de dividir o código JS(TS) em pequenos arquivos 
 ##### como dividir o código em pequenos chunks?
 pode ser visto na seguinte nota:
-- [[como trabalhar com trunck dentro dentro do ecossistema JS]]
-
-
+- [[como trabalhar com trunck dentro do ecossistema JS]]
 
 
 #### Interaction to Next Paint (INP)
@@ -90,12 +88,8 @@ pode ser visto na seguinte nota:
 ##### O que é web Workers?
 - e uma funcionalidade do js que permite rodar theads em segundo plano, assim não bloqueando a thead principal
 
-##### Como usar web Workers?
-
-
-##### Como trabalhar com theads no frontend?
+##### Como trabalhar com theads no frontend? e Como usar web Workers?
 - esse vai ser um estudo posterior 
-
 
 ##### boas práticas de programação web:
 - usar `loading="lazy"` nas imagens e iframes

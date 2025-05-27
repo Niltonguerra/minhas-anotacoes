@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2025-05-27T20:46:00
 tags:
   - tecnologia/CoreWebVitals
   - tecnologia
