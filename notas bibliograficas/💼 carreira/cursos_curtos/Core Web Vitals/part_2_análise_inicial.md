@@ -2,7 +2,7 @@
 Date: ""
 tags:
 ---
-# Resumo da nota:
+ # Resumo da nota:
 no máximo 350 caracteres no resumo.
 exemplo de tamanho:
 ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
@@ -37,7 +37,9 @@ table of contents: Create table of contents
 	- gaste mais dinheiro com máquinas melhores, kkk 😂
 
 - Use um CDN.
-##### o que é CDN?
+	- o que é CDN(Content Delivery Network)?
+		- é a aplicação de servidores distribuídos ao redor do mundo para melhor a comunicação entre clientes  e servidores
+	- 
 
 
 
