@@ -52,8 +52,7 @@ table of contents: Create table of contents
 
 
 ### o que norteou o desenvolvimento do mesmo?
-asasasas
-sas
+a excelencia 
 
 ---
 ## quais são suas propriedades inerentes?
