@@ -52,8 +52,6 @@ table of contents: Create table of contents
 - evite colocar conteúdo dinâmico em cima de conteúdo fixo
 
 
-
-
 #### First Input Delay (FID)
 - mede o tempo da primeira interação do usuário e o site
 - deve ser menor que 0.1 segundos
@@ -81,8 +79,20 @@ table of contents: Create table of contents
 
 ##### Como usar web Workers?
 
+
 ##### Como trabalhar com theads no frontend?
 - esse vai ser um estudo posterior 
+
+
+##### boas práticas de programação web:
+- usar `loading="lazy"` nas imagens e iframes
+- usar fontes nativas ou bem otimizadas
+- minimize e comprima arquivos html,css e js(ts)
+- evite bloqueios de renderização com scripts síncronos
+- monitore com ferramentas como:
+	- [Core Web Vitals: Verifique Mobile e Desktop](https://chromewebstore.google.com/detail/core-web-vitals-verifique/aaldphpndekiaclbcmfgbghngcmeeeaf?hl=pt-br)
+	- Lighthouse do chrome
+	- https://pagespeed.web.dev/
 
 ### o que norteou o desenvolvimento do mesmo?
 - melhorar a experiencia do usuário em aplicações web
