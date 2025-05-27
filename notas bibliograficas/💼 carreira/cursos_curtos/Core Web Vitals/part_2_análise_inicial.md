@@ -70,6 +70,8 @@ table of contents: Create table of contents
 ##### o que é um chunks?
 - é a prática de dividir o código JS(TS) em pequenos arquivos 
 ##### como dividir o código em pequenos chunks?
+pode ser visto na seguinte nota:
+- [[como trabalhar com trunck dentro dentro do ecossistema JS]]
 
 
 
@@ -84,6 +86,9 @@ table of contents: Create table of contents
 	- compilar o código
 - Usar web workers.
 - Evitar tarefas longas no thread principal.
+
+##### O que é web Workers?
+- e uma funcionalidade do js que permite rodar theads em segundo plano, assim não bloqueando a thead principal
 
 ##### Como usar web Workers?
 
@@ -109,16 +114,29 @@ table of contents: Create table of contents
 ## quais são suas propriedades inerentes?
 
 ### pontos positivos 
+- indexa sua página no google mais facilmente
+- dá uma melhor experiencia do usuário
+- viabiliza um maior retorno financeiro para o negócio
 
 ### pontos negativos
+- da mais trabalho se atentar para esses pontos durante o desenvolvimento das aplicações
+- meios de desenvolvimento mais rápidos não conseguem um bom resultado com core Web Vitals
+- é preciso mais tem e esforço para poder implementar o core Web vitals
 
 ### quando é recomendável usar/aplicar?
+- Sempre que for fazer uma aplicação web
 
 ---
 ## definição oficial do assunto estudado
 
 ### Em uma frase, qual é o propósito ou a ideia central deste conteúdo?
+- tornar as aplicações web melhor para o usuário final
 
 ### como você explicaria isso para um amigo de forma simples?
+- meu chapa, é simples, sempre se atente para usar em suas aplicações web core web vitals
+	- se tá com pressa usa um lighthouse e arruma o que for mais fácil, tenta deixar tudo acima de 80
+	- 80 passa, kkkkk
+- mas seria se atente para isso, hoje em dia tem muitos sistemas com AI que permitem desenvolver aplicações muito rapidamente, se você ainda quer ser competitivo nesse mercado recomendo fortemente que se atente para isso, hoje não é mais diferencial, mas sim exigência que se saiba disso
 
 ### como você explicaria isso para um amigo de forma mais completa?
+estou com preguiça agora, depois faço isso...

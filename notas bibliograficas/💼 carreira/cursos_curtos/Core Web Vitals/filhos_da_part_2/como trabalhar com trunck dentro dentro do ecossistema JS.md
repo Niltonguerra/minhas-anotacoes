@@ -2,6 +2,7 @@
 Date: ""
 tags:
   - tecnologia/CoreWebVitals
+  - tecnologia/CoreWebVitals/TrabalhandoComTrunck
 ---
 # Notas conectadas:
 
