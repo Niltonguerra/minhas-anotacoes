@@ -15,9 +15,9 @@
               "state": {
                 "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
                 "page": 1,
-                "left": -40,
+                "left": -12,
                 "top": 842,
-                "zoom": 0.3905462542742348
+                "zoom": 1.3001410787451946
               },
               "icon": "lucide-file-text",
               "title": "certificação02"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for considerações iniciais sobre um projeto 1.1"
+              "title": "Backlinks for certificação02"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/FIAP/modulo 1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
+                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from considerações iniciais sobre um projeto 1.1"
+              "title": "Outgoing links from certificação02"
             }
           },
           {
@@ -188,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -197,9 +197,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for certificação02"
             }
           },
           {
@@ -208,26 +210,17 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1c2745c874601d39",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
