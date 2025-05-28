@@ -60,6 +60,7 @@ wine - vinho
 beef - bifé(por exemplo, uma carne é um bifé)
 chicken - galinha
 pork - é a carne do porco
+pig - porco
 fish - peixe
 lamb - lampada
 doctor - médico
@@ -125,7 +126,6 @@ orange - laranja(cor e fruta)
 potato - batata
 vegetable - vegetais
 cow - vaca
-pig - porco
 horse - cavalo
 snow - neve
 shirt - camiseta
@@ -140,7 +140,9 @@ carrot - cenoura
 onion - cebola
 sheep - ovelha
 rabbit - coelho
-cloud - sunny
+cloud - nuvem
+cloudy - nublado
+sunny- ensolarado
 rainy - chuva
 baby - bebê
 girl - menina
@@ -148,7 +150,7 @@ boy - menino
 happy - feliz
 sad - triste
 angry - nervoso
-shoe - sapato
+shoes - sapatos
 sock - meia
 underwear - roupa intima
 talk - falar 

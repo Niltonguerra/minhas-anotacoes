@@ -1,5 +1,5 @@
 ---
-Date: 2025-01-08
+Date: ""
 tags:
   - ingles/1000PalavrasMaisUsadas
 ---
