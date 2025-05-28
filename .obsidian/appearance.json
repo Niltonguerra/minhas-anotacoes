@@ -1,6 +1,8 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "sem-recuo"
+  ],
   "accentColor": "#bf92f9"
 }

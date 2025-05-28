@@ -11,12 +11,15 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/SENAI/instalações/Apostila Projetos Eletricos Revisão 01-2014 Colorida.pdf"
+                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/O que é  o node.js e o Event loop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Apostila Projetos Eletricos Revisão 01-2014 Colorida"
+              "icon": "lucide-file",
+              "title": "O que é  o node.js e o Event loop"
             }
           }
         ]
@@ -96,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 243.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -239,6 +242,12 @@
   },
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "Pasted image 20250528201744.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
+    "Deus te amo!!!.md",
+    "Pasted image 20250528201332.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/O que é  o node.js e o Event loop.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/SENAI/instalações/Apostila Projetos Eletricos Revisão 01-2014 Colorida.pdf",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/autodidata",
@@ -267,17 +276,12 @@
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/o que é as 1000 palavras mais usadas e por que aprender elas.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 1.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 0 - words I don't know.md",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 0 - words I already know.md",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/days of the week.md",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/210 english frases.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/materia_de_apoio/0-English_CORE2000.pdf",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/materia_de_apoio",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/img/Pasted image 20241231084656.png",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/img/pessego.png",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/img/Pasted image 20250113070911.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no TS",
-    "notas bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/sub_assunto",
     "notas bibliograficas/💼 carreira/estudo_empresas_trabalhadas/Globo/projeto_de_estagio/reuniao_com_laura/galileu colorido.JPG",
     "notas bibliograficas/💼 carreira/estudo_empresas_trabalhadas/Globo/projeto_de_estagio/reuniao_com_laura/galileu esboso.JPG",
     "Untitled 1.canvas",
@@ -285,7 +289,6 @@
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520200225.png"
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png"
   ]
 }
