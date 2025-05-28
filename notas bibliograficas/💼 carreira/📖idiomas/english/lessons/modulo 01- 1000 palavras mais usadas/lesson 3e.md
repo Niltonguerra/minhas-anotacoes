@@ -54,28 +54,28 @@ Though my jam didn’t turn out quite as good as my grandmother’s, the process
 blossoms(flores de frutas)
 ![[Recording 20250115074553.m4a]]
 
- ripest peach
+ ripest peach(pêssego maduro)
 ![[Recording 20250115075015.m4a]]
 
-pruning
+pruning(poda)
 ![[Recording 20250115075124.m4a]]
 
 cinnamon
 ![[Recording 20250115075300.m4a]]
 
-vendor
+vendor(vendedor)
 ![[Recording 20250115075507.m4a]]
 
 bought
 ![[Recording 20250115075640.m4a]]
 
-entire
+entire(inteira)
 ![[Recording 20250115075855.m4a]]
 
-ensure
+ensure(garantir)
 ![[Recording 20250115080159.m4a]]
 
-though
+though(no entanto)
 ![[Recording 20250115080437.m4a]]
 
 

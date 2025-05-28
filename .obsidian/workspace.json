@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 3.md",
+                "file": "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lesson 3"
+              "title": "lesson 2"
             }
           }
         ]
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 276.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 3.md",
+                "file": "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lesson 3"
+              "title": "Backlinks for lesson 2"
             }
           },
           {
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,9 +242,20 @@
   },
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/words I already know.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/lesson 2.md",
-    "notas bibliograficas/📖idiomas/english/lessons/📚 the 1000 words more used/210 english frases.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 3e.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 2.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 1 - some English grammar.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 0 - words I don't know.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/lesson 0 - words I already know.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/o que é as 1000 palavras mais usadas e por que aprender elas.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/210 english frases.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/materia_de_apoio/0-English_CORE2000.pdf",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/materia_de_apoio",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/inglês - por que aprender.md",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/img/Pasted image 20241231084656.png",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/img/pessego.png",
+    "notas bibliograficas/💼 carreira/📖idiomas/english/lessons/modulo 01- 1000 palavras mais usadas/img/Pasted image 20250113070911.png",
+    "notas bibliograficas/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_3_estudo_inicial.md",
     "notas bibliograficas/🎹estudo musical/aulas/ler partitura/importancia_das_escala_musical aula 02.md",
     "notas bibliograficas/🎹estudo musical/aulas/teclado/introdução ao teclado.md",
@@ -263,32 +274,21 @@
     "notas bibliograficas/💼 carreira/cursos_curtos/trabalhando com theads no TS/part_1_levantamento_de_informacoes.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/trabalhando com theads no TS/part_10_proximos_passos.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/trabalhando com theads no TS",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/sub_assunto/como trabalhar com trunck dentro do ecossistema JS.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/sub_assunto",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_5_Integracao_do_assunto_com_o_meio.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_1_levantamento_de_informacoes.md",
-    "utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
-    "utilitarios/templates/template_estudo_sem_contexto/part_6_avaliacao_do_assunto.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_5_Interacao_do_assunto_com_o_meio.md",
     "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals",
     "notas bibliograficas/arquivado/certificados/Alura/certificação02.pdf",
     "notas bibliograficas/arquivado/certificados/Alura/certificação01.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/certificado Logística.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado LGPD.pdf",
     "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado blockchain.pdf",
-    "notas bibliograficas/arquivado/certificados/certificados SENAI/Certificado 8.9.2021.pdf",
-    "notas bibliograficas/arquivado/certificados/certificados SENAI/3- Certificado Mercado de trabalho- Nilton.pdf",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu colorido.JPG",
     "notas bibliograficas/🏢empresas/estudos-Globo/projeto_de_estagio/reuniao_com_laura/galileu esboso.JPG",
-    "notas bibliograficas/📖idiomas/english/img/pessego.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250419221709.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520210151.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195817.png",
     "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520195830.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520200225.png",
-    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520204045.png",
-    "notas bibliograficas/💼 carreira/FIAP/modulo 1/img/Pasted image 20250520091804.png"
+    "notas bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/img/Pasted image 20250520200225.png"
   ]
 }
