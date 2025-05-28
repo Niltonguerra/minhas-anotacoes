@@ -193,7 +193,7 @@ scooter - scooter
 boat - barco
 turtle - tartaruga
 helicopter - helicóptero
-back - preto
+black - preto
 brown - marrom
 gray - cinza
 hear - ouvir
@@ -203,7 +203,7 @@ eleven - onze
 twelve - doze
 thirteen - treze
 e-mail - email
-cellular phone/ phone - celular
+cell phone/ phone - celular
 text message - mensagem de texto
 mouth - boca
 nose - nariz
@@ -259,7 +259,7 @@ ocean - oceano
 lake - lago
 document - documento
 computer - computador
-faz machine - máquina e fax
+fax machine - máquina e fax
 printer - impressora
 mechanical pencil - lapiseira
 ruler - quem cria as regras
