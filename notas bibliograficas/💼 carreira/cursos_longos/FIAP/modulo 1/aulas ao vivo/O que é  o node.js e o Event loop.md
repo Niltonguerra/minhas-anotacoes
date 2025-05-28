@@ -35,6 +35,7 @@ table of contents: Create table of contents
 
 
 ![[Pasted image 20250528203027.png]]
-![[Pasted image 20250528203546.png]]
+![[Pasted image 20250528203546.png|323]]
 
 
+![[Pasted image 20250528204916.png]]
