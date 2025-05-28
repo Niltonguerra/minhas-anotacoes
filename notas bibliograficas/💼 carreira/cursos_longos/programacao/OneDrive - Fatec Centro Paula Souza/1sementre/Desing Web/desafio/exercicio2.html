@@ -1,0 +1,37 @@
+<html>
+
+<head>
+	<title>Exemplo soma  </title>
+	<meta charset="UTF-8">
+
+	<script language="JavaScript">
+	
+		function inicio() {
+		var cpf = (window.prompt("Digite o seu cpf:"));
+		var nome = (window.prompt("Digite o seu nome:"));
+		
+		if (confirm("CPF: " + cpf +
+					"\n NOME: " + nome + 
+					"\n confirmados com sucesso!!!" +
+					"\n Prosseguir para o Google?")) {
+					window.open("https://www.google.com.br");
+					}
+			
+		else {alert("CPF: " + cpf + 
+					"\n cancelou a solicitação");
+		return false;
+		}
+		}													  	
+	
+	</script>
+<head>
+	
+	<body onload="inicio()">
+	
+	
+												<!-- Number, converte para numero -->
+												<!-- Window.promt, coloca um entrada de dados -->	
+	
+	
+	</body>
+</html>

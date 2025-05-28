@@ -1,0 +1,32 @@
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe.config
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.pdb
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Form1.resources
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Properties.Resources.resources
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\lab5.LABTEC\Desktop\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.pdb
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe.config
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.pdb
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Form1.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Properties.Resources.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.GenerateResource.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.pdb
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe.config
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\bin\Debug\prj_crud_cs_3dsm_1S23.pdb
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Form1.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.Properties.Resources.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.GenerateResource.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\prj_crud_cs_3dsm_1S23\prj_crud_cs_3dsm_1S23\obj\Debug\prj_crud_cs_3dsm_1S23.pdb

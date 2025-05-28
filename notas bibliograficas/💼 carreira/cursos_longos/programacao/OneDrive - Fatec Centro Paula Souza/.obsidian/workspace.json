@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "00ea742c0a77cc4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "115548e4ec7a4dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00fa76b6a0f95091",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d86354d5c947a52",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a640fac43f584b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d417d271be0ba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "698106e05da32960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbfd22de0b9b033f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "806dbd70977d6559",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aaeaecb74e6baea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b01f8d8c6e02d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6semestre/mineracao_dados/repositorioGitHub/mineracaoDeDados6Semestre/Aula 02 - ISW-039 - Mineração de Dados - KDD.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7843a580fb51c547",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6semestre/mineracao_dados/repositorioGitHub/mineracaoDeDados6Semestre/Aula 02 - ISW-039 - Mineração de Dados - KDD.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a39835103c90935a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "865eb9730324b5ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6semestre/mineracao_dados/repositorioGitHub/mineracaoDeDados6Semestre/Aula 02 - ISW-039 - Mineração de Dados - KDD.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e0d417d271be0ba0",
+  "lastOpenFiles": [
+    "Tela cadastro.pdf",
+    "Tela cadastro - Copia.docx",
+    "6semestre/nuvem 2/anotações sobre o resumo da apresentação 1.md",
+    "6semestre/mineracao_dados/repositorioGitHub/mineracaoDeDados6Semestre/Aula 01 - ISW-039 - Mineração de Dados - Introdução à Ciência de Dados.pdf",
+    "1sementre/Desing Web/trabalho de desing Web/imagens/gestão de pessoas.jpg",
+    "1sementre/Desing Web/trabalho de desing Web/imagens/excel.png",
+    "1sementre/Arquivos de Chat do Microsoft Teams/2022-06-07 19-19-20.mkv",
+    "1sementre/Arquivos de Chat do Microsoft Teams/Atividade_01.jpg",
+    "1sementre/Arquivos de Chat do Microsoft Teams/foto1.jpg",
+    "1sementre/Arquivos de Chat do Microsoft Teams/fundo.jpg"
+  ]
+}

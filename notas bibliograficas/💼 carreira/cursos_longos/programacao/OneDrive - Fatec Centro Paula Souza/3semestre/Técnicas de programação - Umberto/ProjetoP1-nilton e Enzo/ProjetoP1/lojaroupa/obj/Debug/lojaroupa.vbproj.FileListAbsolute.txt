@@ -1,0 +1,51 @@
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe.config
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.pdb
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.xml
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Form1.resources
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Resources.resources
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.exe
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.xml
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.pdb
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.login.resources
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.cadastro.resources
+C:\Users\lab5.LABTEC\Desktop\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.entrar.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe.config
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.pdb
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.xml
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.cadastro.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.entrar.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Form1.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.login.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Resources.resources
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.GenerateResource.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.exe
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.xml
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.pdb
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\Interop.ADODB.dll
+C:\Users\nilto\OneDrive - Fatec Centro Paula Souza\3semestre\Técnicas de programação - Umberto\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.ResolveComReference.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\Interop.ADODB.dll
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.ResolveComReference.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.exe
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.xml
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.pdb
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe.config
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.exe
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.pdb
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\bin\Debug\lojaroupa.xml
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.cadastro.resources
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.entrar.resources
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Form1.resources
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.login.resources
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.Resources.resources
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.GenerateResource.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoP1-nilton e Enzo\ProjetoP1\lojaroupa\obj\Debug\lojaroupa.vbproj.CoreCompileInputs.cache

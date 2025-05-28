@@ -1,0 +1,6 @@
+::1 - - [29/Aug/2022:21:35:41 -0300] "GET /phpmyadmin/ HTTP/1.1" 200 399
+::1 - - [29/Aug/2022:21:35:41 -0300] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [29/Aug/2022:21:35:46 -0300] "GET /phpmyadmin/ HTTP/1.1" 200 399
+::1 - - [29/Aug/2022:21:35:46 -0300] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [29/Aug/2022:21:35:53 -0300] "GET /phpmyadmin/ HTTP/1.1" 200 399
+::1 - - [29/Aug/2022:21:35:53 -0300] "GET /favicon.ico HTTP/1.1" 404 209

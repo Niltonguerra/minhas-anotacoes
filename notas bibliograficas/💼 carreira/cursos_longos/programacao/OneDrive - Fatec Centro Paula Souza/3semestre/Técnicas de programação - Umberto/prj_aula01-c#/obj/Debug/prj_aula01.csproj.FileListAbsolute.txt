@@ -1,0 +1,10 @@
+C:\Users\lab5\Desktop\prj_aula01\bin\Debug\prj_aula01.exe.config
+C:\Users\lab5\Desktop\prj_aula01\bin\Debug\prj_aula01.exe
+C:\Users\lab5\Desktop\prj_aula01\bin\Debug\prj_aula01.pdb
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.csprojAssemblyReference.cache
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.Form1.resources
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.Properties.Resources.resources
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.csproj.GenerateResource.cache
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.csproj.CoreCompileInputs.cache
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.exe
+C:\Users\lab5\Desktop\prj_aula01\obj\Debug\prj_aula01.pdb

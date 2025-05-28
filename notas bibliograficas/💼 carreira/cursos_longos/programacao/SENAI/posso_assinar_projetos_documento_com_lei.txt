@@ -1,0 +1,40 @@
+Posso assinar projetos com até 75kw de potencia!
+
+
+link:https://www.mundodaeletrica.com.br/projeto-eletrico-qual-potencia-maxima-para-o-tecnico/#:~:text=De%20acordo%20com%20o%20DECRETO,em%20instala%C3%A7%C3%B5es%20com%20baixas%20tens%C3%B5es.
+
+
+Projeto elétrico, qual potência máxima para o técnico?
+Em Projetos e esquemas elétricos por Henrique Mattede
+Temos hoje no mercado de trabalho muitas pessoas com a formação técnica em eletrotécnica, profissionais capacitados para atividades de execução, manutenção de componentes e equipamentos eletroeletrônicos. Esta formação possibilita que estes profissionais possam trabalhar em várias áreas como: indústrias metalúrgicas, assistência técnica, telecomunicações e na construção civil inclusive. Mas a principal área de atuação destes no mercado de trabalho é nas atividades voltados à geração, e transmissão e distribuição de energia elétrica. Uma das áreas mais seguidas por estes técnicos é o ramo dos projetos elétricos.
+
+Leia também
+Tipos de simbologia elétrica residencial!
+Tomada dupla, representação em projetos elétricos!
+O projeto elétrico é uma união de tabelas e plantas que definem onde serão colocados os pontos elétricos (tomadas, lâmpadas e quadro de distribuição), especifica o material a ser instalado, passagem de cabos, realiza o cálculo do orçamento e dimensionamento, informa sobre o contexto da instalação da parte elétrica em uma residência, e indústria de pequeno porte ou similar.
+
+Entretanto, há um limite máximo de instalação de potência que um técnico pode autorizar e assinar o projeto. De acordo com o DECRETO Nº 90.922, DE 6 FEV 1985, os técnicos podem projetar, instalar e assinar projetos com até no máximo 800KVA, ou seja, podem exercer sua função em instalações com baixas tensões.
+
+Carteira do Crea.
+Modelo de carteira do CREA.
+
+Então surge a dúvida do porquê existir uma potência máxima de instalação para um técnico? A justificativa é simples, durante a formação em nível técnico, a grade curricular não contempla todas as disciplinas necessárias para calcular e projetar potências acima dos 800KVA já regulamentado. Quando é finalizado todos os cálculos do projeto e somado todas as potências ativas, utiliza-se o fator de potência para identificar qual será a energia necessária para que tudo funcione corretamente, ou seja, a “quantidade de eletricidade” que a concessionária disponibilizará para o projeto.
+
+A partir do momento em que a potência ultrapassa o valor de 75 KW, é exigido, pelas fornecedoras concessionárias projetos de subestação.
+
+A subestação tem conexão direta através de um transformador com a rede de distribuição e alta tensão, e para esta situação é exigido no currículo matérias que são ensinadas apenas no ensino superior em cursos de Engenharia, desta forma apenas quem possui tal formação está preparado adequadamente para tal situação. Isto gera uma grande discussão com relação a um patamar de 75KW máximo para projetos e a responsabilidade de um técnico.
+
+Após formada em um curso na área da Engenharia Elétrica, segundo a Resolução Nº 218, DE 29 JUN 1973, o profissional pode desempenhar todas as atividades do 1º artigo, esta resolução possibilita que o engenheiro eletricista possa atuar na elaboração de plantas de indústrias de geração de energia, como hidrelétricas, usinas eólicas e outras.
+
+Para que um projeto seja válido alguns passos devem ser seguidos:
+
+Registro no conselho competente de classe;
+No Brasil o conselho competente para as áreas técnicas é o CREA Conselho Regional de Engenharia e Agronomia, todos profissionais de nível técnico ou superior (sejam engenheiros ou tecnólogos) devem ter cadastro nos CREA’s estaduais.
+
+Registro da ART do projeto;
+ART é uma sigla para anotação de responsabilidade técnica, este documento é expedido pelo CREA e identifica quem é o responsável técnico pelo projeto, obra ou manutenção, este documento é um dispositivo que garante um contrato de responsabilidade pelo serviço das áreas técnicas.
+
+Realizar projeto de acordo com as normas estabelecidas;
+Trabalhar dentro das normas é garantia que o projeto será realizado de maneira adequada e segura em conformidade com produtos, componentes e práticas ideais. A ABNT Associação Brasileira de Normas Técnicas é o órgão responsável pela emissão de normas técnicas no Brasil, para a área da eletricidade a ABNT conta com um comitê específico, o comitê ABNT/CB-003 – Comitê Brasileiro de Eletricidade.
+
+Com estas informações é possível para o técnico recém formado e mesmo para os experientes que possuem dúvidas entender qual a potência máxima de projeto para cada categoria de profissional.

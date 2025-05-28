@@ -1,0 +1,10 @@
+C:\Users\lab5\Desktop\CRUD_Cdsm\bin\Debug\CRUD_Cdsm.exe.config
+C:\Users\lab5\Desktop\CRUD_Cdsm\bin\Debug\CRUD_Cdsm.exe
+C:\Users\lab5\Desktop\CRUD_Cdsm\bin\Debug\CRUD_Cdsm.pdb
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.csprojAssemblyReference.cache
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.Form1.resources
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.Properties.Resources.resources
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.csproj.GenerateResource.cache
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.csproj.CoreCompileInputs.cache
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.exe
+C:\Users\lab5\Desktop\CRUD_Cdsm\obj\Debug\CRUD_Cdsm.pdb

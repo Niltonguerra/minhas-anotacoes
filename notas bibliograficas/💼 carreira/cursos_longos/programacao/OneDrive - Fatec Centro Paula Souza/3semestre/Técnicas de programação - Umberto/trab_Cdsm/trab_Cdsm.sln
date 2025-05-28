@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trab_Cdsm", "trab_Cdsm.csproj", "{43557E98-7BBD-428E-9FF3-44FA7118E00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43557E98-7BBD-428E-9FF3-44FA7118E00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43557E98-7BBD-428E-9FF3-44FA7118E00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43557E98-7BBD-428E-9FF3-44FA7118E00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43557E98-7BBD-428E-9FF3-44FA7118E00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE5FDE6-B472-45E4-9DDC-8DD3C31E04A9}
+	EndGlobalSection
+EndGlobal

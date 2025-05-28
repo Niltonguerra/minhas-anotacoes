@@ -1,0 +1,26 @@
+integração continua
+	ato integrar continuamente a versao no software, aplicativo etc
+-controle de versao do código
+	tanto do codigo que esta sendo testado quanto do que esta funcionando, pode ser usado pelo git ou alguma ferramenta que faça esse controle
+	- git e github
+		git é um software livre feito pelo linux
+		github serviço gratuito de git
+-metodologias de desenvolvimento agil
+-testes de integração: de preferencia automatizados
+	-testes: Unidade, Integração e compilação.
+-Termina na versão de teste funcional.
+
+
+entrega continua
+	v1.2.3
+	1.Grande atualização 2.Funcionalidade 3.Correção de bugs
+-testes: aceitação(usuario, patrocinador), testes de implantação, teste de interface UI UX
+-Implantação versao estavel
+
+
+docker: Virtualização de containers -> App, apis, Servicos
+	DockerFile: serve para criar a sua imagem de um container. Eu quero o meu aplicativo rodando dentro de um container, 
+eu nao irei encontrar uma imagem do meu container rodando dentro do dockerhub, mas eu posso usar o ambiente usando uma configuração específica no dockerfile, 
+para criarmos a nossa imagem. Eu irei informar de onde vem, imagem base, comando que vou executar na criação, cada comando que eu fizer dentro do container, 
+ele virará uma nova camada.
+	docker-compose.: Coordenar a criação de varios containers de um aplicativo ou serviço  
