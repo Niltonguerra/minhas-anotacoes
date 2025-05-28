@@ -27,7 +27,8 @@ NT: Novo Testamento
 
 - Quando muda as imagens muda a teologia
 	- Se constrói um templo segundo os princípios bíblicos de AT, você muda a teologia para a de AT.
-	- **Onde está embasado essa afirmação?**
+		- Onde está embasado essa afirmação?
+
 
 - Como descobrir quem é profeta
 	- Se não se cumprir a profecia, não é profeta
@@ -39,5 +40,6 @@ NT: Novo Testamento
 		- pois prevê o futuro
 	- Quando surge o profeta, surge a democracia
 	- Fala do momento presente também, para gerar mudança
+		- como a chegada do anti-cristo
 
 - o AT revela o NT e não  o NT dá clareza para o AT

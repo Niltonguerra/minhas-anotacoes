@@ -24,8 +24,11 @@ table of contents: Create table of contents
 
 ## Convertendo notas da escala em graus
 - O primeiro grau de cada escala é a tônica(ex: o primeiro grau da escala de Dó maior é a nota Dó) 
-- Quando diz que quer uma música com baixo na tônica em Dó maior, quer dizer que pegue a nota tônica e use ela em uma oitava menor
-- converter notas em graus quer dizer ao invés de usar as notas usar numeros, por exemplo:
+- Quando diz que quer uma música com baixo na tônica em Dó maior, 
+	- quer dizer que: 
+		- pegue a nota tônica e use ela em uma oitava menor
+		
+- converter notas em graus quer dizer ao invés de usar as notas usar números, por exemplo:
 	- na escala de Dó maior:
 		- notas:
 		- Dó, Ré, Mi, Fa, Sol, La, Sí, Dó
@@ -34,8 +37,7 @@ table of contents: Create table of contents
 
 
 ## Formula da escala tonal Maior
-
-**para toda escala maior é composta da seguinte forma:**  
+**toda escala tonal maior é composto pela seguinte formula: **  
 ### 1 , 1 , 1/2 , 1 , 1 , 1 , 1/2
 
 ## Escalas maiores:
