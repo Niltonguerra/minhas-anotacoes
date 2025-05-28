@@ -1,7 +1,6 @@
 ---
 Date: ""
 tags:
-  - tecnologia/CoreWebVitals
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
@@ -17,5 +16,6 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## Resumo do assunto Completo
-### resuma tudo o que foi estudado sobre o assunto nessa nota
+## Validação e Revisão Externa:
+
+### Busque diferentes perspectivas

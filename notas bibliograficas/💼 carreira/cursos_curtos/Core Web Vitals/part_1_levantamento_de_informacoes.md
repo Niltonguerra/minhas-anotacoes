@@ -1,6 +1,8 @@
 ---
-Date: ""
+Date: 2025-05-27T20:46:00
 tags:
+  - tecnologia/CoreWebVitals
+  - tecnologia
 ---
 # Resumo da nota:
 nessa nota vimos quais são as principais fontes sobre core webvitals para permitir posteriormente um estudo mais aprofundado sobre o mesmo
@@ -102,6 +104,7 @@ nessa nota vimos quais são as principais fontes sobre core webvitals para permi
 ### quais são as principais ferramentas para usar para auxiliar no controle de core web vitals?
 - https://pagespeed.web.dev/
 - ferramenta do browser do chrome lighthouse
+-  [Core Web Vitals: Verifique Mobile e Desktop](https://chromewebstore.google.com/detail/core-web-vitals-verifique/aaldphpndekiaclbcmfgbghngcmeeeaf?hl=pt-br)
  
 - por que usar essas ferramentas?
 	- por que elas geram feedback com sugestões do que melhorar no sistema web
