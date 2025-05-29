@@ -39,3 +39,18 @@ table of contents: Create table of contents
 
 
 ![[Pasted image 20250528204916.png]]
+
+
+![[Pasted image 20250528205027.png]]
+
+![[Pasted image 20250528205208.png]]
+![[Pasted image 20250528205614.png]]
+
+![[Pasted image 20250528205753.png]]
+
+
+
+
+
+
+
