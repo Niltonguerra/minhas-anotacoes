@@ -10,6 +10,8 @@ no máximo 350 caracteres no resumo.
 exemplo de tamanho:
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
+nessa aula vimos a história node, assim como sua estrutura e o que é o event loop, e como ele funciona, assim como as prioridades com callback, promisses, asysc/await e eventEmitter
+
 # Tópicos:
 
 comando para criar o sumário automaticamente: 
@@ -90,3 +92,19 @@ table of contents: Create table of contents
 ![[Pasted image 20250528213152.png]]
 ![[Pasted image 20250528213222.png]]
 ![[Pasted image 20250528213206.png]]
+
+
+![[Pasted image 20250528213241.png]]
+
+
+![[Pasted image 20250528213442.png]]
+
+
+![[Pasted image 20250528213527.png]]
+
+
+![[Pasted image 20250528213657.png]]
+
+
+
+![[Pasted image 20250528213710.png]]
