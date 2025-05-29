@@ -42,6 +42,7 @@ table of contents: Create table of contents
 - ciclo da vida do event loop
 
 
+
 ![[Pasted image 20250528204916.png]]
 
 
@@ -68,3 +69,24 @@ table of contents: Create table of contents
 
 ![[Pasted image 20250528211750.png]]
 
+
+
+![[Pasted image 20250528212048.png]]
+- você pode dar um jeitinho para poder aumentar a quantidade de theads no node
+- o padrão é 4, mas dá para mudar
+
+
+
+![[Pasted image 20250528212410.png]]
+
+
+
+![[Pasted image 20250528212718.png]]
+
+
+
+![[Pasted image 20250528212850.png]]
+
+![[Pasted image 20250528213152.png]]
+![[Pasted image 20250528213222.png]]
+![[Pasted image 20250528213206.png]]
