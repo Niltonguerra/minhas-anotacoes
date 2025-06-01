@@ -11,15 +11,12 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/06- O que e  o node.js e o Event loop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528204916.png"
               },
-              "icon": "lucide-file",
-              "title": "06- O que e  o node.js e o Event loop"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250528204916"
             }
           }
         ]
@@ -241,36 +238,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "991f1624b62a1b62",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
-    "Pasted image 20250528213710.png",
-    "Pasted image 20250528213657.png",
-    "Pasted image 20250528213527.png",
-    "Pasted image 20250528213442.png",
-    "Pasted image 20250528213241.png",
-    "Pasted image 20250528213222.png",
-    "Pasted image 20250528213206.png",
-    "Pasted image 20250528213152.png",
-    "Pasted image 20250528213140.png",
-    "Pasted image 20250528212850.png",
-    "Pasted image 20250528212718.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/escola-ensino-medio/portugues",
+    "notas bibliograficas/💼 carreira/cursos_longos/escola-ensino-medio",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528205027.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528205614.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528211554.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528212718.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213140.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213222.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213527.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213710.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/06- O que e  o node.js e o Event loop.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/Arquitetura de Soluções para Desenvolvedores Full Stack No-Code.pdf",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/code_slide_24_worker.js",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/nodejs_event_loop.pdf",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/code_slide_24_main.js",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_8.ts",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_26.ts",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_22.ts",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_24.ts",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_19.ts",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213657.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213442.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/05- aula do dia 20 05 2025 - orientação a objeto no typescript.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/Live 04 - No Code para automacoes de processos de negocios.pdf",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/3- Introdução a arquitetura de soluções.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/aula 02 gerenciamento de projetos.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/slides_aula_principios_dev_lowcode.pdf",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/Ferramentas Low-Code e No-Code_5fsdt.pdf",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
     "Deus te amo!!!.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/SENAI/instalações/Apostila Projetos Eletricos Revisão 01-2014 Colorida.pdf",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
-    "notas bibliograficas/💼 carreira/cursos_curtos/autodidata",
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/grafico_de_inovacao.md",
     "notas bibliograficas/ocio/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
-    "notas bibliograficas/ocio",
     "notas_permanentes/utilitarios/templates/template_english.md",
     "notas_permanentes/utilitarios/templates/template programação.md",
     "notas_permanentes/utilitarios/templates/template_Cornell.md",
@@ -286,9 +286,6 @@
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_2_análise_inicial.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/inglês - por que aprender.md",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/material_de_apoio",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/lessons",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/img",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
