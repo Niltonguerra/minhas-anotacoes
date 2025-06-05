@@ -11,12 +11,15 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528204916.png"
+                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250528204916"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -214,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +241,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/Untitled.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/modulo01.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528204916.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2",
     "notas bibliograficas/💼 carreira/cursos_curtos/Marketing Digital",
     "notas bibliograficas/💼 carreira/cursos_longos/escola-ensino-medio/portugues",
     "notas bibliograficas/💼 carreira/cursos_longos/escola-ensino-medio",
@@ -257,11 +266,7 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/code_slide_24_main.js",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_8.ts",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_26.ts",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_22.ts",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_24.ts",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213657.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213442.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/05- aula do dia 20 05 2025 - orientação a objeto no typescript.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/3- Introdução a arquitetura de soluções.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/aula 02 gerenciamento de projetos.md",
@@ -284,8 +289,6 @@
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_4_estudo_aprofundado.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_3_estudo_inicial.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_2_análise_inicial.md",
-    "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
-    "notas bibliograficas/💼 carreira/📖idiomas/english/inglês - por que aprender.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
