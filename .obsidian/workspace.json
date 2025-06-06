@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/Untitled.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/docker_01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "docker_01"
             }
           }
         ]
@@ -244,6 +244,9 @@
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/docker_01.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/Untitled.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/modulo01.md",
@@ -265,12 +268,10 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/nodejs_event_loop.pdf",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/code_slide_24_main.js",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/27-05-2025 - Alguns Padrões de Projetos com TypeScript/code_slide_8.ts",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213657.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/05- aula do dia 20 05 2025 - orientação a objeto no typescript.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/3- Introdução a arquitetura de soluções.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/aula 02 gerenciamento de projetos.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
     "Deus te amo!!!.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
@@ -288,7 +289,6 @@
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_5_Interacao_do_assunto_com_o_meio.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_4_estudo_aprofundado.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_3_estudo_inicial.md",
-    "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_2_análise_inicial.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
