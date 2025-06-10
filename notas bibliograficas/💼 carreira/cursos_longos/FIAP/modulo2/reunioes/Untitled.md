@@ -3,9 +3,9 @@ Date: ""
 tags: []
 ---
 # pauta da reunião:
-- mudar a hora para 21:30?
-- tentar deixar a reunião com no máximo 30 minutos?
-- qual quando vamos usar?(noSQL ou SQL)
+- mudar a hora para 21:30? 👍
+- tentar deixar as reuniões em média com 30 minutos? 👍
+- qual quando vamos usar?(noSQL ou SQL)?
 sou a favor de noSQL, mais precisamente mongo, mas vocês que sabem
 
 - perguntar se acham interessante fazer um sistema de autenticação para o projeto?)
