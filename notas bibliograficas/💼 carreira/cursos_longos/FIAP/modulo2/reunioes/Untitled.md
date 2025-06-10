@@ -6,14 +6,14 @@ tags: []
 - mudar a hora para 21:30? 👍
 - tentar deixar as reuniões em média com 30 minutos? 👍
 - qual quando vamos usar?(noSQL ou SQL)?
+	- SQL👍
 sou a favor de noSQL, mais precisamente mongo, mas vocês que sabem
 
 - perguntar se acham interessante fazer um sistema de autenticação para o projeto?)
-	- segundo o professor no próximo modulo vai ser front end
-	- então fazer um backend robusto talvez seja interressante
+	- então fazer um backend robusto talvez seja interressante (se der tempo)👍
 
 
-- o que acham de usar nest.js? é um framework que foi feito com base no node.js
+- o que acham de usar nest.js? é um framework que foi feito com base no node.js👍
 
 
 - levantamento de tarefas
