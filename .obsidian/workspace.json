@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas/11062025.md",
+                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas/11062025-aula-fiap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11062025"
+              "title": "11062025-aula-fiap"
             }
           }
         ]
@@ -217,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,10 +244,11 @@
   },
   "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "Pasted image 20250611205130.png",
     "Pasted image 20250611203543.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/11062025.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas/11062025.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas/11062025-aula-fiap.md",
     "Pasted image 20250611202843.png",
     "Pasted image 20250611202618.png",
     "Pasted image 20250611202331.png",
@@ -268,7 +270,6 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528205614.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528211554.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528212718.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/img/Pasted image 20250528213140.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/06- O que e  o node.js e o Event loop.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/code_slide_24_worker.js",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/28-05-2025 - O que é o Node.js e o Event Loop/nodejs_event_loop.pdf",
