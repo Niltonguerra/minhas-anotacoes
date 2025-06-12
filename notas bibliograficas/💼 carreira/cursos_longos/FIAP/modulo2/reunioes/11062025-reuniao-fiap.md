@@ -30,8 +30,8 @@ Perguntas para o time:
 	- o que acham de cada sprint durar apenas 1 semana já tem temos só 2 meses?
 	- resposta: sim
 	- o que acham de uma história por pessoa por sprint? 
-		- 
 		- falo isso por que temos diferentes níveis de devs no time então isso pode gerar uma certa dificuldade para definir uma quantidade de pontos para cada dev
+		- foi ajustado que vai ser feito caso a caso
 
 
 - perguntar os emails do github deles
