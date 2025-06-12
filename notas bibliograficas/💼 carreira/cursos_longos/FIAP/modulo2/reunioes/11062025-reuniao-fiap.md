@@ -7,23 +7,34 @@ tags:
 
 Perguntas para o professor:
 - perguntar se é para fazer duas rotas obrigatoriamente ou podemos fazer apenas uma rota para buscar os posts
+	- duas rotas 
 - conversar com o professor sobre como deve ser feito a documentação.
+	- não vai implementar o bpmn
+	- vai doc no word
 
 Perguntas para o time:
-- Gerenciamento de pacotes (npm, yarn, pnpm)
+- Gerenciamento de pacotes (npm, yarn, pnpm) 
+	- pnpm
 - Gerenciamento de versões (github, gitlab)
-- Padronização de código (lint -> prettier?)
+	- git hub
+- Padronização de código (eslint -> prettier?)
+	- positivo
 - Método de autenticação -> Recomendo usar Bearer Token com JWT
+	- pode usar o JWT
 - Qual banco SQL -> (PostgreSQL, MySQL, SQLite...)
-- perguntar os emails do github deles
-- 
+	- postgreSQL
+
 
 - o que acham de a gente fazer sprint desse modulo do projeto?
+	- resposta: sim
 	- o que acham de cada sprint durar apenas 1 semana já tem temos só 2 meses?
+	- resposta: sim
 	- o que acham de uma história por pessoa por sprint? 
+		- 
 		- falo isso por que temos diferentes níveis de devs no time então isso pode gerar uma certa dificuldade para definir uma quantidade de pontos para cada dev
 
 
+- perguntar os emails do github deles
 
 
 
