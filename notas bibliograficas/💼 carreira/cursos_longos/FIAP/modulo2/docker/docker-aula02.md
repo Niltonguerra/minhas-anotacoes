@@ -53,6 +53,29 @@ docker container stats (id do container)
 docker container attach (id do container)
 - entra em um container em execução
 
+docker container restart (id do container)
+- reinicia o container
 
+docker container stop (id do container)
+- para o container
 
+docker container ls 
+- lista todos os containers
 
+docker container start (id do container)
+- inicia um container
+
+docker container pause (id do container)
+- pausa o container
+
+docker container unpause (id do container)
+- tira o pause do container
+
+docker container rm (id do container)
+- deleta um container
+
+docker rmi (nome da imagem)
+- exclui uma imagem do docker
+
+docker container top (id do container)
+- mostra as principais
