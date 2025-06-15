@@ -21,3 +21,13 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 sempre escreva Dockerfile com o 'D' maiúsculo
+
+no Dockerfile, sempre execute quando for instalar as dependências usando o pnpm
+- sem instale assim: ``RUN pnpm install --frozen-lockfile``
+	- isso permite que a instalação das dependências seja feita como sem atualizações inesperadas de dependências
+
+
+o ``CMD[]`` é executado depois que o container já subiu, diferente dos outros comando do Dockerfile
+
+
+- cada instrução dada no dockerfile é uma etapa de subida d
