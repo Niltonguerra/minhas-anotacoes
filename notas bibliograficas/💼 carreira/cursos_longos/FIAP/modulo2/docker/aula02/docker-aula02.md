@@ -30,4 +30,6 @@ no Dockerfile, sempre execute quando for instalar as dependências usando o pnpm
 o ``CMD[]`` é executado depois que o container já subiu, diferente dos outros comando do Dockerfile
 
 
-- cada instrução dada no dockerfile é uma etapa de subida d
+- cada instrução dada no Dockerfile é uma etapa para subir o container, sabe aquele numero que aparece quando você está subindo um container, tipo [1/4], então me refiro a essas etapas
+![[Pasted image 20250615192151.png]]
+
