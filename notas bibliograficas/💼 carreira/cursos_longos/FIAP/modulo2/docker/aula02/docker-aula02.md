@@ -7,7 +7,7 @@ tags:
 
 
 # Resumo da nota:
-nessa aula vimos que sempre que é preciso usar --fronzen-lockfile quando se usa pnpm com docker e também aprendemos o que são as etapas do docker
+nessa aula vimos que sempre que é preciso usar --fronzen-lockfile quando se usa pnpm com docker e também aprendemos o que são as etapas do docker e sobre o ciclo de inicialização de quando se da o comando docker compose up
 
 # Tópicos:
 
