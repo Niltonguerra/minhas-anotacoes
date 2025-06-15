@@ -26,7 +26,7 @@ dockerfile
 flags no docker:
 - `-d`
 	- usado para rodar um container em segundo plano
-- 
+- `-i`
 
 
 
