@@ -33,16 +33,25 @@ flags no docker:
 	- ex:docker compose -f docker/docker-compose.local.yml up -rm
 - `--name`
 	- defini um nome para o container
-	- docker compose -f docker/docker-compose.local.yml up -d
+	- ex:docker-compose run --name meu-container meu-servico
 - `-it`
 	- entra dentro do container
 	- ex: docker compose -f docker/docker-compose.local.yml up -it
 - `-f`
 	- escolhe qual arquivo docker vai ser executado
 	- ex: docker compose -f docker/docker-compose.local.yml up
+## docker ps
 - `-a` 
 	- mostra coisas ocultas
+	- ex:docker ps -a
 
+
+## comandos uteis:
+docker container stats (id do container)
+- comando mostra o consumo do container
+
+docker container attach (id do container)
+- entra em um container em execução
 
 
 
