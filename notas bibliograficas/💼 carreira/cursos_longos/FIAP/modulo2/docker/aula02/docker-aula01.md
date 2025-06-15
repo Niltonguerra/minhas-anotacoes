@@ -1,30 +1,27 @@
 ---
-Date: ""
-tags: []
+Date: 2025-06-15T18:55:00
+tags:
+  - fiap/modulo02/docker
 ---
 # Notas conectadas:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa aula vimos os alguns comandos com o docker
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#para que serve o dockerfile?|para que serve o dockerfile?]]
+- [[#flags no docker:|flags no docker:]]
+	- [[#flags no docker:#docker compose up|docker compose up]]
+	- [[#flags no docker:#docker ps|docker ps]]
+- [[#comandos uteis:|comandos uteis:]]
 
 # Explicação dos tópicos:
 
-dockerfile
+## para que serve o dockerfile?
 - usado para subir um único container
 
-
-flags no docker:
-## docker compose up
+## flags no docker:
+### docker compose up
 - `-d`
 	- usado para rodar um container em segundo plano
 	- ex: docker compose -f docker/docker-compose.local.yml up -d
@@ -40,7 +37,7 @@ flags no docker:
 - `-f`
 	- escolhe qual arquivo docker vai ser executado
 	- ex: docker compose -f docker/docker-compose.local.yml up
-## docker ps
+### docker ps
 - `-a` 
 	- mostra coisas ocultas
 	- ex:docker ps -a
@@ -78,4 +75,4 @@ docker rmi (nome da imagem)
 - exclui uma imagem do docker
 
 docker container top (id do container)
-- mostra as principais
+- mostra as principais informações sobre o container
