@@ -24,9 +24,25 @@ dockerfile
 
 
 flags no docker:
+## docker compose up
 - `-d`
 	- usado para rodar um container em segundo plano
-- `-i`
+	- ex: docker compose -f docker/docker-compose.local.yml up -d
+- `--rm`
+	- exclui o container depois de parar ele
+	- ex:docker compose -f docker/docker-compose.local.yml up -rm
+- `--name`
+	- defini um nome para o container
+	- docker compose -f docker/docker-compose.local.yml up -d
+- `-it`
+	- entra dentro do container
+	- ex: docker compose -f docker/docker-compose.local.yml up -it
+- `-f`
+	- escolhe qual arquivo docker vai ser executado
+	- ex: docker compose -f docker/docker-compose.local.yml up
+- `-a` 
+	- mostra coisas ocultas
+
 
 
 
