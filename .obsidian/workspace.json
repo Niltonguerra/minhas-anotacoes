@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "boas_praticas_02"
+              "title": "nodeJS-história-e-curiosidades"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for boas_praticas_02"
+              "title": "Backlinks for nodeJS-história-e-curiosidades"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from boas_praticas_02"
+              "title": "Outgoing links from nodeJS-história-e-curiosidades"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for boas_praticas_02"
+              "title": "File properties for nodeJS-história-e-curiosidades"
             }
           }
         ]
@@ -205,8 +205,11 @@
   },
   "active": "d9e3e4a1bec04e8a",
   "lastOpenFiles": [
-    "notas_bibliograficas/relatorios/Pomodoro Log.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios",
+    "notas_bibliograficas/relatorios/Pomodoro Log.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Fundamentos de linguista para processamento de linguagem natural.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/nuvem 2/COMPUTAÇÃO EM NUVEM E SUSTENTABILIDADE.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/o que é Clean Architecture.md",
@@ -233,7 +236,6 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/docker_01.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02/2_1_ Gerenciamento de Contêineres",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250615195342.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611210243.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202331.png",
@@ -249,8 +251,6 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/modulo01.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/06- O que e  o node.js e o Event loop.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/05- aula do dia 20 05 2025 - orientação a objeto no typescript.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/3- Introdução a arquitetura de soluções.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/aula 02 gerenciamento de projetos.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
