@@ -9,7 +9,7 @@
   "enableTaskTracking": true,
   "logFile": "FILE",
   "logFocused": true,
-  "logPath": "",
+  "logPath": "./",
   "logLevel": "ALL",
   "logTemplate": "",
   "logFormat": "SIMPLE",

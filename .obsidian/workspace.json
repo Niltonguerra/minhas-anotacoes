@@ -11,10 +11,10 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -44,22 +44,12 @@
             }
           },
           {
-            "id": "3d14eef97b09bca3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
             "id": "ae385e8e5901ef46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:musica",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,81 +61,13 @@
             }
           },
           {
-            "id": "2d0b097190e6f398",
+            "id": "95d1c939de81c5c0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ece6c7186dfa5043",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 235.5
-  },
-  "right": {
-    "id": "6d280047996c7655",
-    "type": "split",
-    "children": [
-      {
-        "id": "040c3fbe8594b1ec",
-        "type": "tabs",
-        "dimension": 63.55555555555556,
-        "children": [
-          {
-            "id": "076095e195ae4a82",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
-          },
-          {
-            "id": "4dc1e53f5f99e023",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for por que se integrar na lingua- como estudar isso"
-            }
-          },
-          {
-            "id": "738b789336f7b652",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_2_análise_inicial.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from part_2_análise_inicial"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -176,15 +98,60 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "6d280047996c7655",
+    "type": "split",
+    "children": [
+      {
+        "id": "040c3fbe8594b1ec",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1be2b055b1e94437",
+            "id": "076095e195ae4a82",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "oz-calendar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "4dc1e53f5f99e023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "738b789336f7b652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -192,38 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_curtos/Core Web Vitals/part_2_análise_inicial.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for part_2_análise_inicial"
-            }
-          },
-          {
-            "id": "95d1c939de81c5c0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f37e8dbcb6dc1fed",
-        "type": "tabs",
-        "dimension": 36.44444444444444,
-        "children": [
-          {
-            "id": "f1c5acea928d0e9a",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "title": "File properties"
             }
           }
         ]
@@ -252,11 +190,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "95d1c939de81c5c0",
+  "active": "991f1624b62a1b62",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/nuvem 2/COMPUTAÇÃO EM NUVEM E SUSTENTABILIDADE.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/o que é Clean Architecture.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/alura/formacao Engenharia de software/Design e Arquitetura/resumos_gerais/O que é arquitetura hexagonal.md",
+    "notas_bibliograficas/relatorios/relatório dos pomodoros.md",
+    "notas_bibliograficas/relatorios",
     "notas bibliograficas/relatorios",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_01.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
@@ -280,10 +224,8 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02/2_1_ Gerenciamento de Contêineres",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250615195342.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611210243.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202331.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250615192151.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02_GerenciamentoDeConteineres",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas/11062025-aula-fiap.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/11062025-reuniao-fiap.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/09062025-reuniao-fiap.md",
@@ -300,9 +242,6 @@
     "Deus te amo!!!.md",
     "notas bibliograficas/💼 carreira/📖idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/por que aprender a criar um negocio.md",
-    "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/grafico_de_inovacao.md",
-    "notas bibliograficas/ocio/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
-    "notas_permanentes/utilitarios/templates/template_english.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
