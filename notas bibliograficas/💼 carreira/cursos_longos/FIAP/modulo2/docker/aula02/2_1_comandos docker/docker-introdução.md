@@ -2,6 +2,7 @@
 Date: 2025-06-15T18:55:00
 tags:
   - fiap/modulo02/docker
+  - fiap/modulo02
 ---
 # Notas conectadas:
 

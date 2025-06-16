@@ -20,13 +20,17 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-flags do docker
-ro
-- faz com que o volume seja só para ler
-- curiosidade, o ro vem de read only
+- comando para criar um volume :
+``docker volume create (nome do volume)``
 
+- comando para excluir o volume:
+``docker volume rm (nome do volume)``
 
+- comando para ver os detalhes do container
+`docker volume inspect (nome do volume)`
 
+ - comando para excluir todos os volumes não usados no momento:
+ `docker volume prune`
 
-
-
+- comando para visualizar os últimos logs do containers:
+- docker container logs (id do container)
