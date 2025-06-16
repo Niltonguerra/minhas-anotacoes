@@ -108,6 +108,7 @@
       {
         "id": "040c3fbe8594b1ec",
         "type": "tabs",
+        "dimension": 63.55555555555556,
         "children": [
           {
             "id": "076095e195ae4a82",
@@ -214,10 +215,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "f37e8dbcb6dc1fed",
+        "type": "tabs",
+        "dimension": 36.44444444444444,
+        "children": [
+          {
+            "id": "f1c5acea928d0e9a",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,11 +256,13 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "95d1c939de81c5c0",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas bibliograficas/relatorios",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_01.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02_GerenciamentoDeConteineres/como usar um  Dockerfile.md",
@@ -288,7 +308,6 @@
     "notas bibliograficas/💼 carreira/CriacaoDeEmpresas/grafico_de_inovacao.md",
     "notas bibliograficas/ocio/🎹estudo musical/aulas/ler partitura/Partitura aula 01.md",
     "notas_permanentes/utilitarios/templates/template_english.md",
-    "notas_permanentes/utilitarios/templates/template programação.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
