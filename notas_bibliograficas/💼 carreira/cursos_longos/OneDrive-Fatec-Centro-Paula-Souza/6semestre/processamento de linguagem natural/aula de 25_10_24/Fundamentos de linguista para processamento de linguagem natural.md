@@ -1,9 +1,8 @@
 ---
 Date: 2024-10-25
 tags:
-  - sintaxe
-  - semantica
-  - pragmatica
+  - tecnologia/portugues/semantica
+  - tecnologia
 ---
 # Notas conectadas:
 
