@@ -26,4 +26,23 @@ table of contents: Create table of contents
 - usa o v8 (google criou para interpretar o código do google chrome)
 
 
+## clean architecture
+![[Pasted image 20250616162303.png]]
+
+![[Pasted image 20250616162353.png]]
+
+![[Pasted image 20250616162436.png]]
+
+![[Pasted image 20250616162648.png]]
+
+
+
+
+
+
+
+
+
+
+
 
