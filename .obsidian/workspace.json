@@ -213,12 +213,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
