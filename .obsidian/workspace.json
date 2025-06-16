@@ -213,11 +213,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 479.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +242,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "991f1624b62a1b62",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_01.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
