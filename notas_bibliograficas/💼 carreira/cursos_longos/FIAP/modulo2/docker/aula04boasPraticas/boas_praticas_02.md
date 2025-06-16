@@ -67,5 +67,15 @@ expose 3000
 CMD ["node", "app.js"]
 ```
 - e para passar o valor do arg, basta passar assim:
-	- exemplo: `docker build -t node-app:arg --build-arg NODE_ENV_ARG=production`
-- 
+	- exemplo: `docker build -t node-app:arg --build-arg NODE_ENV_ARG=production .`
+	  
+	- para visualizar o valor da variável pode-se usar fazer o seguinte:
+	- rode o container
+	- dentro do container exporte a variavel:
+		- ex: `EXPORT NODE_ENV`
+	- Imprima no console a variavel:
+		- `printenv NODE_ENV`
+
+
+
+- rodar local é uma boa prática
