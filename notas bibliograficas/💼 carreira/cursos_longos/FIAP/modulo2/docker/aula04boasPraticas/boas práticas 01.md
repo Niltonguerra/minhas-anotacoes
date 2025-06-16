@@ -25,6 +25,9 @@ boas práticas no Dockerfile:
 ![[Pasted image 20250616070335.png]]
 
 
+- tem como configurar o docker para aceitar alguma coisa enquanto está executado o comando, por exemplo:
+  ![[Pasted image 20250616071439.png]]
+nesse casso foi usado o `-y` para que quando ele instale o nano, ele automaticamente aceite a solicitação para instalar o mesmo
 
 
 

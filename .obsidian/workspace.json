@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 217.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +241,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "991f1624b62a1b62",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
-    "Pasted image 20250616070335.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/arquivos/Aula 01- Introdução ao Docker.pdf",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/arquivos/Aula 02- Gerenciamento de Contêineres.pdf",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/arquivos/Aula 03- Orquestração de Contêineres.pdf",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/arquivos",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616071439.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202026.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas práticas 01.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616070335.png",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02_GerenciamentoDeConteineres/docker- volumes.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02_GerenciamentoDeConteineres/docker-redes.md",
@@ -257,7 +263,6 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula02/2_1_ Gerenciamento de Contêineres",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250615195342.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611210243.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202026.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202331.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250615192151.png",
@@ -268,16 +273,11 @@
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611205929.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611205657.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611205130.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611203543.png",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250611202843.png",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/aulas",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/09062025 - Copia.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/modulo01.md",
-    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2",
-    "notas bibliograficas/💼 carreira/cursos_curtos/Marketing Digital",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/06- O que e  o node.js e o Event loop.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/05- aula do dia 20 05 2025 - orientação a objeto no typescript.md",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo 1/aulas ao vivo/3- Introdução a arquitetura de soluções.md",
