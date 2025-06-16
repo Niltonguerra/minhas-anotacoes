@@ -74,6 +74,8 @@ CMD ["node", "app.js"]
 	- dentro do container exporte a variavel:
 		- ex: `EXPORT NODE_ENV`
 	- Imprima no console a variavel:
-		- printenv NODE_ENV
+		- `printenv NODE_ENV`
 
 
+
+- rodar local é uma boa prática
