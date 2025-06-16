@@ -214,7 +214,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "f37e8dbcb6dc1fed",
@@ -260,7 +261,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
     "notas bibliograficas/relatorios",
     "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_01.md",

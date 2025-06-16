@@ -67,5 +67,5 @@ expose 3000
 CMD ["node", "app.js"]
 ```
 - e para passar o valor do arg, basta passar assim:
-	- exemplo: `docker build -t node-app:arg --build-arg NODE_ENV_ARG=production`
+	- exemplo: `docker build -t node-app:arg --build-arg NODE_ENV_ARG=production .`
 - 
