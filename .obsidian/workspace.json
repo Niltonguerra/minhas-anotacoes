@@ -11,15 +11,10 @@
             "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "boas_praticas_02"
+              "title": "New tab"
             }
           }
         ]
@@ -214,8 +209,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "f37e8dbcb6dc1fed",
