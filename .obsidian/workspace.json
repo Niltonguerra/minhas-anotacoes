@@ -189,6 +189,21 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Pasted image 20250616162303"
             }
+          },
+          {
+            "id": "b80102a549b764bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250616162303"
+            }
           }
         ]
       }
