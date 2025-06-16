@@ -20,11 +20,52 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
-
+- essa forma não é a mais recomendada para declarar variáveis❌
 ```
- 
+From node:20-slim
+
+ENV NODE_ENV=production
+
+ENV URL_BD=rds-fiap.saarea.us-east-1.com
+
+WORKDIR /app
+
+COPY package.json .
+
+RUN npm install
+
+RUN apt-get update && apt-get install -y nano
+
+COPY . . 
+
+expose 3000 
+
+CMD ["node", "app.js"]
 ```
 
+- a forma mais aconselhada é essa: ✅
+```
+From node:20-slim
+
+ARG NODE_ENV_ARG
+
+ENV NODE_ENV= $NODE_ENV_ARG
 
 
+WORKDIR /app
+
+COPY package.json .
+
+RUN npm install
+
+RUN apt-get update && apt-get install -y nano
+
+COPY . . 
+
+expose 3000 
+
+CMD ["node", "app.js"]
+```
+- e para passar o valor do arg, basta passar assim:
+	- exemplo: `docker build -t node-app:arg --build-arg NODE_ENV_ARG=production`
+- 
