@@ -8,6 +8,7 @@ Date: 2025-06-16T20:46:00
 
 
 - comentar sobre já ter terminado a configuração do projeto
+
 - comentar que podem ficar a vontade para pegar alguma coisa tarefa do backlog
 - perguntar se concordam em colocar mais duas histórias no backlog, sendo elas:
 	- configurar o grafana
