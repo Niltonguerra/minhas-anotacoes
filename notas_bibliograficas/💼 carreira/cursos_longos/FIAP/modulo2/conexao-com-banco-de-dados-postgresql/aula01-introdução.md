@@ -1,8 +1,8 @@
 ---
-Date: 2025-06-16T14:57:00
+Date: 2025-06-16T21:02:00
 tags:
-  - tecnologia/fiap/modulo02/nodeJSPrincipios
   - fiap/modulo02
+  - fiap/modulo02/conexaoComBancoDeDados
 ---
 # Notas conectadas:
 
@@ -21,19 +21,11 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## curiosidades sobre o postgres SQL:
+![[Pasted image 20250616210521.png]]
 
-- node é simple thead
-- usa o v8 (google criou para interpretar o código do google chrome)
 
-
-## clean architecture
-![[Pasted image 20250616162303.png]]
-
-![[Pasted image 20250616162353.png]]
-
-![[Pasted image 20250616162436.png]]
-
-![[Pasted image 20250616162648.png]]
+ 
 
 
 
