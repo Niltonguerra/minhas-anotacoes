@@ -11,6 +11,9 @@ Date: 2025-06-19T21:00:00
 - vamos colocar video?
 	- se sim, o que acham de usar um link do youtube?
 
+- vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?
+
+
 - sugestão de novos campos
 	- Introdução envolvente(introdução para chamar a atenção do leito)
 	- Hashtags relevantes para o conteúdo
@@ -23,3 +26,4 @@ Date: 2025-06-19T21:00:00
 	- quantidade de visualizações
 	- reacoes (Estrutura para likes, curtidas, emojis, etc.)
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
+	- id de estilo de estilização para determinado conteúdo
