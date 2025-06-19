@@ -28,6 +28,12 @@ Date: 2025-06-19T21:00:00
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
 
+definir o que qual vai ser a o algoritmo de códificação que iremos usar:
+- md5
+- uuid
+- sha 256
+
+
 refinar as rotas:
 - ver o que vai ser entregue em cada rota:
 - 
