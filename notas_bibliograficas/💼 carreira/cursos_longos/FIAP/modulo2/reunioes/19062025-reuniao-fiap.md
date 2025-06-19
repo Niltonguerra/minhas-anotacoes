@@ -13,8 +13,8 @@ Date: 2025-06-19T21:00:00
 
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?
 - vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
-
-- sugestão de novos campos
+- vamos implementar o Oauth 2.0?
+- sugestão de novos campos para o post:
 	- Introdução envolvente(introdução para chamar a atenção do leito)
 	- Hashtags relevantes para o conteúdo
 	- campo de email
@@ -28,10 +28,26 @@ Date: 2025-06-19T21:00:00
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
 
+- sugestão de novos campos para o usuário:
+	- status(Ativo, inativo, banido, etc.)
+	- nome de perfil(nome pelo qual gostaria de ser chamado)
+	- foto do usuário
+	- genero
+	- telefone
+	- preferencias(para personalizar o conteúdo)
+	- descrição do autor
+	- data_nascimento
+	- - **ultimo_login**
+	- tentativas_login
+
+
 definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 - md5
 - uuid
 - sha 256
+
+
+vocês acham interessante colocar code review no projeto?
 
 
 refinar as rotas:
