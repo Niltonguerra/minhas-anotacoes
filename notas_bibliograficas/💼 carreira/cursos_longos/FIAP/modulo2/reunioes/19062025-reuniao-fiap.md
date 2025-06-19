@@ -27,13 +27,15 @@ Date: 2025-06-19T21:00:00
 		- Mínimo: _20 caracteres_
 		  
 	- campo no post para links?✅
-		- array de string(150 caracteres)
+		- array de string (2048 caracteres)
 	- Introdução envolvente(introdução para chamar a atenção do leito)✅
-		- string (tamanho: 100 caracteres)
+		- string (tamanho: 500 caracteres)
 	- Hashtags relevantes para o conteúdo
-	- campo de email
-	- campo de telefone
-	- campo de redes sociais
+		- array de string (50 caracteres)✅
+	- campo de email do criador
+	- campo de telefone do criador
+	- campo de redes sociais do criador
+	- campo de redes sociais do criador
 	- status da matéria(Rascunho, publicado, arquivado etc.)
 	- slug (para otimizar na criação das páginas) 
 	- estimativa de tempo de leitura()
