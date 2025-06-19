@@ -15,9 +15,12 @@ Date: 2025-06-19T21:00:00
 - vamos colocar documentos?✅
 	- resposta: sim
 
-- vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?
+- vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?❌
 - vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
-- vamos implementar o Oauth 2.0?
+	- Resposta:Inglês✅
+	- commit: Inglês✅
+	- commit semântico ✅
+- vamos implementar o Oauth 2.0?❌
 - sugestão de novos campos para o post:
 	- campo no post para links?✅
 	- Introdução envolvente(introdução para chamar a atenção do leito)
