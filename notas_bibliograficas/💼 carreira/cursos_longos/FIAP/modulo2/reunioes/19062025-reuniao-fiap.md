@@ -5,9 +5,14 @@ Date: 2025-06-19T21:00:00
 ---
 
 # pauta da reunião:
-- perguntar como vamos inserir as imagens
-- se vamos ter token de sessão?
-	- vamos usar jwt?
+- vocês acham interessante colocar code review no projeto?✅
+- perguntar como vamos inserir as imagens✅
+	- IMGBB
+- se vamos ter token de sessão?✅
+	- vamos usar jwt? ✅
+		- quanto tempo?
+		- Resposta: 1 dia
+
 - vamos colocar video?
 	- se sim, o que acham de usar um link do youtube?
 
@@ -27,6 +32,7 @@ Date: 2025-06-19T21:00:00
 	- reacoes (Estrutura para likes, curtidas, emojis, etc.)
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
+	- campo de video
 
 - sugestão de novos campos para o usuário:
 	- status(Ativo, inativo, banido, etc.)
@@ -47,7 +53,7 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 - sha 256
 
 
-vocês acham interessante colocar code review no projeto?
+
 
 
 refinar as rotas:
