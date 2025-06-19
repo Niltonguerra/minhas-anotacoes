@@ -15,6 +15,14 @@ Date: 2025-06-19T21:00:00
 - vamos colocar documentos?✅
 	- resposta: sim
 
+
+definir o que qual vai ser a o algoritmo de códificação que iremos usar:
+- id
+- md5
+- uuid✅
+- sha 256
+
+
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?❌
 - vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
 	- Resposta:Inglês✅
@@ -32,10 +40,7 @@ Date: 2025-06-19T21:00:00
 		- string (tamanho: 500 caracteres)
 	- Hashtags relevantes para o conteúdo
 		- array de string (50 caracteres)✅
-	- campo de email do criador
-	- campo de telefone do criador
-	- campo de redes sociais do criador
-	- campo de redes sociais do criador
+	- id do criador(FK do usuário)✅
 	- status da matéria(Rascunho, publicado, arquivado etc.)
 	- slug (para otimizar na criação das páginas) 
 	- estimativa de tempo de leitura()
@@ -57,12 +62,11 @@ Date: 2025-06-19T21:00:00
 	- data_nascimento
 	- - **ultimo_login**
 	- tentativas_login
+	- campo de email do criador
+	- campo de telefone do criador
+	- campo de redes sociais do criador
 
 
-definir o que qual vai ser a o algoritmo de códificação que iremos usar:
-- md5
-- uuid
-- sha 256
 
 
 
