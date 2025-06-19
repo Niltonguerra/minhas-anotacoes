@@ -22,8 +22,13 @@ Date: 2025-06-19T21:00:00
 	- commit semântico ✅
 - vamos implementar o Oauth 2.0?❌
 - sugestão de novos campos para o post:
+	- titulo:
+		- máximo70 caracteres
+		- **Mínimo funcional:** _20 caracteres_
 	- campo no post para links?✅
-	- Introdução envolvente(introdução para chamar a atenção do leito)
+		- array de string
+	- Introdução envolvente(introdução para chamar a atenção do leito)✅
+		- string (tamanho: 100 caracteres)
 	- Hashtags relevantes para o conteúdo
 	- campo de email
 	- campo de telefone
