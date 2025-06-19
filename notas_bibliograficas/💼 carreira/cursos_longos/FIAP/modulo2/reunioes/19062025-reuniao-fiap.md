@@ -12,7 +12,7 @@ Date: 2025-06-19T21:00:00
 	- se sim, o que acham de usar um link do youtube?
 
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?
-
+- vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
 
 - sugestão de novos campos
 	- Introdução envolvente(introdução para chamar a atenção do leito)
@@ -27,3 +27,7 @@ Date: 2025-06-19T21:00:00
 	- reacoes (Estrutura para likes, curtidas, emojis, etc.)
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
+
+refinar as rotas:
+- ver o que vai ser entregue em cada rota:
+- 
