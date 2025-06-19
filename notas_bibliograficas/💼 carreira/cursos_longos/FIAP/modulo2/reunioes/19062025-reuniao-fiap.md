@@ -11,15 +11,15 @@ Date: 2025-06-19T21:00:00
 - se vamos ter token de sessão?✅
 	- vamos usar jwt? ✅
 		- quanto tempo?
-		- Resposta: 1 dia
-
-- vamos colocar video?
-	- se sim, o que acham de usar um link do youtube?
+		- Resposta: 3 dia
+- vamos colocar documentos?✅
+	- resposta: sim
 
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?
 - vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
 - vamos implementar o Oauth 2.0?
 - sugestão de novos campos para o post:
+	- campo no post para links?✅
 	- Introdução envolvente(introdução para chamar a atenção do leito)
 	- Hashtags relevantes para o conteúdo
 	- campo de email
@@ -32,7 +32,7 @@ Date: 2025-06-19T21:00:00
 	- reacoes (Estrutura para likes, curtidas, emojis, etc.)
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
-	- campo de video
+	- campo de video❌
 
 - sugestão de novos campos para o usuário:
 	- status(Ativo, inativo, banido, etc.)
