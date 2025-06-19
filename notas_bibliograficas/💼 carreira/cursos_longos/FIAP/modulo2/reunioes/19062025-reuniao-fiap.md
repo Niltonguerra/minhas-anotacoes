@@ -23,10 +23,11 @@ Date: 2025-06-19T21:00:00
 - vamos implementar o Oauth 2.0?❌
 - sugestão de novos campos para o post:
 	- titulo:
-		- máximo70 caracteres
-		- **Mínimo funcional:** _20 caracteres_
+		- máximo: 70 caracteres
+		- Mínimo: _20 caracteres_
+		  
 	- campo no post para links?✅
-		- array de string
+		- array de string(150 caracteres)
 	- Introdução envolvente(introdução para chamar a atenção do leito)✅
 		- string (tamanho: 100 caracteres)
 	- Hashtags relevantes para o conteúdo
@@ -41,6 +42,7 @@ Date: 2025-06-19T21:00:00
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
 	- campo de video❌
+
 
 - sugestão de novos campos para o usuário:
 	- status(Ativo, inativo, banido, etc.)
