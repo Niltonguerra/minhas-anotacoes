@@ -41,14 +41,14 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- Hashtags relevantes para o conteúdo
 		- array de string (50 caracteres)✅
 	- id do criador(FK do usuário)✅
-	- status da matéria(Rascunho, publicado, arquivado etc.)
+	- status da matéria(Rascunho, publicado) ❌
+	- campo de video❌
 	- slug (para otimizar na criação das páginas) 
 	- estimativa de tempo de leitura()
 	- quantidade de visualizações
-	- reacoes (Estrutura para likes, curtidas, emojis, etc.)
+	- reações (Estrutura para likes, curtidas, emojis, etc.)
 	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
 	- id de estilo de estilização para determinado conteúdo
-	- campo de video❌
 
 
 - sugestão de novos campos para o usuário:
@@ -67,11 +67,5 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- campo de redes sociais do criador
 
 
-
-
-
-
-
 refinar as rotas:
 - ver o que vai ser entregue em cada rota:
-- 
