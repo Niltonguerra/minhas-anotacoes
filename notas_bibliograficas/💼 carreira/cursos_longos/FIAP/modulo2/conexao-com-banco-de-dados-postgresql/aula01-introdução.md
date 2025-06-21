@@ -25,8 +25,15 @@ table of contents: Create table of contents
 ![[Pasted image 20250616210521.png]]
 
 
- 
+ - triggers
+	 - é quando podemos atribuir uma ação quando acontecer outra ação
 
+- postgres
+	- bem melhor que my sql
+	- dá para fazer bastante coisa nele
+	- é gratuito
+	- permite a criação de novos tipos de dados, operações e funções,agregações personalizadas e outros recursos avançados
+	- 
 
 
 
