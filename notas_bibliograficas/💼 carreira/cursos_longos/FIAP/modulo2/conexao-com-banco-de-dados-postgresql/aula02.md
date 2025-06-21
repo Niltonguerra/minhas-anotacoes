@@ -1,7 +1,6 @@
 ---
-Date: 2025-06-16T21:02:00
+Date: 2025-06-21T21:02:00
 tags:
-  - fiap/modulo02
   - fiap/modulo02/conexaoComBancoDeDados
 ---
 # Notas conectadas:
@@ -20,21 +19,5 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
-## curiosidades sobre o postgres SQL:
-![[Pasted image 20250616210521.png]]
-
-
- - triggers
-	 - é quando podemos atribuir uma ação quando acontecer outra ação
-
-- postgres
-	- bem melhor que my sql
-	- dá para fazer bastante coisa nele
-	- é gratuito
-	- permite a criação de novos tipos de dados, operações e funções,agregações personalizadas e outros recursos avançados
-	- 
-
-
-
+![[Pasted image 20250621103741.png|500]]
 
