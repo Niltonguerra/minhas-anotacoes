@@ -2,6 +2,7 @@
 Date: 2025-06-21T21:02:00
 tags:
   - fiap/modulo02/conexaoComBancoDeDados
+repositório: https://github.com/Niltonguerra/fiap/tree/main/modulo_2/comunicacao_banco_de_dados
 ---
 # Notas conectadas:
 
