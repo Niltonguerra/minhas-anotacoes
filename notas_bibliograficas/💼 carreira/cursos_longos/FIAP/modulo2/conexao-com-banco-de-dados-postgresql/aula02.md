@@ -22,3 +22,11 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 ![[Pasted image 20250621103741.png|500]]
 
+- crie um arquivo .npmrc
+	- para configurar o npm
+	- importante para gerenciar as libs
+
+
+
+![[Pasted image 20250621110852.png|500]]
+
