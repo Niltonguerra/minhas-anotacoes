@@ -65,3 +65,9 @@ npx tsc --init
 
 
 ![[Pasted image 20250622130023.png]]
+- é tipo o PostgreSQL
+
+
+![[Pasted image 20250622130049.png]]
+- é tipo o typeORM
+- serve para usar typescript para se comunicar com o banco ao invés de usar SQL para isso
