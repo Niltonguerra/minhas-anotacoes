@@ -32,9 +32,32 @@ npm i -D @typescript-eslint/eslint-plugin@6.21.0 @typescript-eslint/parser@6.21.
 npx tsc --init
 ```
 
-
+## Repositório
 ![[Pasted image 20250622113427.png]]
 
 - repository pattern
 	- cria camadas para abstrair a lógica 
 	- camada para o banco de dados
+
+
+## Caso de uso
+![[Pasted image 20250622114005.png]]
+
+- é o escopo de uma interação do usuário com o sistema, por exemplo:
+	- ex:
+		- fazer login
+		- fazer uma compra
+		- fazer uma comunicação com um serviço externo
+		- etc.
+	- é uma jornada de interação 
+
+
+## SOLID
+![[Pasted image 20250622114432.png]]
+- princípios para programar bem
+
+![[Pasted image 20250622114455.png]]
+- uma classe só deve fazer uma única coisa
+
+![[Pasted image 20250622114621.png]]
+
