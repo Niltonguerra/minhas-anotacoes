@@ -61,3 +61,7 @@ npx tsc --init
 
 ![[Pasted image 20250622114621.png]]
 
+
+
+
+![[Pasted image 20250622130023.png]]
