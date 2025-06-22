@@ -33,3 +33,8 @@ npx tsc --init
 ```
 
 
+![[Pasted image 20250622113427.png]]
+
+- repository pattern
+	- cria camadas para abstrair a lógica 
+	- camada para o banco de dados
