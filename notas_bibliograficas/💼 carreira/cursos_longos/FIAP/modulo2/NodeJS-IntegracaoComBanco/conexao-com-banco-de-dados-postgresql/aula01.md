@@ -1,5 +1,5 @@
 ---
-Date: 2025-06-16T21:02:00
+Date: 2025-06-21T21:02:00
 tags:
   - fiap/modulo02
   - fiap/modulo02/conexaoComBancoDeDados
@@ -25,9 +25,28 @@ table of contents: Create table of contents
 ![[Pasted image 20250616210521.png]]
 
 
- 
+ - triggers
+	 - é quando podemos atribuir uma ação quando acontecer outra ação
+
+- Postgres
+	- bem melhor que MySQL
+	- dá para fazer bastante coisa nele
+	- é gratuito
+	- permite criar índices
+	- permite a criação de novos tipos de dados, operações e funções, agregações personalizadas e outros recursos avançados
 
 
+
+
+![[Pasted image 20250621103144.png|750]]
+
+![[Pasted image 20250621103255.png|625]]
+
+
+![[Pasted image 20250621103444.png|625]]
+
+
+![[Pasted image 20250621103555.png|625]]
 
 
 
