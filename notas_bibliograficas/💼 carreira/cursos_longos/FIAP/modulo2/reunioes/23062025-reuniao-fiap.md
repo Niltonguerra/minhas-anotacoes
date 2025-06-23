@@ -51,6 +51,10 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- id de estilo de estilização para determinado conteúdo
 
 
+Vocês acham que vale a pena colocar a camada de interface?
+- normalmente não é usado no nest.js, (nunca usei e nem sei se dá para colocar, mas queria alinhar com vocês)
+
+
 - sugestão de novos campos para o usuário:
 	- status(Ativo, inativo, banido, etc.)
 	- nome de perfil(nome pelo qual gostaria de ser chamado)
