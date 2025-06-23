@@ -71,3 +71,11 @@ npx tsc --init
 ![[Pasted image 20250622130049.png]]
 - é tipo o typeORM
 - serve para usar typescript para se comunicar com o banco ao invés de usar SQL para isso
+
+
+
+
+
+
+![[Pasted image 20250623100304.png]]
+- delega a outras class a responsabilidade de instânciação de objetospara subclasses
