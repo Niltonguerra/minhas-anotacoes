@@ -114,7 +114,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bec93dd1abc648da",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
     "Pasted image 20250622130049.png",
     "Pasted image 20250622130023.png",
