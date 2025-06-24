@@ -19,7 +19,11 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
+como escolher qual publica usar?
+- acessar o site do npm(https://www.npmjs.com/):
+  - validar informações como:
+    - quantidade de download por semana
+    - olhar o git hub do repositório e validar 
 
 
 
