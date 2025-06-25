@@ -37,11 +37,11 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 
 
 - sugestão de novos campos para o post:
-	- titulo:
+	- titulo:⭕
 		- máximo: 70 caracteres
 		- Mínimo: _20 caracteres_
 		  
-	- campo no post para links?✅
+	- campo no post para links?✅⭕
 		- array de string (2048 caracteres)
 	- Introdução envolvente(introdução para chamar a atenção do leito)✅
 		- string (tamanho: 500 caracteres)
@@ -79,7 +79,7 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- data_nascimento❌
 	- - **ultimo_login**❌
 	- tentativas_login❌
-	- linkedin ✅
+	- redes sociais ✅
 		- string (254 caracteres)
 
 refinar as rotas:
