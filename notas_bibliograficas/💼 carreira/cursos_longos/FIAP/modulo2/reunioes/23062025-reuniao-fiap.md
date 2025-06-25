@@ -82,3 +82,4 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 
 refinar as rotas:
 - ver o que vai ser entregue em cada rota:
+
