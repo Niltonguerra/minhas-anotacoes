@@ -34,6 +34,8 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- commit: Inglês✅
 	- commit semântico ✅
 - vamos implementar o Oauth 2.0?❌
+
+
 - sugestão de novos campos para o post:
 	- titulo:
 		- máximo: 70 caracteres
