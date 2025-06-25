@@ -74,13 +74,11 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 		- string (254 caracteres)
 	- preferencias(para personalizar o conteúdo) ❌ 
 	- descrição do usuário❌
-	- data_nascimento
-	- - **ultimo_login**
-	- tentativas_login
-	- campo de email do criador
-	- campo de telefone do criador
-	- campo de redes sociais do criador
-
+	- data_nascimento❌
+	- - **ultimo_login**❌
+	- tentativas_login❌
+	- linkedin ✅
+		- string (254 caracteres)
 
 refinar as rotas:
 - ver o que vai ser entregue em cada rota:
