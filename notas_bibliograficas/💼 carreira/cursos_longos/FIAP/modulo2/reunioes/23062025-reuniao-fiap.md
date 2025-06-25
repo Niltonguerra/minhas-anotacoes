@@ -23,6 +23,11 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 - sha 256
 
 
+- crom job
+	- para notificar os usuários✅
+	- implementar um campo de search
+
+
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?❌
 - vamos fazer o sistema em português ou vamos fazer o sistema em inglês?
 	- Resposta:Inglês✅
