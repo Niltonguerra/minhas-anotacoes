@@ -25,7 +25,7 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 
 - crom job
 	- para notificar os usuários✅
-	- implementar um campo de search
+
 
 
 - vamos usar migrations para nos comunicarmos com o banco de dados ou acham que não precisa?❌
@@ -48,6 +48,9 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- id do criador(FK do usuário)✅
 	- status da matéria(Rascunho, publicado) ❌
 	- campo de video❌
+	-  implementar um campo de search ✅
+		- string
+		- 1000 caracteres
 	- slug (para a montagem da página)
 	- estimativa de tempo de leitura()
 	- quantidade de visualizações
