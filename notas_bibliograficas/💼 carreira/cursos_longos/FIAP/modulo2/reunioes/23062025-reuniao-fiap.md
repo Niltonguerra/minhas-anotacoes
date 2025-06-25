@@ -64,13 +64,16 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 
 - sugestão de novos campos para o usuário:
 	- status(Ativo, inativo, banido, etc.)❌
-	- nome de perfil(nome pelo qual gostaria de ser chamado)
-		- 
-	- foto do usuário
-	- genero
-	- telefone
-	- preferencias(para personalizar o conteúdo)
-	- descrição do autor
+	- nome de perfil(nome pelo qual gostaria de ser chamado)❌
+	- nome✅
+	- foto do usuário ✅
+		-  string (2048 caracteres)
+	- genero ❌
+	- telefone ❌
+	- email ✅
+		- string (254 caracteres)
+	- preferencias(para personalizar o conteúdo) ❌ 
+	- descrição do usuário❌
 	- data_nascimento
 	- - **ultimo_login**
 	- tentativas_login
