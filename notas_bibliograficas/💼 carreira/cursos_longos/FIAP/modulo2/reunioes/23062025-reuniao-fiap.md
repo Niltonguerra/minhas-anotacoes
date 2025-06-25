@@ -51,21 +51,21 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	-  implementar um campo de search ✅
 		- string
 		- 1000 caracteres
-	- slug (para a montagem da página)
-	- estimativa de tempo de leitura()
-	- quantidade de visualizações
-	- reações (Estrutura para likes, curtidas, emojis, etc.)
-	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)
-	- id de estilo de estilização para determinado conteúdo
+	- slug (para a montagem da página)❌
+	- estimativa de tempo de leitura()✅
+		- number
+	- quantidade de visualizações ❌
+	- reações (Estrutura para likes, curtidas, emojis, etc.)❌
+	-  agendamento_publicacao (nunca fiz algo parecido, mas parece interressante de se colocar)(utima coisa para se colocar no projeto)🤸‍♂️
+	- id de estilo de estilização para determinado conteúdo✅
+		- string
 
-
-Vocês acham que vale a pena colocar a camada de interface?
-- normalmente não é usado no nest.js, (nunca usei e nem sei se dá para colocar, mas queria alinhar com vocês)
-
+- o usuário vai fazer login
 
 - sugestão de novos campos para o usuário:
-	- status(Ativo, inativo, banido, etc.)
+	- status(Ativo, inativo, banido, etc.)❌
 	- nome de perfil(nome pelo qual gostaria de ser chamado)
+		- 
 	- foto do usuário
 	- genero
 	- telefone
