@@ -109,6 +109,9 @@ campos do usuário:
 - social_midia 
 -  createdAt
 -  updatedAt
+- permission
+- isActive
+- notification
 
 
 
