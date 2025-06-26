@@ -43,11 +43,11 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 		  
 	- campo no post para links?✅⭕
 		- array de string (2048 caracteres)
-	- Introdução envolvente(introdução para chamar a atenção do leito)✅
+	- Introdução envolvente(introdução para chamar a atenção do leito)✅⭕
 		- string (tamanho: 500 caracteres)
-	- Hashtags relevantes para o conteúdo
-		- array de string (50 caracteres)✅
-	- id do criador(FK do usuário)✅
+	- Hashtags relevantes para o conteúdo✅⭕
+		- array de string (50 caracteres)
+	- id do criador(FK do usuário)✅🤸‍♂️(precisa fazer a relação quando criar a tabela de usuário)
 	- status da matéria(Rascunho, publicado) ❌
 	- campo de video❌
 	-  implementar um campo de search ✅
