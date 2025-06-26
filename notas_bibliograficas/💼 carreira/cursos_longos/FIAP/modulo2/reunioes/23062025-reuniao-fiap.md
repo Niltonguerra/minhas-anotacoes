@@ -114,8 +114,8 @@ campos do usuário:
 - notification
 
 
-
-GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
+#### **o token de sessão vai ser essencial para todos as rotas(diferente para usuário e professor)** 
+####  GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
 - receber: 
 	- params:
 		- offset
@@ -143,9 +143,6 @@ GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizare
 - receber: 
 	- offset
 	- limit(default=10)
-	header:
-	- tokenSessao
-
 
 - retornar:
 	- retornar:
@@ -163,3 +160,96 @@ GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizare
 		- name
 		- email
 		- social_midia 
+
+
+
+
+
+
+#### GET /posts/:id - Leitura de Posts:
+- receber: 
+	- param:
+		- -   id
+	- queryparam:
+	- body:
+
+- retornar:
+	-   id
+	  - title
+	  - description
+	  - search_field
+	  - introduction
+	  - external_link
+	  - content_hashtags
+	  - style_id
+	  - image
+
+#### POST /posts - Criação de Postagens:
+- receber: 
+	- param:
+	-  queryparam:
+	- body:
+		-  id
+		- title
+		- description
+		- search_field
+		- introduction
+		- external_link
+		- content_hashtags
+		- style_id
+		- image
+
+- retornar:
+	- mensagem(string)
+	- statusCode(number)
+
+#### PUT /posts/:id - Edição de Postagens:
+- receber: 
+	- param:
+		- id
+	-  queryparam:
+	- body:
+		- title
+		- description
+		- search_field
+		- introduction
+		- external_link
+		- content_hashtags
+		- style_id
+		- image
+
+- retornar:
+	- mensagem(string)
+	- statusCode(number)
+
+
+#### DELETE /posts/:id - Exclusão de Postagens:
+- receber: 
+	- param:
+		- id
+	-  queryparam:
+	- body:
+
+- retornar:
+	- mensagem(string)
+	- statusCode(number)
+
+
+#### GET /posts/search - Busca de Posts:
+- receber: 
+	- param:
+		- 
+	-  queryparam:
+	- body:
+
+- retornar:
+
+#### GET /posts
+- receber: 
+	- param:
+		- 
+	-  queryparam:
+	- body:
+
+- retornar:
+
