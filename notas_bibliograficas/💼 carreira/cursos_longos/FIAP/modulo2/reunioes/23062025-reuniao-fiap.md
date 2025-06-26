@@ -50,11 +50,11 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 	- id do criador(FK do usuário)✅🤸‍♂️(precisa fazer a relação quando criar a tabela de usuário)
 	- status da matéria(Rascunho, publicado) ❌
 	- campo de video❌
-	-  implementar um campo de search ✅
+	-  implementar um campo de search ✅⭕
 		- string
 		- 1000 caracteres
 	- slug (para a montagem da página)❌
-	- estimativa de tempo de leitura()✅
+	- estimativa de tempo de leitura()❌
 		- number
 	- quantidade de visualizações ❌
 	- reações (Estrutura para likes, curtidas, emojis, etc.)❌
