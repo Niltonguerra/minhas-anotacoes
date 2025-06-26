@@ -115,11 +115,13 @@ campos do usuário:
 
 
 #### **o token de sessão vai ser essencial para todos as rotas(diferente para usuário e professor)** 
-####  GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
+####  GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal. + GET /posts/search - Busca de Posts:
 - receber: 
 	- params:
 		- offset
 		- limit(default=10)
+	-  queryparam:
+		- search(string)
 	- header:
 		- tokenSessao
 
@@ -139,7 +141,7 @@ campos do usuário:
 		- email
 		- social_midia 
 
-#### GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores vejam todas as postagens criadas, facilitando a gestão do conteúdo.
+#### GET /posts - Listagem de Todas as Postagens: 
 - receber: 
 	- offset
 	- limit(default=10)
@@ -223,6 +225,7 @@ campos do usuário:
 	- statusCode(number)
 
 
+
 #### DELETE /posts/:id - Exclusão de Postagens:
 - receber: 
 	- param:
@@ -235,21 +238,18 @@ campos do usuário:
 	- statusCode(number)
 
 
-#### GET /posts/search - Busca de Posts:
-- receber: 
-	- param:
-		- 
-	-  queryparam:
-	- body:
 
-- retornar:
 
-#### GET /posts
-- receber: 
-	- param:
-		- 
-	-  queryparam:
-	- body:
 
-- retornar:
+
+
+
+
+
+# validar com o professor
+## GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores e  GET /posts/:id - Leitura de Posts:
+## GET /posts - Listagem de Todas as Postagens
+## GET /posts/search - Busca de Posts:
+
+
 
