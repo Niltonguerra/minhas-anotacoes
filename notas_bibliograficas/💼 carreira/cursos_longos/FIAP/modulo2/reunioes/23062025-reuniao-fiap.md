@@ -85,3 +85,32 @@ definir o que qual vai ser a o algoritmo de códificação que iremos usar:
 refinar as rotas:
 - ver o que vai ser entregue em cada rota:
 
+
+campos da publica:
+  id
+  title
+  description
+  search_field
+  scheduled_publication: string;
+  introduction?: string;
+  post_links: Record<string, string>;
+  content_hashtags: string[];
+  style_id: string;
+  image?: string;
+  createdAt: Date;
+  updatedAt: Date;
+  author_id?: string;
+
+
+
+GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
+- receber: nenhum parâmetro
+
+- retornar:
+	- 
+
+
+GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores vejam todas as postagens criadas, facilitando a gestão do conteúdo.
+- receber: nenhum parâmetro
+
+- retornar:
