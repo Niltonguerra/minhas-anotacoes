@@ -117,8 +117,11 @@ campos do usuário:
 
 GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
 - receber: 
-	- offset
-	- limit(default=10)
+	- params:
+		- offset
+		- limit(default=10)
+	- header:
+		- tokenSessao
 
 - retornar:
 	-   title
@@ -132,9 +135,31 @@ GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizare
 	- updatedAt
 	- total_post (total post no banco)
 	- author_id
-		- 
+		- name
+		- email
+		- social_midia 
 
-GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores vejam todas as postagens criadas, facilitando a gestão do conteúdo.
-- receber: nenhum parâmetro
+#### GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores vejam todas as postagens criadas, facilitando a gestão do conteúdo.
+- receber: 
+	- offset
+	- limit(default=10)
+	header:
+	- tokenSessao
+
 
 - retornar:
+	- retornar:
+	-   title
+	-  description
+	-   introduction
+	-   external_link
+	-  content_hashtags
+	- style_id
+	-   image
+	-  createdAt
+	- updatedAt
+	- total_post (total post no banco)
+	- author_id
+		- name
+		- email
+		- social_midia 
