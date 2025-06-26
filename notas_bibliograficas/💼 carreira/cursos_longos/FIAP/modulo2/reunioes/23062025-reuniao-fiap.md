@@ -91,24 +91,45 @@ campos da publica:
   title
   description
   search_field
-  scheduled_publication: string;
-  introduction?: string;
-  post_links: Record<string, string>;
-  content_hashtags: string[];
-  style_id: string;
-  image?: string;
-  createdAt: Date;
-  updatedAt: Date;
-  author_id?: string;
+  introduction
+  external_link
+  content_hashtags
+  style_id
+  image
+  createdAt
+  updatedAt
+  author_id
+
+campos do usuário:
+- id
+- name
+- password
+- photo 
+- email 
+- social_midia 
+-  createdAt
+-  updatedAt
 
 
 
 GET /posts - Lista de Posts: ▪ Este endpoint permitirá aos alunos visualizarem uma lista de todos os posts disponíveis na página principal.
-- receber: nenhum parâmetro
+- receber: 
+	- offset
+	- limit(default=10)
 
 - retornar:
-	- 
-
+	-   title
+	-  description
+	-   introduction
+	-   external_link
+	-  content_hashtags
+	- style_id
+	-   image
+	-  createdAt
+	- updatedAt
+	- total_post (total post no banco)
+	- author_id
+		- 
 
 GET /posts - Listagem de Todas as Postagens: ▪ Este endpoint permitirá que professores vejam todas as postagens criadas, facilitando a gestão do conteúdo.
 - receber: nenhum parâmetro
