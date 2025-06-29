@@ -59,3 +59,16 @@ npm run build && typeorm migration:run -d <caminho de onde está os arquivos de 
 ## nest
 ![[Pasted image 20250629195005.png]]
 
+
+![[Pasted image 20250629195531.png]]
+
+![[Pasted image 20250629195545.png]]
+
+![[Pasted image 20250629195554.png]]
+
+![[Pasted image 20250629195614.png]]
+- funcionam como filtros de exceções
+	- seriam erros genéricos do sistema
+	- você cria eles para gerenciar esses erros genéricos
+
+
