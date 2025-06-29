@@ -47,4 +47,7 @@ npm run build && typeorm migration:run -d <caminho de onde está os arquivos de 
  Transaction:
  é quando uma ação executa só e somente se tudo funcionar corretamente (tanto o caminho de ida quando o caminho de volta), caso ela não funcione ela irá desfazer o que foi feito
 
+## JWT
+![[Pasted image 20250629174445.png]]
+
 
