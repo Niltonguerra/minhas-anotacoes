@@ -56,3 +56,6 @@ npm run build && typeorm migration:run -d <caminho de onde está os arquivos de 
 ![[Pasted image 20250629192235.png]]
 
 
+## nest
+![[Pasted image 20250629195005.png]]
+
