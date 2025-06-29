@@ -27,18 +27,24 @@ como escolher qual publica usar?
     - olhar o git hub do repositório e validar 
 
 
-
-```
 comando para criar uma migration:
+```
 npx typeorm migration:create <caminho das migrations (exemplo: ./src/lib/migrations/ProductAutoGenerateUUID)>
 ```
 
-
+comando para reverter a migration:
 ```
+npx typeorm migration:revert -d  <caminho das migrations (exemplo: ./src/lib/migrations/ProductAutoGenerateUUID)>
+```
+
+
 comando para executar as migration:
-
+```
 npm run build && typeorm migration:run -d <caminho de onde está os arquivos de migrations após compilar, exempl(exemplo:./build/lib/typeorm/typeorm.js)>
-
 ```
 
- transaction?
+ 
+ Transaction:
+ é quando uma ação executa só e somente se tudo funcionar corretamente (tanto o caminho de ida quando o caminho de volta), caso ela não funcione ela irá desfazer o que foi feito
+
+
