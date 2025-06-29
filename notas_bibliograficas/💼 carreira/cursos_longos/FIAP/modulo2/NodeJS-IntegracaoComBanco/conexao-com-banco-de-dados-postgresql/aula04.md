@@ -72,3 +72,14 @@ npm run build && typeorm migration:run -d <caminho de onde está os arquivos de 
 	- você cria eles para gerenciar esses erros genéricos
 
 
+![[Pasted image 20250629200959.png]]
+
+![[Pasted image 20250629201135.png]]
+
+![[Pasted image 20250629201222.png]]
+
+
+
+![[Pasted image 20250629201310.png]]
+
+
