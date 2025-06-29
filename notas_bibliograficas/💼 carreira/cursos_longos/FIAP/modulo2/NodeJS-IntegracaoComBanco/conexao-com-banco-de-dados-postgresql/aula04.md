@@ -51,3 +51,8 @@ npm run build && typeorm migration:run -d <caminho de onde está os arquivos de 
 ![[Pasted image 20250629174445.png]]
 
 
+
+## mongodb
+![[Pasted image 20250629192235.png]]
+
+
