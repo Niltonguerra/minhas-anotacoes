@@ -114,7 +114,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bec93dd1abc648da",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
