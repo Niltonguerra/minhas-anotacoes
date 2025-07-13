@@ -3,7 +3,7 @@ tags:
   - fiap/modulo02/reuniao
 Date: 2025-06-19T21:00:00
 ---
-
+ 
 # pauta da reunião:
 - vocês acham interessante colocar code review no projeto?✅
 - perguntar como vamos inserir as imagens✅
