@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "613ebd25a4db1e9a",
+        "id": "956258ea0c771f91",
         "type": "tabs",
         "children": [
           {
-            "id": "bec93dd1abc648da",
+            "id": "dcc35867e569e911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action/aula 01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "23062025-reuniao-fiap"
+              "title": "aula 01"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:musica",
+                "query": "tag:fiap/modulo02",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,10 +237,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bec93dd1abc648da",
+  "active": "dcc35867e569e911",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/19062025-reuniao-fiap.md",
+    "Pasted image 20250713135128.png",
+    "Pasted image 20250713134933.png",
+    "Pasted image 20250713134822.png",
+    "Pasted image 20250713134739.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action/aula 01.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula01.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/19062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704153757.png",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img",
@@ -251,15 +258,11 @@
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152626.png",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152553.png",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152513.png",
-    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152212.png",
-    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152147.png",
-    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704150809.png",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula04.md",
     "notas_permanentes/utilitarios/templates/template_Cornell.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula03.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/arquivos/Aula 01- Conexão com banco de dados postgreSQL.pdf",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula01.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula03.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula02.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/arquivos",
@@ -273,7 +276,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/18062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/16062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/11062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/09062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
@@ -283,7 +285,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/Técnicas de programação - Umberto/FRAMEWORK VB.NET/Guna.UI-Framework-Lib-master/README.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main-alterado/README.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main/README.md",
-    "notas_bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
