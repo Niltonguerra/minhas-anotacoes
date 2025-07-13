@@ -35,3 +35,11 @@ table of contents: Create table of contents
 ![[Pasted image 20250713135128.png]]
 
 
+## vantagens do docker:
+![[Pasted image 20250713135319.png|500]]
+![[Pasted image 20250713135243.png|500]]
+![[Pasted image 20250713135307.png|500]]
+![[Pasted image 20250713135256.png|500]]
+
+
+
