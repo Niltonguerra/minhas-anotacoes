@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "29062025-reunião-fiap"
+              "title": "23062025-reuniao-fiap"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +239,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "dcc35867e569e911",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action/aula 01.md",
     "Pasted image 20250713135319.png",
     "Pasted image 20250713135307.png",
