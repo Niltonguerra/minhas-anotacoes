@@ -159,9 +159,9 @@ campos do usuário:
 	- updatedAt
 	- total_post (total post no banco)
 	- author_id
-		- name
-		- email
-		- social_midia 
+	- name
+	- email
+	- social_midia 
 
 
 
