@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d280047996c7655",
@@ -213,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,6 +286,4 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main-alterado/README.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main/README.md",
     "Untitled 1.canvas",
-    "Untitled.canvas"
-  ]
-}
+    
