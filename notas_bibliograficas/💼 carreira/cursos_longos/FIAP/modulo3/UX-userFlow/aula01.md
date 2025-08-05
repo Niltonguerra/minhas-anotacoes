@@ -1,6 +1,7 @@
 ---
-Date: ""
-tags: []
+Date: 2025-08-04T23:10:00
+tags:
+  - fiap/modulo03/userFlow
 ---
 # Notas conectadas:
 
@@ -19,6 +20,23 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
+tudo isso entra no userFlow:
+![[Pasted image 20250804231230.png]]
+
+o design do usuário engloba:
+![[Pasted image 20250804231320.png]]
 
 
 
+![[Pasted image 20250804231516.png]]
+- a experiência completa do usuário em toda a jornada de compra
+
+
+![[Pasted image 20250804231626.png]]
+
+
+
+![[Pasted image 20250804231710.png]]
+
+
+##
