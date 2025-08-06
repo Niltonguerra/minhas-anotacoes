@@ -64,9 +64,21 @@ se separa em 3 principais grupos
 
 ### Explorar
 - idealização
+	- fazer um Brain Storm
+
 - prototipagem
+	- criar o MVP
 
 ### Materializar
 - teste
-- implementação
+	- fazer os testes
+	- testar o MVP
+	- testar o conceito, 
+	- teste de percepção
+	- testar o produto como um todo
+	- pesquisa de profundidade
+	- testar tudo
 
+- implementação
+	- implementar o produto
+	- acompanhar se foi implementado corretamente 
