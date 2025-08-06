@@ -27,4 +27,46 @@ table of contents: Create table of contents
 - deixa o site mais fácil de colocar novas features
 
 ### Redução de erros e retrabalho
-- evita que
+- (sendo sincero isso ficou muito abstrato)
+
+### foco no core business
+- permite que seja mais simples a criação de novas features, por conta de já existir uma regra de como aquilo deve acontecer
+
+### criação de valor
+-  permite um maior valor agregado para o usuário facilitando assim um maior ROI(Retorno sobre o investimento) para as empresas
+
+
+
+
+## o que é o Design Thinking?
+![[Pasted image 20250806185652.png]]
+
+![[Pasted image 20250806185750.png]]
+
+se separa em 3 principais grupos
+### Entender
+- empatia
+	- entender o problema do usuário
+	- falar com os usuários
+
+- definição	
+	- declarar os problemas
+	- definir a persona
+	- e varias outras coisas também se der tempo
+		- como: 
+			- mapa de empatia 
+			- jornada do usuário 
+			- mapa de afinidade
+			- jobs to be done 
+			- test card 
+			- e etc.
+
+
+### Explorar
+- idealização
+- prototipagem
+
+### Materializar
+- teste
+- implementação
+
