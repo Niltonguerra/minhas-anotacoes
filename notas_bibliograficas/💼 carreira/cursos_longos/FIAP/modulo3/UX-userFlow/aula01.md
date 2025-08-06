@@ -62,8 +62,14 @@ tudo isso entra no userFlow:
 	- chamar algo de geladeira ou frízer
 	- semântica do um site de noticias
 	- as Tags do Obsidian
+
 ### estratégia de design
 - 
 
-
-### pesquisa com 
+### pesquisa com usuário
+- fazer a validação do que foi feito
+- ciclo OKR (Objectives and Key Results)
+	- Definir objetivos claros
+	- Estabelecer resultados-chave mensuráveis
+	- Executar e acompanhar
+	- Revisar e ajustar a cada trimestre
