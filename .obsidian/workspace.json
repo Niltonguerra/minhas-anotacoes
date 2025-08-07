@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "956258ea0c771f91",
+        "id": "95698b74710f2e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc35867e569e911",
+            "id": "991f1624b62a1b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/requisitos do sistema/aula01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula03-por que UX é importante para as pessoas desenvolvedoras"
+              "title": "aula01"
             }
           }
         ]
@@ -49,22 +49,12 @@
             }
           },
           {
-            "id": "3d14eef97b09bca3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
             "id": "ae385e8e5901ef46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fiap/modulo02",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +103,22 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "d0e961620a6307ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 241.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -139,34 +139,12 @@
             }
           },
           {
-            "id": "1be2b055b1e94437",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "257eab3f44a270c6",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Pasted image 20250616162303"
-            }
-          },
-          {
             "id": "4dc1e53f5f99e023",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250616162303"
+              "title": "Backlinks for nodeJS-história-e-curiosidades"
             }
           },
           {
@@ -185,37 +163,50 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250616162303"
+              "title": "Outgoing links from nodeJS-história-e-curiosidades"
             }
           },
           {
-            "id": "b80102a549b764bb",
+            "id": "257eab3f44a270c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for nodeJS-história-e-curiosidades"
+            }
+          },
+          {
+            "id": "e5b14e5646cd282c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/16062025-reuniao-fiap.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16062025-reuniao-fiap"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-statusbar-pomo:Start pomodoro": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -233,57 +224,57 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcc35867e569e911",
+  "active": "991f1624b62a1b62",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250806185750.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250806185652.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250806184514.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow/aula 02- o que faz uma boa UX(user expirience).md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow/aula01-introducao.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250806183826.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250806182236.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250804232146.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250804231710.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250804231626.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250804231516.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250804231320.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img",
-    "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto/part_1_levantamento_de_informacoes.md",
-    "notas_permanentes/utilitarios/templates/template programação.md",
-    "notas_permanentes/utilitarios/templates/template_english.md",
-    "notas_permanentes/utilitarios/templates/template_Cornell.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula03OrquestracaoDeConteineres/como usar o docker compose.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action/aula 01.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula01.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/19062025-reuniao-fiap.md",
+    "Pasted image 20250807184837.png",
+    "Pasted image 20250807184519.png",
+    "Pasted image 20250807184447.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula01-introducao.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula 02- o que faz uma boa UX(user expirience).md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/requisitos do sistema/aula01.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula03.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/requisitos do sistema",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704153757.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704153402.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152958.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152915.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152626.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152553.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152513.png",
+    "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img/Pasted image 20250704152212.png",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/04072025.md",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action/aula 01.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/ci_cd_com_github_action",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula04.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula03.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/arquivos/Aula 01- Conexão com banco de dados postgreSQL.pdf",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula03.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula02.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/arquivos",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula02.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula01.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/18062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/16062025-reuniao-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula01-introdução.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/node-js-principios/nodeJS-história-e-curiosidades.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/11062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/09062025-reuniao-fiap.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
+    "Deus te amo!!!.md",
+    "conflict-files-obsidian-git.md",
+    "notas bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/docker/aula04boasPraticas/boas_praticas_02.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/Técnicas de programação - Umberto/FRAMEWORK VB.NET/Guna.UI-Framework-Lib-master/Guna UI Activation/Guna UI Activation/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/Técnicas de programação - Umberto/FRAMEWORK VB.NET/Guna.UI-Framework-Lib-master/README.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main-alterado/README.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/3semestre/IHC/web-speech/web-speech-main/README.md",
+    "notas_bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 1.md",
+    "notas_bibliograficas/💼 carreira/📖idiomas/english/modulo 01- 1000 palavras mais usadas/lessons/lesson 0 - words I don't know.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
