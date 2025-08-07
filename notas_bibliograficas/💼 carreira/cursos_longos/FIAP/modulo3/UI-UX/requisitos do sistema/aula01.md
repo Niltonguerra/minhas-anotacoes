@@ -60,3 +60,22 @@ table of contents: Create table of contents
 
 
 ## persona como método e como ferramenta
+- como método
+	- é desenvolvida como um método
+
+- como ferramenta
+	- é usada como ferramenta
+
+### o que é e para que serve uma persona?
+- é quem consome seu produto
+- sem usa o seu produto
+- serve para facilitar a empatia com o seu publico e assim gerar produtos para eles mais fácil mente
+
+### existe data de validade para a persona?
+- Resposta: sim, entre 12 a 36 meses
+
+
+
+![[Pasted image 20250807191407.png]]
+
+
