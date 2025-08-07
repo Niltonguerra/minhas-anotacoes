@@ -24,7 +24,7 @@ table of contents: Create table of contents
 ![[Pasted image 20250807184519.png]]
 
 
-## exemplos de metodos:
+## exemplos de métodos:
 ![[Pasted image 20250807184837.png]]
 
 ### pesquisa com o usuário
@@ -39,3 +39,24 @@ table of contents: Create table of contents
 ### wireframing e prototipagem
 - é basicamente a prototipagem do projeto
 
+
+## exemplos de ferramentas
+![[Pasted image 20250807185341.png]]
+
+
+
+
+
+## ferramentas baseadas pressuposições x ferramentas baseadas em pesquisa, como descobrir?
+![[Pasted image 20250807185619.png]]
+
+### características das ferramentas baseadas em pressuposições
+![[Pasted image 20250807185541.png]]
+
+
+### características das ferramentas baseadas em pesquisa
+![[Pasted image 20250807190401.png]]
+
+
+
+## persona como método e como ferramenta
