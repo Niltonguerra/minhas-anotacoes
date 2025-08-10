@@ -49,8 +49,31 @@ table of contents: Create table of contents
 ![[Pasted image 20250810162416.png]]
 
 - usabilidade
+	- seja simples de usar
 - acessibilidade
+	- permitir que pessoas com deficiência possam usar o sistema
 - responsividade
+	- quando clicar em um botão, a ação deve ser executada de forma clara e rápida para o usuário
 - hierarquia visual
+	- respeitar o html semântico
 - feedback do usuário
+	- ex: 
+		- colocar um :hover em um botão
+
 - consistência
+	- design atómico
+
+- simplicidade
+	- seja simples, não tente inventar a roda
+
+- feedback de estado
+	- exemplo pessoal:
+		- tabela FIPE que foi desenvolvido no meu trabalho
+			- a passagem pelos passos para selecionar o carro 
+
+- teste de usabilidade
+	- envia para o usuário testar
+	- teste de QA
+
+- atualização contínua
+	- CI/CD
