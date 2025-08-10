@@ -35,8 +35,29 @@ table of contents: Create table of contents
 			- desempenho do código( muitas vezes mas nem sempre)
 			- coisas pequenas que não fazem com que o valor principal seja negado
 - requisitos de interface
-	- layout
+	- layout da tela
+	- design de interação 
+
+- requisitos de desempenho:
+	- valida o desempenho do código
+
 - requisitos de usabilidade
+	- valida a qualidade da usabilidade do sistema
+
 - requisitos de conformidade
+	- exemplo: lgpd
+
 - requisitos de manutenção e suporte
+	- testes unitários
+	- documentação 
+	- etc
+
+
+
+## exemplos de requisitos:
+![[Pasted image 20250810160307.png]]
+
+![[Pasted image 20250810160549.png]]
+
+
 
