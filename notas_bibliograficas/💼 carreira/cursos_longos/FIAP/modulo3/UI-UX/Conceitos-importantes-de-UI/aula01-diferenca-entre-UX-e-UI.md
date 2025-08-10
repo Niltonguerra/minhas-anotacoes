@@ -19,6 +19,38 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
+## o que é UX?
+- mais focado na experiencia do usuário
+![[Pasted image 20250810161741.png]]
+- envolve:
+	- acessibilidade
+	- usabilidade
+	- satisfação do usuário
+
+- o que o profissional faz?
+	-  pesquisa de usuários
+	- análise de dados
+	- criação de persona
+	- mapa de jornada do usuário
+	- wireframes e testes de usabilidade
 
 
 
+## o que é UI?
+- mais focado com a aparência visual do produto
+
+![[Pasted image 20250810162049.png]]
+![[Pasted image 20250810162110.png]]
+![[Pasted image 20250810162152.png]]
+
+- fazer com que o usuário tenha uma boa experiência ao usar o site 
+
+## pontos importantes para se considerar:
+![[Pasted image 20250810162416.png]]
+
+- usabilidade
+- acessibilidade
+- responsividade
+- hierarquia visual
+- feedback do usuário
+- consistência
