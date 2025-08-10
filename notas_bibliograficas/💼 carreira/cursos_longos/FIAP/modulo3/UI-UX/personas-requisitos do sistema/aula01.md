@@ -2,6 +2,7 @@
 Date: 2025-08-07T18:40:00
 tags:
   - fiap/modulo03/requisitosDoSistema
+  - fiap/modulo03/UI-UX
 ---
 # Notas conectadas:
 

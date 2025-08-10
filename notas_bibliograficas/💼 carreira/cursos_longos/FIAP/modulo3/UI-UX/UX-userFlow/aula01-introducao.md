@@ -2,6 +2,7 @@
 Date: 2025-08-04T23:10:00
 tags:
   - fiap/modulo03/UI-UX/userFlow
+  - fiap/modulo03/UI-UX
 ---
 # Notas conectadas:
 
