@@ -1,3 +1,5 @@
+
+# Template
 ## crie uma foto:
 ## nome sobrenome:
 
@@ -27,6 +29,15 @@
 - Descrição com o máximo de detalhes possíveis e relevantes da construção de uma persona
 
 ## Objetivos
--  coloque quais são os objetivos da sua persona em tópicos
+-  coloque quais são os objetivos da sua persona
+- coloque em tópicos
+
 ## Frustrações:
-- obstaculos 
+- problemas que a persona tem
+- coloque em tópicos
+
+
+# exemplo de persona: 
+![[Pasted image 20250810154800.png]]![[Pasted image 20250810154819.png]]
+![[Pasted image 20250810154859.png]]![[Pasted image 20250810154916.png]]
+
