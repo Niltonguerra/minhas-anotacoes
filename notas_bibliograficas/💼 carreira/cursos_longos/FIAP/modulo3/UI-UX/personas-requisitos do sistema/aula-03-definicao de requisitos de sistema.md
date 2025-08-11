@@ -1,7 +1,7 @@
 ---
 Date: 2025-08-10T15:50:00
 tags:
-  - fiap/modulo03/requisitosDoSistema
+  - fiap/modulo03/UI-UX/requisitosDoSistema
 ---
 # Notas conectadas:
 

@@ -11,12 +11,15 @@
             "id": "dcc35867e569e911",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810162416.png"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250810162416"
+              "icon": "lucide-file",
+              "title": "aula02"
             }
           }
         ]
@@ -234,29 +237,32 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "dcc35867e569e911",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/11082025.md",
+    "Pasted image 20250811193353.png",
+    "Pasted image 20250811193233.png",
+    "Pasted image 20250811193137.png",
+    "Pasted image 20250811192838.png",
+    "Pasted image 20250811192604.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula01-diferenca-entre-UX-e-UI.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula01-introducao-de-ui-ux.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula-03-definicao de requisitos de sistema.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula-02-como-criar-uma-persona.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula01-introducao.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/FIAP.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula 02- o que faz uma boa UX(user expirience).md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula02.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810162416.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/11082025.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810162152.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810162110.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810162049.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810161741.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula01-introducao-de-ui-ux.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810160549.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula-03-definicao de requisitos de sistema.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810160307.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810155537.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810155322.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/aula-02-como-criar-uma-persona.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250810155121.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema/template-de-criacao-de-uma-persona.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula01-introducao.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow/aula 02- o que faz uma boa UX(user expirience).md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UX-userFlow/aula03-por que UX é importante para as pessoas desenvolvedoras.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/UX-userFlow",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/personas-requisitos do sistema",
@@ -279,9 +285,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/19062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/img",
     "notas_bibliograficas/💼 carreira/estudo_empresas_trabalhadas/techtalk/04072025.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula04.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/NodeJS-IntegracaoComBanco/conexao-com-banco-de-dados-postgresql/aula03.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/conexao-com-banco-de-dados-postgresql/aula03.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

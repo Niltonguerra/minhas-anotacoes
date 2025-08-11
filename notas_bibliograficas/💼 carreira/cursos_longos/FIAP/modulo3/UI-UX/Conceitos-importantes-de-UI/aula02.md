@@ -1,7 +1,7 @@
 ---
-Date: 2025-08-10T15:32:00
+Date: 2025-08-11T19:22:00
 tags:
-  - fiap/modulo03/UI-UX/requisitosDoSistema
+  - fiap/modulo03/UI-UX/conceitos
 ---
 # Notas conectadas:
 
@@ -20,7 +20,32 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
-template de uma persona:[[template-de-criacao-de-uma-persona]]
+## controles de entrada:
+![[Pasted image 20250811192604.png]]
+- são os input's do sistema
+
+
+## componentes de navegação
+![[Pasted image 20250811192838.png]]
+
+- serve para o usuário se localizar
+- serve para facilitar a navegação do usuário
+
+
+## componentes informativos
+![[Pasted image 20250811193137.png]]
+- serve para informar o usuário 
 
 
 
+
+## containers
+![[Pasted image 20250811193233.png]]
+
+- serve para organizar ou agrupar uma página ou tela
+
+
+
+
+## UI Ruim
+![[Pasted image 20250811193353.png]]
