@@ -11,12 +11,15 @@
             "id": "08d00419129edbb3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250811200148.png"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/grafana-e-prometheus/aula01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811200148"
+              "icon": "lucide-file",
+              "title": "aula01"
             }
           }
         ]
@@ -234,19 +237,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "08d00419129edbb3",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194437.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811200148.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/grafana-e-prometheus/aula01.md",
-    "Pasted image 20250811200148.png",
     "Pasted image 20250811195749.png",
-    "Pasted image 20250811195647.png",
-    "Pasted image 20250811195512.png",
-    "Pasted image 20250811194927.png",
-    "Pasted image 20250811194852.png",
-    "Pasted image 20250811194832.png",
-    "Pasted image 20250811194817.png",
-    "Pasted image 20250811194634.png",
-    "Pasted image 20250811194607.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811195647.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811195512.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194927.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194852.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194832.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194817.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194634.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250811194607.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/conexao-com-banco-de-dados-postgresql/aula01.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/grafana-e-prometheus",

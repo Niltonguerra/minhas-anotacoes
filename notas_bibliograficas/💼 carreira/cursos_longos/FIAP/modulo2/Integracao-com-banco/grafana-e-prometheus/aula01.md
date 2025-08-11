@@ -52,18 +52,36 @@ table of contents: Create table of contents
 ![[Pasted image 20250811195512.png]]
 
 
-## prometheus
+## prometheus e grafana
+### prometheus
 ![[Pasted image 20250811195647.png]]
 - é altamente escalável
 - pode usar junto de containers
 - as métricas são armazenadas em pares de chave e valor
 - oferece uma linguagem própria de consulta flexível(primQL) 
-### como ele funciona?
+#### como ele funciona?
 - a gente envia as métricas para o prometheus a nível de aplicação e depois ele gera os relatórios
+#### tipos de métricas que o prometheus captura
+- counter
+	- serve para monitorar métricas que só sobem
+		- ex:
+			- visitas de um site
+- gauge:
+	- serve para monitorar métricas que aumentar e diminuem
+		- ex:
+			- quantidade de usuários logados
+- Histogram:
+	- serve para fazer um históricos das métricas para criar dashboards ou relatórios
+- Summary:
+	- similar ao Histogram, mas calcula por quantis
+		- o que é quantis?
+			- quantis é derivado da mediana, então 50p(50 quantis) equivale a uma mediana de 50
 
-
-## Grafana
+### Grafana
 ![[Pasted image 20250811200148.png]]
+- permite criar gráficos para as métricas que vem para ele
+	- incluir, mas não se limita ao prometheus
+- permite dashboards
+- permite colocar alertas para o sistema sobre os recursos
 
-
-
+### de forma prática, imagine que o prometheus é o backend e o grafana o frontend para o monitorament
