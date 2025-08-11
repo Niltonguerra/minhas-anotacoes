@@ -75,7 +75,7 @@ table of contents: Create table of contents
 - Summary:
 	- similar ao Histogram, mas calcula por quantis
 		- o que é quantis?
-			- quantis é derivado da mediana, então 50p(50 quantis) equivale a uma mediana de 50
+			- quantis é derivado da mediana, então 50p(50 quantis) equivale a uma mediana de 50%
 
 ### Grafana
 ![[Pasted image 20250811200148.png]]
@@ -84,4 +84,5 @@ table of contents: Create table of contents
 - permite dashboards
 - permite colocar alertas para o sistema sobre os recursos
 
-### de forma prática, imagine que o prometheus é o backend e o grafana o frontend para o monitorament
+### de forma prática, imagine que o prometheus é o backend e o grafana o frontend para o monitoramento
+
