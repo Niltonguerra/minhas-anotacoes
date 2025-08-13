@@ -21,7 +21,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 ## o que é o Style Guide?
-- é basicamente um documento que tem todas as regras de design para uma marca 
+- é basicamente um documento que tem as regras básicas de design de uma marca 
 	- tem coisas como:
 		- cores
 		- fontes
@@ -46,4 +46,27 @@ table of contents: Create table of contents
 
 
 
+![[Pasted image 20250813192608.png]]
+- brand guidelines
+	- aqui fica o core do desing, seria tipo as entidades
+	- serve para como você usa a marca no ponto final
 
+- style guide
+	- aqui ficaria o que a gente chama na programação de camada de caso de uso
+	- fala de forma bem simplificada sobre a  imagem da marca
+
+- design system
+	- aqui ficaria a camada de controllers, services, bancos e etc, se fossemos comparar com a programação
+	- contém todas as regras de estilização da marca
+
+
+
+
+o que precisa ter dentro do syle guide?
+- cores
+- tipografia
+- elementos de design
+	- tem menos coisa que no desing system
+- layout
+- imagens tom de voz e estilo de escrita
+- usabilidade e acessibilidade
