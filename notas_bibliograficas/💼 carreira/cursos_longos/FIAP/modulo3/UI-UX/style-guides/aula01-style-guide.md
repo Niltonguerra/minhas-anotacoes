@@ -8,17 +8,15 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos o que é um style guide, um brand guidelines e um design system, no caso o brand guiles é o nivel mais interno do design seguido pelo style guide e esse seguido pelo design system. Falo dessa forma por que as regras contidas no brand guidelines estão contidas no style guides e por sua vez estão contidas no desing system
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#o que é o Style Guide?|o que é o Style Guide?]]
+- [[#características fundamentais|características fundamentais]]
+- [[#benefícios:|benefícios:]]
+- [[#diferenças entre o Brang Guidelines e o Design System|diferenças entre o Brang Guidelines e o Design System]]
 # Explicação dos tópicos:
+
 
 ## o que é o Style Guide?
 - é basicamente um documento que tem as regras básicas de design de uma marca 
@@ -68,5 +66,20 @@ o que precisa ter dentro do syle guide?
 - elementos de design
 	- tem menos coisa que no desing system
 - layout
-- imagens tom de voz e estilo de escrita
+	- tem menos coisa que no desing system
+- imagens 
+	- aqui entra:
+		- estilo de imagens
+		- filtros de imagens 
+		- posições das fotográficas
+		- e etc.
+- tom de voz e estilo de escrita
+	-  aqui entra:
+		- qual é a linguagem que a empresa vai usar para se comunicar com suas personas
+
 - usabilidade e acessibilidade
+	- aqui entra:
+	- diretrizes de acessibilidade para pessoas com algum tipo de deficiência
+		- por exemplo:
+			- cegos
+			- ou daltônicos
