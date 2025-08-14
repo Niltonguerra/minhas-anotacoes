@@ -34,19 +34,47 @@ table of contents: Create table of contents
 		- desenvolvimento de produtos digitais
 		- manutenção da consistência ao longo do tempo
 
-existe um passo a passo para criar um style guide?
-- não, mas existe algumas diretrizes, sendo elas:
-	- pesquisa e análise
+## existe um passo a passo para criar um style guide?
+- ### não, mas existe algumas diretrizes, sendo elas:
+	- ### pesquisa e análise
 		- identificar o objetivo do projeto
 		- conhecer o público alvo 
 		- realizar uma pesquisa sobre a concorrência e tendências de design
-		- análisar a identidade visual atual do produto(se )
-	- definição da identidade visual 
-	- criação de componentes visuais 
-	- estabelecimento de diretrizes de design
-	- documentação 
-	- revisão e feedback
-	- implementação e disseminação 
-	- manutenção contínua
-- 
+		- analisar a identidade visual atual do produto(se houver)
+	- ### definição da identidade visual 
+		- determinar logotipo
+		- cores principais
+		- cores segundarias
+		- tipografia
+	- ### criação de componentes visuais 
+		- nessa etapa seria criado o átomo, se fossemos pensar no design atômico
+		- desenvolver uma biblioteca contendo botões
+		- ícones
+		- caixa de texto 
+		- e etc
+	- ### estabelecimento de diretrizes de design
+		- é definido aqui o:
+			- alinhamento
+			- espaçamento
+			- hierarquia visual
+			- contraste de elementos
+			- e etc
+	- ### documentação
+		- aqui deve-se documentar tudo o que foi definido
+			- aqui se cria o style guide 
+	- ### revisão e feedback
+		- deve se compartilhar o style guide para todo mundo que tenha interesse nele
+		- e também alterar conforme os feedbacks recolhidos
+	- ### implementação e disseminação 
+		- deve usar ele em todos os produtos da marca
+	- ### manutenção contínua
+		- deve-se fazer a manutenção continua
+	- ### é o ciclo PDCA
+		- planejar
+		- fazer 
+		- verificar/validar
+		- agir/corrigir
+		- a vida é PDCA, kkkkk
+
+
 
