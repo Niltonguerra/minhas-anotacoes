@@ -11,12 +11,15 @@
             "id": "d5d5f31aaf5d6bb2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250813192608.png"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250813192608"
+              "icon": "lucide-file",
+              "title": "23062025-reuniao-fiap"
             }
           }
         ]
@@ -234,10 +237,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "d5d5f31aaf5d6bb2",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/style-guides/aula01-style-guide.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250813192608.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/style-guides/aula01-style-guide.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250813192235.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula03-Ferramentas-de-UI.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/style-guides",
