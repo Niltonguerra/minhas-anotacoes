@@ -76,5 +76,6 @@ table of contents: Create table of contents
 		- agir/corrigir
 		- a vida é PDCA, kkkkk
 
-
+## exemplo de um style guide:
+- https://atlassian.design/foundations/illustrations
 
