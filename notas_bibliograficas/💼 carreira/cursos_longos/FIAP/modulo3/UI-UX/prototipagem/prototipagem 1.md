@@ -27,6 +27,27 @@ table of contents: Create table of contents
 ![[Pasted image 20250831175620.png]]
 
 
+## tipos de protótipos:
+### protótipos de baixa fidelidade:
+-  tem baixo custo
+- explora ideias iniciais
+
+### protótipos de média fidelidade:
+- não são funcionais
+- mas serve para ter ainda mais um norte do projeto
+
+### protótipos de alta fidelidade:
+- precisa ser super detalhados
+- a parte gráfica deve ser igual a que você definiu previamente
+
+### protótipos de usabilidade:
+- protótipo usado para o teste de usabilidade singular(testa cada funcionalidade separadamente)
+### protótipos de engenharia:
+- aquele que o Paulinho desenhou horas antes de eu quase sofrer um golpe, kkkk
+### protótipos funcionais:
+- prototipagem que dá para usar, mas ainda não é o final
+
+![[Pasted image 20250831180142.png]]
 
 
-
+![[Pasted image 20250831180521.png]]
