@@ -1,5 +1,5 @@
 ---
-Date: 2025-08-31T17:29:00
+Date: 2025-08-31T17:54:00
 tags:
 ---
 # Notas conectadas:
@@ -18,29 +18,15 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## o que precisa ter?
-- o que considerar quando estiver desenvolvendo um layout responsivo
-![[Pasted image 20250831173028.png]]
+
+## protótipagem:
+![[Pasted image 20250831175458.png]]
+![[Pasted image 20250831175613.png]]
 
 
-## por que  fazer?
-![[Pasted image 20250831173408.png]]
+![[Pasted image 20250831175620.png]]
 
 
-## mobile first
-![[Pasted image 20250831173636.png]]
-- por que tem mais gente usando o celular
-- o google analytics pega as métricas pelo mobile
 
 
-## exemplos de sucesso de mobile first:
-- bbc news 
-- airbnb
-- apple
-
-
-## o que é grid?
-- grid é uma grade que separa os elementos uniformemente
-### por que você deveria usar?
-![[Pasted image 20250831174712.png]]
 
