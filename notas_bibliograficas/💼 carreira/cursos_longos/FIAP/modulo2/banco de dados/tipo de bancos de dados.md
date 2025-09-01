@@ -20,9 +20,14 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## banco de dados relacionais e não relacionais
+- banco de dados não relacionais são mais baratos
 
 ![[Pasted image 20250901125738.png]]
 
 
+
+
+![[Pasted image 20250901154108.png]]
 
 
