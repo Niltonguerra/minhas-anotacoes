@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "protótipo 2"
             }
+          },
+          {
+            "id": "ab56420348ef0180",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -237,7 +251,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d5d5f31aaf5d6bb2",
+  "active": "ab56420348ef0180",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831180521.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/prototipagem/protótipo 2.md",
