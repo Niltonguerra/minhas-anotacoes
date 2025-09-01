@@ -24,7 +24,7 @@ table of contents: Create table of contents
 - banco de dados relacionais são menos performáticos que os não relacionais, mas é uma diferença muito pequena
 	- por que o não relacional não tem tantos processos para fazer as consultas no banco de dados quanto o relacional
 - banco de dados não relacional é mais escalável
-	- 
+	- é mais fácil para escalonamento horizontal
 ![[Pasted image 20250901125738.png]]
 
 
