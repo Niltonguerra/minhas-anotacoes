@@ -58,5 +58,5 @@ exemplo de definição para o banco de dados:
 			 - velocidade de desenvolvimento
 		 - pontos negativos:
 			 - mais difícil fazer um relacionamento entre diferentes entidades
-			 - é mais complexo gerenciar transações e consistência
-- #### nesse caso vale mais apena usar o banco de dados não relacional por conta que ele é mais escalável horizontalmente e sendo uma rede social é essencial ter isso no sistema, mesmo que seja mais 
+			 - é mais complexo gerenciar transações e consistência  no banco de dados
+- #### nesse caso vale mais apena usar o banco de dados não relacional por conta que ele é mais escalável horizontalmente e tem outros benefícios também e sendo uma rede social é essencial ter escalabilidade no sistema é essencial, mesmo que seja mais ao custo de mais complexidade.
