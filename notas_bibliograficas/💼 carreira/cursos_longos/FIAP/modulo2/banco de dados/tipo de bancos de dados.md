@@ -33,3 +33,15 @@ table of contents: Create table of contents
 ![[Pasted image 20250901154108.png]]
 
 
+## quando usar cada modelo de banco de dados?
+
+exemplo de definição para o banco de dados:
+caso de exemplo:
+- desenvolvimento de um sistema educacional:
+- pontos para o relacional:
+	- permite uma maior consistência de informações
+	- permite uma maior padronização dos dados
+	- facilita a criação das querys
+
+	- pontos para o não relacional:
+		- caso em
