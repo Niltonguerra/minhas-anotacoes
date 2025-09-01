@@ -1,6 +1,8 @@
 ---
 Date: 2025-08-31T17:29:00
 tags:
+  - fiap/modulo03/UI-UX
+  - fiap/modulo03/UI-UX/responsividade
 ---
 # Notas conectadas:
 
