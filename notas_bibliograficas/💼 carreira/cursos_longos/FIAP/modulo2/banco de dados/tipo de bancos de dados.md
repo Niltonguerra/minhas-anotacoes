@@ -36,12 +36,27 @@ table of contents: Create table of contents
 ## quando usar cada modelo de banco de dados?
 
 exemplo de definição para o banco de dados:
-caso de exemplo:
+### caso de exemplo:
 - desenvolvimento de um sistema educacional:
-- pontos para o relacional:
-	- permite uma maior consistência de informações
-	- permite uma maior padronização dos dados
-	- facilita a criação das querys
+	- banco relacional:
+		- pontos positivos:
+			- permite uma maior consistência de informações
+			- permite uma maior padronização dos dados
+			- facilita a criação das querys
+		- pontos negativos
+			- baixa flexibilidade
+			- menor performance
+			- menor escalabilidade
+- #### vale a pena usar DB relacional por que como é um sistema de educação e não vai precisar de muita escalabilidade ou de suprir milhões de requisições, mas sim apenas algumas milhares de requisições, e por oferecer varias vantagens como facilidade na criação de querys é melhor usar o banco de dados relacional
 
-	- pontos para o não relacional:
-		- caso em
+### caso de exemplo:
+ - desenvolvimento de uma rede social:
+	 - banco de dados não relacional:
+		 - pontos positivos:
+			 - flexibilidade de esquema
+			 - facilidade de escalabilidade horizontal
+			 - velocidade de desenvolvimento
+		 - pontos negativos:
+			 - mais difícil fazer um relacionamento entre diferentes entidades
+			 - é mais complexo gerenciar transações e consistência
+- #### nesse caso vale mais apena usar o banco de dados não relacional por conta que ele é mais escalável horizontalmente e sendo uma rede social é essencial ter isso no sistema, mesmo que seja mais 
