@@ -25,3 +25,23 @@ table of contents: Create table of contents
 
 
 ![[Pasted image 20250902084915.png]]
+
+## Tipos de comandos SQL
+### comandos DDL(data definition language)
+- são usados para definir bases de dados,tabelas e índices 
+- ex: create database,create table, drop table, alter table e etc
+
+### comandos DML(data manipulation language)
+- comandos usados para manipulação de registros do banco de dados
+- ex: insert,delete e update
+### comandos DQL(data query language)
+- comandos usados para fazer consultas nos bancos de dados
+- ex: select
+
+### DCL(Data Control Language)
+- comandos para fazer a segurança da aplicação/controle de acesso
+- ex: GRANT e REVOKE
+
+### DTL(Data transaction Language)
+- comandos para controlar as transações executadas no banco de dados
+- ex: commit e rollback
