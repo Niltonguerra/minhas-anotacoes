@@ -29,4 +29,7 @@ table of contents: Create table of contents
 ## boas práticas no banco de dados relacional:
 ![[Pasted image 20250902104742.png]]
 - sempre que possível, fazer consultas via índices
-- 
+- colocar índices em campos mais usados para fazer querys
+- evitar usar o like
+	- por que ele não é muito performático
+
