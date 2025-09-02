@@ -24,8 +24,6 @@ table of contents: Create table of contents
 ![[Pasted image 20250902084450.png]]
 
 
-![[Pasted image 20250902084915.png]]
-
 ## Tipos de comandos SQL
 ### comandos DDL(data definition language)
 - são usados para definir bases de dados,tabelas e índices 
