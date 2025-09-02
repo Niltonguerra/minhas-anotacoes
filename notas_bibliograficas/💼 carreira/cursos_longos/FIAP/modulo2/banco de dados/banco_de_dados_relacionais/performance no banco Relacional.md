@@ -25,3 +25,8 @@ table of contents: Create table of contents
 - comando explain:
 	- usado para a gente ver o plano de consulta de uma query
 		- serve para você conseguir dados para poder estimar o custo de uma query
+		- ex de uso: explain format=json select * from ingresso
+## boas práticas no banco de dados relacional:
+![[Pasted image 20250902104742.png]]
+- sempre que possível, fazer consultas via índices
+- 
