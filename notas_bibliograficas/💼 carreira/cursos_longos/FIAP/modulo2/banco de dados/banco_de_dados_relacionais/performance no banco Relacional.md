@@ -19,7 +19,6 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
-
+## por padrão o sql já cria índice para PF e FK
 
 
