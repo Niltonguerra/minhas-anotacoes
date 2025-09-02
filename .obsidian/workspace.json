@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/o que é grpc.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "o que é grpc"
+              "title": "aula 01"
             }
           }
         ]
@@ -240,8 +240,12 @@
   },
   "active": "d5d5f31aaf5d6bb2",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
+    "Pasted image 20250902084915.png",
+    "Pasted image 20250902084450.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/o que é grpc.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 01.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API",
     "Pasted image 20250901154108.png",
     "Pasted image 20250901125738.png",
@@ -271,7 +275,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831174712.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/prototipagem",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831173636.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831173408.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/responsividade",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
@@ -280,12 +283,9 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/11082025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/grafana-e-prometheus/aula01.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/conexao-com-banco-de-dados-postgresql/aula01.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/grafana-e-prometheus",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/modulo 03.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/principios-do-node-js",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
