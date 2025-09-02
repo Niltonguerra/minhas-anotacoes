@@ -22,3 +22,6 @@ table of contents: Create table of contents
 ## por padrão o sql já cria índice para PF e FK
 
 
+- comando explain:
+	- usado para a gente ver o plano de consulta de uma query
+		- serve para você conseguir dados para poder estimar o custo de uma query
