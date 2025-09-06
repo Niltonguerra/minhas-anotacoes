@@ -21,11 +21,16 @@ table of contents: Create table of contents
 ## Pré-Requisitos e Contexto
 
 ### Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
-- conhecer como funciona um backend com qualquer linguagem
-- preferencialmente conhecer arquitetura limpa
+- saber fazer um backend com qualquer linguagem
+- conhecer arquitetura limpa
 - conhecer o design RESTful
 - conhecimento em prompt enginnering
-- 
+	- link para esse estudo:[[part_3_1_estudo_inicial_engenharia_de_prompt]]
+- Recuperação com embeddings (Embedding retrieval): saber como buscar informações usando vetores de similaridade.
+	- link para revisão se necessario: [[Fundamentos de linguista para processamento de linguagem natural]]
+	- link do repositório:
+- Orquestração de LLMs: uso de ferramentas como LangChain, Dust ou LangGraph para criar fluxos de trabalho com IA.
+
 
 ### Em que contexto este tópico se insere?
 
