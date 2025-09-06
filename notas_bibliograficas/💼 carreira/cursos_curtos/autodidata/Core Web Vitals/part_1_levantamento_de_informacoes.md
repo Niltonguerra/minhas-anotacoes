@@ -23,7 +23,9 @@ nessa nota vimos quais são as principais fontes sobre core webvitals para permi
 ## Pré-Requisitos e Contexto
 
 ### Quais conhecimentos prévios são _essenciais_ para entender este tópico? 
-- é importante ter conhecimentos básicos sobre web
+- conhecimentos HTML,CSSS e JS
+- conhecimentos em React ou Vue
+- saber fazer chamadas a api do frontend
 
 ### Em que contexto este tópico se insere?
 - ele se insere nos quesitos de qualidade de uma aplicação web

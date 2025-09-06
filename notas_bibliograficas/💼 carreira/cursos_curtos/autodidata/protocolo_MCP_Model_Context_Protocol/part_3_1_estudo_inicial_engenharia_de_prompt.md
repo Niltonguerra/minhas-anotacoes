@@ -1,11 +1,9 @@
 ---
-Date: ""
+Date: 2025-09-06T15:49:00
 tags:
 ---
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nesse estudo vimos que um bom prompt tem um papel para a AI, que a ação desejada, tem um contexto e tem como você deseja a saída, é que um bom prompt é quando você passa o problema para a IA contextualizando ela sobre o problema assim como explicando o que você espera dela para que ela entenda o que é preciso fazer  
 
 # Tópicos:
 
@@ -134,34 +132,16 @@ Exemplo:
 - o que compoe um bom prompt é você conseguir contextualizar a AI e saber explicar o que você quer para ela, você conseguindo fazer isso, pronto, você criou um bom prompt, tendo isso em vista explicando como cada parte de um bom prompt interage para gerar isso:
 	- papel
 		- faz com que a IA se coloque como um profissional daquela área para responder a sua pergunta, assim dando um contexto que você espera uma resposta de um profissional da área e não de qualquer um 
-	- 
+	- tarefa
+		- explica o que você quer
+	- contexto:
+		- da exemplos do que você quer ou explica a situação corrente para que a IA entenda a situação e explique da melhor forma possivel
+	- saída desejada:
+		- explica como você quer o formato de saída para a IA, por exemplo, existem varias formas de dizer uma coisa e de diferentes jeitos falar uma coisa, você precisa dizer a forma e jeito que você quer que a IA responsa, quanto mais especifico melhor.
+			- ex: falar se você quer em texto, json, csv e etc
+			- ex: tipo de linguagem: quer culta, descontraída e etc
+			- ex: quer convencer, quer informar, quer manipular e etc
+			- existem diversos objetivos quando você fala algo para alguém, você precisa descrever todos eles para a IA para ela ser o mais precisa e clara possivel
 
 ### 10.ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
 - sim, mas não ele usa tecnologias para interpretação de linguagem natural dentro de si, mas como estou com um pouco de presa não vou entrar nesse mérito, principalmente por conta que não acho que é tão importante me aprofundar nisso
-
-
-## quais são suas subpartes e como elas integram?
-
-- **Objetivo**: guiar o modelo para produzir a saída desejada.
-    
-- **Como funciona**: o modelo responde com base no texto do prompt + contexto.
-    
-- **Técnicas básicas**:
-    
-    - Clareza e especificidade no pedido.
-        
-    - Estruturar o prompt (instrução + contexto + formato de resposta).
-        
-    - Usar exemplos (“few-shot prompting”) para ensinar o modelo.
-        
-- **Técnicas avançadas**:
-    
-    - _Chain-of-thought_ (forçar raciocínio passo a passo).
-        
-    - _Role prompting_ (atribuir papel ao modelo, ex: “você é um professor”).
-        
-    - _Self-consistency_ (gerar várias respostas e escolher a melhor).
-        
-- **Aplicações**:
-    
-    - Chatbots, geração de texto, resumo, análise de dados, automação.

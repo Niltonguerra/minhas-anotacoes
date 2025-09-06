@@ -1,6 +1,8 @@
 ---
 Date: ""
 tags:
+  - tecnologia/autodidata/MCP
+  - tecnologia/autodidata
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.

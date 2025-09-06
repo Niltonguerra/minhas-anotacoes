@@ -26,7 +26,7 @@ table of contents: Create table of contents
 - deve ser menor que 2.5 segundos
 ##### Como melhorar:
 - Otimize Imagens, 
-	- use a tag <Image/> do Next.js que otimiza a imagem da melhor forma possivel
+	- use a tag <Image/> do Next.js que otimiza a imagem da melhor forma possível
 
 - Otimize imagens (compressão, formatos modernos como WebP).
 	- evite de usar jpg ou png, use formatos otimizados para a web
@@ -36,6 +36,8 @@ table of contents: Create table of contents
 
 - Melhore o tempo de resposta do servidor.
 	- gaste mais dinheiro com máquinas melhores, kkk 😂
+	- ou faça um backend mais performativo
+		- isso
 
 - Use um CDN.
 	- o que é CDN(Content Delivery Network)?
