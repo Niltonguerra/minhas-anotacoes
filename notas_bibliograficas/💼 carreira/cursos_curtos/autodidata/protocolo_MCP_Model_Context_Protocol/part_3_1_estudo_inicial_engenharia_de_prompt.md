@@ -22,7 +22,6 @@ Engenharia de Prompt é o processo de **escrever instruções claras e estrutura
 Pense nela como “programar em linguagem natural”.
 
 ---
-
 ### 2. Conceitos Fundamentais
 
 #### 2.1. Prompt
@@ -110,24 +109,19 @@ Exemplo:
 ---
 
 
-### 7."como cada parte dele funciona?"
-- para um bom prompt é sempre bom ter:
-	- a ação desejada
-	- contexto da pergunta
-	- colocar a IA como uma entidade no contexto
-	- qual o formato que você quer a resposta
-
-### 8.boas práticas:
+### 7.boas práticas:
 - Seja **específico e claro**.
 - Divida tarefas complexas em etapas.
+	- nisso depois vai surgir os tão famosos agentes
 - Limite tamanho da resposta se necessário 
-	- (tente deixar o prompt com no máximo 150 caracteres mais ou menos).
-	- nem sempre escrever muito é a resposta, mas sim ser claro com poucas palavras.
+	- tente deixar o prompt com no máximo 150 caracteres mais ou menos.
+		- isso depende, mas falo isso por que normalmente os prompts são quebrados nesse tamanho para facilitar a leitura pela llm
 - Use exemplos para resultados consistentes.
-    
+    - isso ajuda a contextualizar a LLM sobre o  problema e ajudando nos princípios citados no ponto 3
 - Teste e refine o prompt (**iterativo**).
+	- é o de sempre, né, CI/CD
 
-### 9. técnicas de prompt
+### 8. técnicas de prompt
 - **Zero-shot:** Sem exemplos, apenas instrução direta.
 - **Few-shot:** Fornece exemplos para guiar o modelo.
 - **Chain-of-thought:** Solicita pensamento passo a passo antes da resposta.
@@ -136,11 +130,14 @@ Exemplo:
 
 
 
-### .como as partes se comunicam entre si?
+### 9.como as partes se comunicam entre si?
+- o que compoe um bom prompt é você conseguir contextualizar a AI e saber explicar o que você quer para ela, você conseguindo fazer isso, pronto, você criou um bom prompt, tendo isso em vista explicando como cada parte de um bom prompt interage para gerar isso:
+	- papel
+		- faz com que a IA se coloque como um profissional daquela área para responder a sua pergunta, assim dando um contexto que você espera uma resposta de um profissional da área e não de qualquer um 
+	- 
 
-### .ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
-
-### .O que depende do quê no contexto do assunto estudado?
+### 10.ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
+- sim, mas não ele usa tecnologias para interpretação de linguagem natural dentro de si, mas como estou com um pouco de presa não vou entrar nesse mérito, principalmente por conta que não acho que é tão importante me aprofundar nisso
 
 
 ## quais são suas subpartes e como elas integram?
