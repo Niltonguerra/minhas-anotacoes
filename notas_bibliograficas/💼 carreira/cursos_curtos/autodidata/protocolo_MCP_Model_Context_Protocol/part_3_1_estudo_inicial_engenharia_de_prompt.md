@@ -98,7 +98,7 @@ Exemplo:
 
 ---
 
-## 6. Armadilhas Comuns
+### 6. Armadilhas Comuns
 
 - **Prompts vagos** → geram respostas genéricas.
     
@@ -109,27 +109,38 @@ Exemplo:
 
 ---
 
-## 7. Próximos Passos
 
-- Pratique criando prompts para tarefas do seu dia a dia.
+### 7."como cada parte dele funciona?"
+- para um bom prompt é sempre bom ter:
+	- a ação desejada
+	- contexto da pergunta
+	- colocar a IA como uma entidade no contexto
+	- qual o formato que você quer a resposta
+
+### 8.boas práticas:
+- Seja **específico e claro**.
+- Divida tarefas complexas em etapas.
+- Limite tamanho da resposta se necessário 
+	- (tente deixar o prompt com no máximo 150 caracteres mais ou menos).
+	- nem sempre escrever muito é a resposta, mas sim ser claro com poucas palavras.
+- Use exemplos para resultados consistentes.
     
-- Teste pequenas variações e veja qual gera melhor resposta.
-    
-- Guarde os melhores prompts que funcionam para você (crie um “prompt book”).
-    
+- Teste e refine o prompt (**iterativo**).
 
----
+### 9. técnicas de prompt
+- **Zero-shot:** Sem exemplos, apenas instrução direta.
+- **Few-shot:** Fornece exemplos para guiar o modelo.
+- **Chain-of-thought:** Solicita pensamento passo a passo antes da resposta.
+- **Role prompting:** Define o papel do modelo para ajustar estilo e tom.
+- **Controlar saída:** Especifique formato: lista, tabela, JSON, código, resumo.
 
-Quer que eu faça **uma lista de exercícios simples** para você treinar e fixar esse conteúdo?
-## como ele funciona?
 
-### "como cada parte dele funciona?"
 
-### como as partes se comunicam entre si?
+### .como as partes se comunicam entre si?
 
-### ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
+### .ele usa outras tecnologias(recursos) do meio dele? se sim, quais?
 
-### O que depende do quê no contexto do assunto estudado?
+### .O que depende do quê no contexto do assunto estudado?
 
 
 ## quais são suas subpartes e como elas integram?
