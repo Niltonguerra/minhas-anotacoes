@@ -33,11 +33,12 @@ table of contents: Create table of contents
 
 ## Moléculas:
 - Grupos simples de elementos da interface do usuário que funcionam juntos como uma unidade.
-	- Exemplo: o label, o input e o button, juntos formam uma molécula
+	- Exemplo: uma barra de pesquisa, um card, um 
+- possui proposito funcional
 
 ## Organismos:
 - Conjuntos de moléculas que funcionam juntas como uma unidade. Uma molécula com outra molécula (ou mais), formam um organismo
-- Exemplo: um header de um site
+- Exemplo: um header, uma lista de elementos
 
 ## Templates:
 - saindo um pouco dos termos da química, os templates são objetos no nível de página, onde colocamos componentes em um layout dormando a estrutura de página.

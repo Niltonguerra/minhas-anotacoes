@@ -37,7 +37,7 @@ table of contents: Create table of contents
 - Melhore o tempo de resposta do servidor.
 	- gaste mais dinheiro com máquinas melhores, kkk 😂
 	- ou faça um backend mais performativo
-		- isso
+		- isso já entra em mérito de como fazer um backend bom, por conta disso não irei me aprofundar nisso
 
 - Use um CDN.
 	- o que é CDN(Content Delivery Network)?
@@ -71,17 +71,17 @@ table of contents: Create table of contents
 
 ##### o que é um chunks?
 - é a prática de dividir o código JS(TS) em pequenos arquivos 
+- sabe, usar o import e export no React e JS ao invés de apenas importar um único arquivo enorme de JS
 ##### como dividir o código em pequenos chunks?
 pode ser visto na seguinte nota:
 - [[como trabalhar com trunck dentro do ecossistema JS]]
 
 
 #### Interaction to Next Paint (INP)
-- calcula a responsividade da página, não apenas a primeria,
+- calcula a responsividade da página, não apenas a primeira,
 - deve ser menor que 0,2 segundos
 ##### Como melhorar:
 - Similar às dicas do FID
-	- 
 - Otimizar JavaScript.
 	- compilar o código
 - Usar web workers.
