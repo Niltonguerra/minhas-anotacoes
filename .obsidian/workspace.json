@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "part_1_levantamento_de_informacoes do Model Context Protocol"
             }
+          },
+          {
+            "id": "c3beadd1cd26663d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial_LangChain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "part_3_estudo_inicial_LangChain"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,8 +253,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bc671bf81e0d8b16",
+  "active": "c3beadd1cd26663d",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial_LangChain.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_2_análise_inicial.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial.md",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_1_estudo_inicial_engenharia_de_prompt.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Fundamentos de linguista para processamento de linguagem natural.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108192444.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/dia 22_11_24.md",
@@ -250,8 +271,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/representação de texto via embeddings.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241122195422.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108194859.png",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_1_estudo_inicial_engenharia_de_prompt.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/microserviços/microserviços.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/desing/Design atômico.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_3_estudo_inicial.md",
@@ -264,10 +283,8 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Untitled",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_4_estudo_aprofundado.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto_geral.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_2_análise_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_8_analise_de_outras_perspectivas_do_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto 1",

@@ -30,6 +30,7 @@ table of contents: Create table of contents
 	- link para revisão se necessario: [[Fundamentos de linguista para processamento de linguagem natural]]
 	- link do repositório:https://github.com/Niltonguerra/Materia-de-processamento-de-linguagem-natural
 - Orquestração de LLMs: uso de ferramentas como LangChain, Dust ou LangGraph para criar fluxos de trabalho com IA.
+	- [[part_3_estudo_inicial_LangChain]]
 
 
 ### Em que contexto este tópico se insere?
