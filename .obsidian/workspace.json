@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "15092025"
             }
-          },
-          {
-            "id": "2c4ac1609c2c9468",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +238,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2c4ac1609c2c9468",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
