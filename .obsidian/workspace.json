@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "15092025"
+              "title": "061025"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:fiap/modulo03",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,10 +238,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "bc671bf81e0d8b16",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/modulo 03.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/modulo04.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4",
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial_LangChain.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Fundamentos de linguista para processamento de linguagem natural.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108192444.png",
@@ -268,9 +273,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Untitled",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_4_estudo_aprofundado.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto_geral.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_2_análise_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto 1",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol",
@@ -284,8 +286,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/Untitled",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831180521.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/prototipagem",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/responsividade",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/style-guides",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
