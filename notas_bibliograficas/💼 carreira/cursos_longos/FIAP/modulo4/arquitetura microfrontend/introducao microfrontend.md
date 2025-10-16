@@ -36,4 +36,16 @@ table of contents: Create table of contents
 
 ## definição do microfrontend
 - fragmentação em pedaços menores e independentes
-- coesão para o usuário 
+- coesão para o usuário final
+- estilo arquitetural onde aplicações frontend independentes são compostas em um todo maior
+
+## Benefícios 
+- Códigos mais coeso e mantível
+- Equipes autônomas e desacopladas
+- Atualizações incrementais no frontend
+
+## desvantagens(custos e riscos)
+- possível duplicação de dependências 
+- fragmentação no modo de trabalho das equipes
+- gestão de riscos e avaliação dos benefícios
+
