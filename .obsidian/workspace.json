@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 276.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -238,8 +238,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bc671bf81e0d8b16",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/CriacaoDeEmpresas/PlanFin/persona",
+    "notas_bibliograficas/💼 carreira/CriacaoDeEmpresas/PlanFin",
+    "notas_bibliograficas/💼 carreira/CriacaoDeEmpresas/PlanFin/analise de mercado",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/19102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/08102025.md",
@@ -273,7 +276,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_5_Interacao_do_assunto_com_o_meio.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_3_estudo_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_2_análise_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Untitled",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto 1",
@@ -283,8 +285,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250902084450.png",
     "Pasted image 20250902084915.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831180521.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
