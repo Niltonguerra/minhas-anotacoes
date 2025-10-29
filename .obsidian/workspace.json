@@ -11,10 +11,16 @@
             "id": "1d427394dd5d8994",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf",
+                "page": 34,
+                "left": -16,
+                "top": 633,
+                "zoom": 0.9247377109026556
+              },
+              "icon": "lucide-file-text",
+              "title": "documentacao_principal_atualizada"
             }
           }
         ]
@@ -245,6 +251,16 @@
   },
   "active": "1d427394dd5d8994",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu10041yad0.tmp",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu10041yabd.tmp",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/diagrama de caso de uso.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/desings das telas.pdf",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/apresentacao_software.mp4",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/apresentacao_inicial.pdf",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/relatorio_final.pdf",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/termo_aditivo.jpg",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/todos_os_documentos_juntos.pdf",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/lab-web/Manual-de-normatizacao-de-trabalhos-acadêmicos-2016.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
     "notas_bibliograficas/💼 carreira/CriacaoDeEmpresas/PlanFin/persona",
@@ -253,13 +269,9 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/19102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/08102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/19102025",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/modulo 03.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/modulo04.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial_LangChain.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Fundamentos de linguista para processamento de linguagem natural.md",
@@ -281,16 +293,10 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/sub_assunto/como trabalhar com trunck dentro do ecossistema JS.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_5_Interacao_do_assunto_com_o_meio.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_3_estudo_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Untitled",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP/template_estudo_sem_contexto 1",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250902104742.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901154108.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250902084450.png",
-    "Pasted image 20250902084915.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/img/Pasted image 20250831180521.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
