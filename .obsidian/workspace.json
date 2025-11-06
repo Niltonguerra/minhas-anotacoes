@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf",
+                "page": 9,
+                "left": -10,
+                "top": 107,
+                "zoom": 1.5294708188498962
               },
               "icon": "lucide-file-text",
               "title": "documentacao_principal_atualizada"
@@ -247,6 +251,8 @@
   },
   "active": "1d427394dd5d8994",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kiv6.tmp",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kiue.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu259294tod2.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu259294tocw.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu275883yl4e.tmp",
@@ -257,9 +263,7 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/desings das telas.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/apresentacao_software.mp4",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/apresentacao_inicial.pdf",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/relatorio_final.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/termo_aditivo.jpg",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/todos_os_documentos_juntos.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/19102025.md",
