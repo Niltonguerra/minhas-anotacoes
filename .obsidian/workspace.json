@@ -11,16 +11,10 @@
             "id": "738f303584f0a4ce",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/Relatorio_tecnico.pdf",
-                "page": 6,
-                "left": -10,
-                "top": 833,
-                "zoom": 1.505533466660318
-              },
-              "icon": "lucide-file-text",
-              "title": "Relatorio_tecnico"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -65,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:fiap/modulo02/conexaoComBancoDeDados/tiposDeBancoDeDados",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,13 +235,17 @@
   },
   "active": "738f303584f0a4ce",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipo de bancos de dados.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/Relatorio_tecnico.pdf",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados",
     "conflict-files-obsidian-git.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/utilitarios/template-abnt-libreoffice.odt",
     "notas_bibliograficas/💼 carreira/cursos_longos/utilitarios",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/documentacao.odt",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/Relatorio_tecnico.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/Modelo-de-pre-projeto.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/19102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
@@ -259,7 +257,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/modulo04.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_2_análise_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_3_estudo_inicial.md",
@@ -278,8 +275,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/microserviços/microserviços.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/desing/Design atômico.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_3_estudo_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_2_análise_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/sub_assunto/como trabalhar com trunck dentro do ecossistema JS.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250902104742.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901154108.png",
