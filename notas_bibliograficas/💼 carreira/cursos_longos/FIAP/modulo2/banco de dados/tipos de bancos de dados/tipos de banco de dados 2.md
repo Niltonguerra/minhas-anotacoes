@@ -47,3 +47,19 @@ table of contents: Create table of contents
 
 
 
+## Banco de dados de Documentos:
+- mongoDB
+- couchDB relax
+- amazon DocumentDB
+
+
+
+## Banco de Dados de chave-valor
+- redis
+- amazon dynamoDB
+- riak
+
+## banco de dados de colunares
+- cassandra
+- google bigtable
+- apache hbase 
