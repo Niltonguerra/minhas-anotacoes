@@ -33,6 +33,20 @@ table of contents: Create table of contents
 ![[Pasted image 20250901154108.png]]
 
 
+sistemas de gerenciamento de banco de dados banco de dados é chamado de  SGBD:
+exemplo: 
+- mongodb
+- postgres
+- mysql
+- sql server
+- maria db
+- oracle
+- etc.
+
+
+diferença entre banco de dados relacional e banco de dados não relacional:
+- tabelas, linhas
+
 ## quando usar cada modelo de banco de dados?
 
 exemplo de definição para o banco de dados:
