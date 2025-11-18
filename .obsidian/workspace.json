@@ -11,28 +11,18 @@
             "id": "1d427394dd5d8994",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251118065041"
-            }
-          },
-          {
-            "id": "190beef76fec07b9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251118065041"
+              "icon": "lucide-file",
+              "title": "aula 2 - SGBD relacional"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,6 +113,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1be2b055b1e94437",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ]
       }
@@ -149,25 +149,15 @@
             }
           },
           {
-            "id": "1be2b055b1e94437",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
             "id": "257eab3f44a270c6",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Pasted image 20250616162303"
+              "title": "File properties for aula 2 - SGBD relacional"
             }
           },
           {
@@ -209,23 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/reunioes/16062025-reuniao-fiap.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16062025-reuniao-fiap"
-            }
-          },
-          {
-            "id": "bfba1ca8a14950fc",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "title": "Outline of aula 2 - SGBD relacional"
             }
           }
         ]
@@ -258,10 +238,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "076095e195ae4a82",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065101.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065101.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/img",
     "Excel 2025-11-13 13.41.28.sheet.md",
     "notas_permanentes/utilitarios/templates/template_english.md",
