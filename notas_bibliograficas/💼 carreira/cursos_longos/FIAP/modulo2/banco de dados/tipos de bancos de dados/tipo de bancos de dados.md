@@ -45,7 +45,15 @@ exemplo:
 
 
 diferença entre banco de dados relacional e banco de dados não relacional:
-- tabelas, linhas
+- o que está mais ligado ao relacional é:
+	- tabelas, linhas e colunas
+	- relacionamento entre entidades
+	- precisamos definir esquemas previamente
+	- usa SQL
+- por que surgiu o não relacional:
+	- para diminuir custo 
+	- facilitar o gerenciamento de mais dados
+
 
 ## quando usar cada modelo de banco de dados?
 
