@@ -11,12 +11,15 @@
             "id": "1d427394dd5d8994",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf"
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "documentacao_principal_atualizada"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -247,6 +250,12 @@
   },
   "active": "1d427394dd5d8994",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipos de comandos SQL.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/performance no banco Relacional.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kj00.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kizr.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kiv6.tmp",
@@ -255,10 +264,7 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu259294tocw.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu275883yl4e.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu275883yl4b.tmp",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu10041yad0.tmp",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu10041yabd.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/diagrama de caso de uso.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/desings das telas.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/termo_aditivo.jpg",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
@@ -286,9 +292,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/desing/Design atômico.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_3_estudo_inicial.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_2_análise_inicial.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/sub_assunto/como trabalhar com trunck dentro do ecossistema JS.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_5_Interacao_do_assunto_com_o_meio.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901125738.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250902104742.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250901154108.png",
