@@ -42,4 +42,17 @@ table of contents: Create table of contents
 
 ### DTL(Data transaction Language)
 - comandos para controlar as transações executadas no banco de dados
-- ex: commit e rollback
+	- serve para criar transações no banco de dados
+	- só para resautar toda transação em um banco de dados é ACID:
+	- **A – Atomicidade:** ou toda a transação é concluída, ou nada é feito.
+	- **C – Consistência:** o banco passa de um estado válido para outro estado válido.
+	- **I – Isolamento:** transações concorrentes não interferem uma na outra.
+	- **D – Durabilidade:** uma vez confirmada (commit), a transação permanece mesmo se houver falha.
+- ex de comando: commit e rollback
+
+
+
+comando para acessar o banco:
+```
+docker exec -it meu-mysql mysql -u root -p  
+```
