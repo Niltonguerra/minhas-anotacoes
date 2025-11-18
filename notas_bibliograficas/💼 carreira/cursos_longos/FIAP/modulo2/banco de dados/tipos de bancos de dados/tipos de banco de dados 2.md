@@ -10,18 +10,19 @@ repositório:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos as principais diferenças entre banco de dados relacional e não relacional e tipos de banco de dados
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#comparação entre banco relacional e não relacional|comparação entre banco relacional e não relacional]]
+	- [[#comparação entre banco relacional e não relacional#sgbd estrutural:|sgbd estrutural:]]
+	- [[#comparação entre banco relacional e não relacional#sgbd não estrutural:|sgbd não estrutural:]]
+- [[#Banco de dados de Documentos:|Banco de dados de Documentos:]]
+- [[#Banco de Dados de chave-valor|Banco de Dados de chave-valor]]
+- [[#banco de dados de colunares|banco de dados de colunares]]
+- [[#banco de dados orientadoa grafos|banco de dados orientadoa grafos]]
+- [[#banco de dados de séries temporais|banco de dados de séries temporais]]
 
 # Explicação dos tópicos:
-
 
 ## comparação entre banco relacional e não relacional
 ### sgbd estrutural:
@@ -60,6 +61,17 @@ table of contents: Create table of contents
 - riak
 
 ## banco de dados de colunares
-- cassandra
+- cassandra(eu pesquisei e não é mais usado)
 - google bigtable
 - apache hbase 
+
+## banco de dados orientadoa grafos
+- neo4j
+- amazon neptune
+- janus graph
+
+## banco de dados de séries temporais
+- influxdb
+- prometheus
+- timescale
+
