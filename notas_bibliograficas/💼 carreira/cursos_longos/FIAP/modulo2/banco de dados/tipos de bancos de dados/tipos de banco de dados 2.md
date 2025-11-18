@@ -24,17 +24,25 @@ table of contents: Create table of contents
 
 
 ## comparação entre banco relacional e não relacional
-sgbd estrutural:
+### sgbd estrutural:
 - mais rígido
 - mais consistência nos dados
 - menos sujeitos a erros
+- os dados são estruturados
+- é mais lento por conta que ele tem mais verificações e validações que o não estruturado, justamente por seu modelo mais rígido e seguro
+- menos escalável horizontalmente, é preciso escalar verticalmente(mais CPU, RAM, mais memória e etc) assim sendo mais difícil de escalar
+![[Pasted image 20251118065101.png|155]]
 
-sgbd não estrutural:
+
+### sgbd não estrutural:
 - menos rígido
 - mais rápido para desenvolver
 - menos consistência nos dados
 - mais sujeitos a erros
-- 
+- os dados são semi estruturados ou não-estruturados
+- é mais rápido por conta que não tem tantas validações que o sgbd estruturado
+- é mais fácil de escalar horizontalmente(aumentar o numero de contêineres, vms e etc cria varias máquinas menores )
+- ![[Pasted image 20251118065041.png|350]]
 
 
 
