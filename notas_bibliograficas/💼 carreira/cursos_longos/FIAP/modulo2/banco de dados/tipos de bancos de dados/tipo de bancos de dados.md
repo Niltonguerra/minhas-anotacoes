@@ -8,18 +8,17 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa toda vimos o que é um banco relacional é um banco não relacional e como eles se caracterizam, além disso vimos, vimos o que é tipos de sgbd's  e quando usar um banco de dados relacional e quando usar um banco de dados não relacional e qual foi o contexto de surgimento dos sgbd's não relacionais
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#banco de dados relacionais e não relacionais|banco de dados relacionais e não relacionais]]
+- [[#sistemas de gerenciamento de banco de dados banco de dados é chamado de  SGBD:|sistemas de gerenciamento de banco de dados banco de dados é chamado de  SGBD:]]
+- [[#diferença entre banco de dados relacional e banco de dados não relacional:|diferença entre banco de dados relacional e banco de dados não relacional:]]
+- [[#quando usar cada modelo de banco de dados?|quando usar cada modelo de banco de dados?]]
+	- [[#quando usar cada modelo de banco de dados?#caso de exemplo:|caso de exemplo:]]
+	- [[#quando usar cada modelo de banco de dados?#caso de exemplo:|caso de exemplo:]]
 
 # Explicação dos tópicos:
-
 ## banco de dados relacionais e não relacionais
 - banco de dados relacionais são menos performáticos que os não relacionais, mas é uma diferença muito pequena
 	- por que o não relacional não tem tantos processos para fazer as consultas no banco de dados quanto o relacional
@@ -33,7 +32,7 @@ table of contents: Create table of contents
 ![[Pasted image 20250901154108.png]]
 
 
-sistemas de gerenciamento de banco de dados banco de dados é chamado de  SGBD:
+## sistemas de gerenciamento de banco de dados banco de dados é chamado de  SGBD:
 exemplo: 
 - mongodb
 - postgres
@@ -44,7 +43,7 @@ exemplo:
 - etc.
 
 
-diferença entre banco de dados relacional e banco de dados não relacional:
+## diferença entre banco de dados relacional e banco de dados não relacional:
 - o que está mais ligado ao relacional é:
 	- tabelas, linhas e colunas
 	- relacionamento entre entidades
