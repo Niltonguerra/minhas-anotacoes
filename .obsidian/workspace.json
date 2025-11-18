@@ -11,18 +11,28 @@
             "id": "1d427394dd5d8994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/tipos de comandos SQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png"
               },
-              "icon": "lucide-file",
-              "title": "tipos de comandos SQL"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251118065041"
+            }
+          },
+          {
+            "id": "190beef76fec07b9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251118065041"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fiap/modulo03",
+                "query": "tag:fiap/modulo02/conexaoComBancoDeDados/DBRelacional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,30 +258,34 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1d427394dd5d8994",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065101.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/img",
+    "Excel 2025-11-13 13.41.28.sheet.md",
+    "notas_permanentes/utilitarios/templates/template_english.md",
+    "Recording 20251113134143.m4a",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "notas_permanentes/utilitarios/templates/template_Cornell.md",
+    "notas_permanentes/utilitarios/templates/template programação.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/performance em sgbd's relacionais",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/tipos de comandos SQL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipos de banco de dados 2.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipos de banco de dados 3.md",
-    "Pasted image 20251118065101.png",
-    "Pasted image 20251118065041.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Recording 20251113134143.m4a",
-    "Excel 2025-11-13 13.41.28.sheet.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/documentacao_principal_atualizada.pdf",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kj00.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kizr.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kiv6.tmp",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/lu401816kiue.tmp",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/diagrama de caso de uso.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/termo_aditivo.jpg",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
@@ -287,10 +301,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Fundamentos de linguista para processamento de linguagem natural.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108192444.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/dia 22_11_24.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula do dia 05_11_24.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 04 – Limpeza de Dados Textuais e Normalização de Texto.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 04 – Limpeza de Dados e Normalização de textos.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 03 - Ferramentas para PLN.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/aula de 25_10_24/Pasted image 20241025201746.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241122195422.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108194859.png",

@@ -1,6 +1,7 @@
 ---
-Date:
+Date: 2025-11-18T08:30:00
 tags:
+  - fiap/modulo02/conexaoComBancoDeDados/DBRelacional
 repositório:
 ---
 

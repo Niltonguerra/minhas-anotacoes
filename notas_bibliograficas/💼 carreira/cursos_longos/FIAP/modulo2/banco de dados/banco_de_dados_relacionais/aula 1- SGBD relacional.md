@@ -8,7 +8,7 @@ tags:
 
 
 # Resumo da nota:
-nessa aula vimos que vamos usar o mySQL por sua fácil utilização, leveza e suporte da comunidade, além disso vimos os tipos de comandos SQL, também vimos o que é ACID: atomicidade, consistência, ISo
+nessa aula vimos que vamos usar o mySQL por sua fácil utilização, leveza e suporte da comunidade, além disso vimos os tipos de comandos SQL, também vimos o que é ACID: atomicidade, consistência, Isolamento e Durabilidade assim como também vimos como criar e acessar o banco de dados.
 
 # Tópicos:
 
