@@ -22,11 +22,25 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+mostra os banco de dados:
 ```
-SHOW DATABASES
+SHOW DATABASES;
 ```
 
+cria o banco de dados:
+```
+CREATE DATABASE <nome do banco>;
+```
 
+usa o banco de dados:
+```
+USE <nome do banco>;
+```
+
+mostra as tabelas criadas:
+```
+SHOW TABLES;
+```
 
 
 
