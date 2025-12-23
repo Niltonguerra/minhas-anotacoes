@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes/19112025.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "19112025"
+              "title": "aula 1- SGBD relacional"
             }
           }
         ]
@@ -238,15 +238,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "d0b6a8e0f4eee787",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes/19112025.md",
     "notas_bibliograficas/livros/CodigoLimpo.pdf",
     "notas_bibliograficas/livros",
     "notas_bibliograficas/💼 carreira/utilitarios/template-abnt-libreoffice.odt",
     "notas_bibliograficas/💼 carreira/utilitarios",
     "notas_bibliograficas/💼 carreira/livros/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/livros",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes/19112025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aulas.sql",
@@ -258,7 +258,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/tipos_de_bancos_de_dados",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/tipos de banco de dados 2.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/Untitled.md",
