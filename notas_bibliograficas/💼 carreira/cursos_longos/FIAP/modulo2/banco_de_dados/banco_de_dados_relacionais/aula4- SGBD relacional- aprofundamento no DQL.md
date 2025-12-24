@@ -81,4 +81,18 @@ todos os clientes que tem nome que começa com 'J'
 SELEC * FROM cliente WHERE nome LIKE 'J%'
 ```
 
+todos o que tem i no  nome
+```
+SELEC * FROM ingresso WHERE nome like '%i%';
+```
 
+todos os que tem o nome que termina com a  letra 'a'
+
+```
+SELEC * FROM ingresso WHERE nome lije '%a';
+```
+
+quanto o n
+```
+SELEC * FROM ingresso WHERE nome NOT NULL;
+```
