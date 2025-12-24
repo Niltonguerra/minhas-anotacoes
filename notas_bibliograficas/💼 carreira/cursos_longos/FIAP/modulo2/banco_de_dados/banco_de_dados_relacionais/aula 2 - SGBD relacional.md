@@ -75,7 +75,42 @@ PRIMARY KEY (id)
 
 
 ## Restrições de integridade
+![[Pasted image 20251224123608.png|475]]
 PRIMARY KEY (<coluna(s)>)
 
 - ex:
 	- PRIMARY KEY (id)
+
+
+
+script de exemplo criado:
+```
+CREATE TABLE cliente  (
+	id INT AUTO_INCREMENT,
+	nome VARCHAR (40),
+	dt_nasc DATE,
+	cpf CHAR(11),
+	PRIMARY KEY (id)
+);
+
+CREATE TABLE evento  (
+	id INT AUTO_INCREMENT,
+	nome VARCHAR (40),
+	dt_evento DATE,
+	valor DECIMAL(8,2),
+	PRIMARY KEY (id)
+);
+
+
+CREATE TABLE ingresso(
+	id INT AUTO_INCREMENT,
+    id_cliente INT,
+    id_evento INT,
+    dt_compra  DATE,
+	valor DECIMAL(8,2),
+    meia BOOLEAN,
+	PRIMARY KEY (id),
+    FOREIGN KEY (id_cliente) REFERENCES cliente (id),
+    foreign key (id_evento) references evento (id)
+);
+```
