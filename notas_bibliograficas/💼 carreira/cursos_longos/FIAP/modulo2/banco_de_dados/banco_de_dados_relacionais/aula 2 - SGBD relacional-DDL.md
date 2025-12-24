@@ -10,18 +10,23 @@ repositório:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa aula vimos comandos DDL, ou seja como criar uma database e uma tabela e como editar e excluir os mesmos, além disso vimos também tipos de dados  que podem ser criados como texto, data e numeros, vimos também modificadores de colunas como deefault, not null auto_INCREMENT  e outros, além disso vimos também restrições de integridade como chave estrangeira e chave primária.
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#comandos utilitários úteis:|comandos utilitários úteis:]]
+- [[#criando uma tabela:|criando uma tabela:]]
+	- [[#criando uma tabela:#tipo de dados|tipo de dados]]
+		- [[#tipo de dados#numero:|numero:]]
+		- [[#tipo de dados#data:|data:]]
+		- [[#tipo de dados#texto:|texto:]]
+	- [[#criando uma tabela:#modificadores de colunas:|modificadores de colunas:]]
+	- [[#criando uma tabela:#Restrições de integridade|Restrições de integridade]]
+	- [[#criando uma tabela:#script de exemplo criado:|script de exemplo criado:]]
+- [[#alterando uma tabela:|alterando uma tabela:]]
+- [[#excluir uma tabela|excluir uma tabela]]
 
 
 # Explicação dos tópicos:
-
 ## comandos utilitários úteis:
 mostra os banco de dados:
 ```
