@@ -48,8 +48,28 @@ SELECT * FROM ingresso WHERE valor > 100
 ```
 
 
-### exemplos de select:
 
+## ordenação dos resultados:
+![[Pasted image 20251224143425.png|500]]
+
+
+## funções de agrupamento:
+![[Pasted image 20251224144213.png]]
+
+ex:
+```
+SELEC AVG(valor) from ingresso;
+```
+
+```
+SELEC SUM(valor) from ingresso WHERE id_evento=17;
+```
+
+etc...
+
+
+
+## exemplos de select:
 todos os eventos com o id 17
 ```
 SELECT * FROM ingresso WHERE id_evento=17 
@@ -92,7 +112,40 @@ todos os que tem o nome que termina com a  letra 'a'
 SELEC * FROM ingresso WHERE nome lije '%a';
 ```
 
-quanto o n
+quanto o nome não é um valor null
 ```
 SELEC * FROM ingresso WHERE nome NOT NULL;
 ```
+
+
+todos os ingressos que **não** tem o valor entre 150 e 400
+```
+SELEC * FROM ingresso WHERE valor NOT BETWEEN 150 and 400
+```
+
+
+ordenado pelo nome de forma crescente
+```
+SELEC * FROM ingresso ORDER BY nome;
+```
+
+
+ordenando pelo nome de forma decrescente
+```
+SELEC * FROM ingresso ORDER BY nome DESC;
+```
+
+
+
+ordenado pelo nome de forma crescente e busca apenas o primeiro
+```
+SELEC * FROM ingresso ORDER BY nome limit 1;
+```
+
+
+traga todos os preços dos ingressos existentes sem repetir os valores
+```
+SELECT valor FROM ingresso GROUP BY valor
+```
+
+
