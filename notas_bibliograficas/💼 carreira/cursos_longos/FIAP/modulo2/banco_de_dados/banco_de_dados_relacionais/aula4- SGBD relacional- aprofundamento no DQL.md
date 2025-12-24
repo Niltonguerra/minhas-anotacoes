@@ -43,33 +43,14 @@ SELECT DISTINCT nome FROM cliente
 ![[Pasted image 20251224134237.png|500]]
 ![[Pasted image 20251224134556.png|500]]
 
+### exemplos:
+
+selecione todos os valores que na coluna valor na tabela ingresso onde são maiores que 100
 ```
 SELECT * FROM ingresso WHERE valor > 100
 ```
 
 
-
-## ordenação dos resultados:
-![[Pasted image 20251224143425.png|500]]
-
-
-## funções de agrupamento:
-![[Pasted image 20251224144213.png]]
-
-ex:
-```
-SELEC AVG(valor) from ingresso;
-```
-
-```
-SELEC SUM(valor) from ingresso WHERE id_evento=17;
-```
-
-etc...
-
-
-
-## exemplos de select:
 todos os eventos com o id 17
 ```
 SELECT * FROM ingresso WHERE id_evento=17 
@@ -124,6 +105,12 @@ SELEC * FROM ingresso WHERE valor NOT BETWEEN 150 and 400
 ```
 
 
+
+
+## ordenação dos resultados:
+![[Pasted image 20251224143425.png|500]]
+###  ex:
+
 ordenado pelo nome de forma crescente
 ```
 SELEC * FROM ingresso ORDER BY nome;
@@ -149,3 +136,49 @@ SELECT valor FROM ingresso GROUP BY valor
 ```
 
 
+traga todos os preços dos ingressos existentes sem repetir os valores que sejam maiores que 100
+```
+SELECT valor FROM ingresso GROUP BY valor HAVING valor > 100;
+```
+
+
+
+## funções de agrupamento:
+![[Pasted image 20251224144213.png]]
+
+### ex:
+```
+SELEC AVG(valor) from ingresso;
+```
+
+```
+SELEC SUM(valor) from ingresso WHERE id_evento=17;
+```
+
+etc...
+
+
+
+## Junções:
+### INNER JOIN:
+ ![[Pasted image 20251224144928.png|500]]
+
+
+
+### LEFT JOIN & RIGHT JOIN
+![[Pasted image 20251224144958.png]] 
+
+
+
+### CROSS JOIN
+![[Pasted image 20251224145024.png]]
+
+#### exemplo de CROSS JOIN:
+trata a junção da tabela ingresso com a tabela cliente  onde o id_cliente na tabela ingresso for igual ao ao campo id na tabela cliente e também me trata a junção da tabela ingresso com a tabela evento onde  o id_evento na tabela ingresso for igual ao id na tabela evento
+- resumidamente esse comando traz a junção das tabelas cliente, evento e ingresso, tendo como base a tabela ingresso
+```
+SELECT * 
+	FROM ingresso i
+	INNER JOIN cliente c ON i.id_cliente = c.id
+	INNER JOIN evento e ON i.id_evento = e.id;
+```
