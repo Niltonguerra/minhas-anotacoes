@@ -31,8 +31,12 @@ não deve se armazenar valores compostos dentro de um campo de uma tabela, quand
 
 
 ## 2 forma normal:
-nunhum atributo não chave pode depender de apenas parte de uma chave primária composta
+nenhum atributo não chave pode depender de apenas parte de uma chave primária composta
 ![[Pasted image 20251224160223.png|500]]
 
 
 ## 3 forma normal:
+ocorre quando uma coluna, além de depender da chave primária de uma tabela, depende de outra coluna ou conjunto de colunas da tabela
+![[Pasted image 20251224162254.png|500]]
+
+
