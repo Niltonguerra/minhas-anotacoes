@@ -1,5 +1,5 @@
 ---
-Date: 2025-11-18T08:30:00
+Date: 2025-12-24T08:30:00
 tags:
   - fiap/modulo02/conexaoComBancoDeDados/DBRelacional
 repositório:
@@ -22,6 +22,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## comandos utilitários úteis:
 mostra os banco de dados:
 ```
 SHOW DATABASES;
@@ -49,10 +50,32 @@ SHOW TABLES;
 ![[Pasted image 20251224120845.png|500]]
 
 ex:
-		CREATE TABLE cliente  (
-		<nome_da_coluna><tipo_de_dado>[modificadores]
-		)
+```
+CREATE TABLE cliente  (
+id INT AUTO_INCREMENT,
+nome VARCHAR (40),
+dt_nasc DATE,
+cpf CHAR(11),
+PRIMARY KEY (id)
+);
+```
 
 
-###tipo de dados
+### tipo de dados
+#### numero:
 ![[Pasted image 20251224121138.png|500]]
+#### data:
+![[Pasted image 20251224121252.png|500]]
+
+#### texto:
+![[Pasted image 20251224121336.png|500]]
+
+### modificadores de colunas:
+![[Pasted image 20251224121453.png|500]]
+
+
+## Restrições de integridade
+PRIMARY KEY (<coluna(s)>)
+
+- ex:
+	- PRIMARY KEY (id)
