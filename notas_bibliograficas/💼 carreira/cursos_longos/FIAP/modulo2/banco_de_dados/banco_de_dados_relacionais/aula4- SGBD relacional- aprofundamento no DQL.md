@@ -175,10 +175,32 @@ etc...
 
 #### exemplo de CROSS JOIN:
 trata a junção da tabela ingresso com a tabela cliente  onde o id_cliente na tabela ingresso for igual ao ao campo id na tabela cliente e também me trata a junção da tabela ingresso com a tabela evento onde  o id_evento na tabela ingresso for igual ao id na tabela evento
-- resumidamente esse comando traz a junção das tabelas cliente, evento e ingresso, tendo como base a tabela ingresso
 ```
 SELECT * 
 	FROM ingresso i
 	INNER JOIN cliente c ON i.id_cliente = c.id
 	INNER JOIN evento e ON i.id_evento = e.id;
 ```
+- resumidamente esse comando traz a junção das tabelas cliente, evento e ingresso, tendo como base a tabela ingresso
+
+
+
+a mesma coisa do comando a cima, mas deixei para me referir aqui em baixo por conta que a aqui ele faz a exibição de apenas alguns campos selecionados, sendo eles: id do ingresso, nome do evento, nome do cliente, data do evento, valor do ingresso e se o ingresso é meia ou completa
+```
+SELECT i.id, e.nome,c.nome, e.dt_evento,i.valor,i.meia
+	FROM ingresso i
+	INNER JOIN cliente c ON i.id_cliente = c.id
+	INNER JOIN evento e ON i.id_evento = e.id;
+```
+
+
+a mesma coisa do comando a cima, mas deixei para me referir aqui em baixo por conta que a aqui  ele faz também um WHERE para valores de ingresso maiores que 100 e pede também para ordenar os resultados em ordem decrescente apartir do campo dt_evento da tabela evento.
+```
+SELECT i.id, e.nome,c.nome, e.dt_evento,i.valor,i.meia
+	FROM ingresso i
+	INNER JOIN cliente c ON i.id_cliente = c.id
+	INNER JOIN evento e ON i.id_evento = e.id
+	WHERE i.valor> 100
+	ORDER BY e.dt_evento DESC;
+```
+

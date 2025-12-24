@@ -12,13 +12,17 @@ nessa aula vimos que vamos usar o mySQL por sua fácil utilização, leveza e su
 
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
+- [[#por que vamos estudar usando o MYSQL?|por que vamos estudar usando o MYSQL?]]
+- [[#Tipos de comandos SQL|Tipos de comandos SQL]]
+	- [[#Tipos de comandos SQL#comandos DDL(data definition language)|comandos DDL(data definition language)]]
+	- [[#Tipos de comandos SQL#comandos DML(data manipulation language)|comandos DML(data manipulation language)]]
+	- [[#Tipos de comandos SQL#comandos DQL(data query language)|comandos DQL(data query language)]]
+	- [[#Tipos de comandos SQL#DCL(Data Control Language)|DCL(Data Control Language)]]
+	- [[#Tipos de comandos SQL#DTL(Data transaction Language)|DTL(Data transaction Language)]]
+- [[#O que é ACID?|O que é ACID?]]
+- [[#comandos para criar e acessar o banco de dados|comandos para criar e acessar o banco de dados]]
 # Explicação dos tópicos:
-
-
+## por que vamos estudar usando o MYSQL?
 ![[Pasted image 20250902084450.png]]
 
 
@@ -41,15 +45,16 @@ table of contents: Create table of contents
 ### DTL(Data transaction Language)
 - comandos para controlar as transações executadas no banco de dados
 	- serve para criar transações no banco de dados
-	- só para resautar toda transação em um banco de dados é ACID:
-	- **A – Atomicidade:** ou toda a transação é concluída, ou nada é feito.
-	- **C – Consistência:** o banco passa de um estado válido para outro estado válido.
-	- **I – Isolamento:** transações concorrentes não interferem uma na outra.
-	- **D – Durabilidade:** uma vez confirmada (commit), a transação permanece mesmo se houver falha.
+## O que é ACID?
+***==toda transação no banco de dados é acid!==***
+- **A – Atomicidade:** ou toda a transação é concluída, ou nada é feito.
+- **C – Consistência:** o banco passa de um estado válido para outro estado válido.
+- **I – Isolamento:** transações concorrentes não interferem uma na outra.
+- **D – Durabilidade:** uma vez confirmada (commit), a transação permanece mesmo se houver falha.
 - ex de comando: commit e rollback
 
 
-
+## comandos para criar e acessar o banco de dados
 comando para criar o banco de dados:
 ```
 docker run --name meu-mysql -e MYSQL_ROOT_PASSWORD=senha123 -p 3306:3306 -d mysql:8
