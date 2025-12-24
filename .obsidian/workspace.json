@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +242,8 @@
   },
   "active": "d0b6a8e0f4eee787",
   "lastOpenFiles": [
+    "Pasted image 20251224132036.png",
+    "Pasted image 20251224131456.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
@@ -272,7 +276,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/Untitled.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png",
     "Excel 2025-11-13 13.41.28.sheet.md",
     "notas_permanentes/utilitarios/templates/template_english.md",
     "Untitled.canvas",
@@ -286,7 +289,6 @@
     "conflict-files-obsidian-git.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
     "Untitled 1.canvas"
   ]
 }

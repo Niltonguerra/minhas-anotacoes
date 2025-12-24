@@ -27,12 +27,21 @@ table of contents: Create table of contents
 
 ## comandos de pesquisa no banco de dados:
 ```
-SELECT  * FROM cliente
+SELECT  * FROM cliente;
 ```
 
 
 
 ## comando para inserir um dado na tabela:
 ```
-INSERT INTO cliente (id,nome, dt_nasc, cpf) values (1,'Lucas Ferreira', '1993-07-22', ')
+INSERT INTO cliente (id,nome, dt_nasc, cpf) values (1,'Lucas Ferreira', '1993-07-22', '12233344455');
+```
+
+inserindo vários dados de uma vez:
+![[Pasted image 20251224131456.png|500]]
+
+
+## comando para atualizar:
+```
+UPDATE cliente SET nome = 'João Pedro' where  id=2;
 ```
