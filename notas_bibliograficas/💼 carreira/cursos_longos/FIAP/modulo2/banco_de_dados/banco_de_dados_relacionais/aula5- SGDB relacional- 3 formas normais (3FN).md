@@ -25,7 +25,13 @@ table of contents: Create table of contents
 
 
 ## 1 forma normal:
+não deve se armazenar valores compostos dentro de um campo de uma tabela, quando se tem mais de um numero de telefone o ideal é criar um novo campo para o telefone ao invés de armazenar dentro do mesmo campo no banco de dados colocando apenas uma virgula para separar eles:
 
+![[Pasted image 20251224153507.png|500]]
+
+
+## 2 forma normal:
+1NF + nunhum atributo não chave pode depender de apenas parte de uma chave primária composta
 
 
 
