@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula 2 - SGBD relacional"
+              "title": "aula 3- SGBD relacional-DQL"
             }
           }
         ]
@@ -240,9 +240,13 @@
   },
   "active": "d0b6a8e0f4eee787",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL e DML.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
+    "Pasted image 20251224124306.png",
+    "Pasted image 20251224124223.png",
+    "Pasted image 20251224124116.png",
     "Pasted image 20251224123608.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
     "Pasted image 20251224121453.png",
     "Pasted image 20251224121336.png",
     "Pasted image 20251224121252.png",
@@ -269,7 +273,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/Untitled.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065041.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20251118065101.png",
     "Excel 2025-11-13 13.41.28.sheet.md",
     "notas_permanentes/utilitarios/templates/template_english.md",
     "Untitled.canvas",
@@ -282,11 +285,8 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
     "conflict-files-obsidian-git.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/Documentacao_tcc_e_do_projeto_em_si/diagrama de caso de uso.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/estagio/termo_aditivo.jpg",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/061025.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Pasted image 20241108192444.png",
     "Untitled 1.canvas"
   ]
 }

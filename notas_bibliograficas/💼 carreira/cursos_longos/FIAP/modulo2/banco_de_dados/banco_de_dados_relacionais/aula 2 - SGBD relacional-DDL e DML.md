@@ -74,8 +74,9 @@ PRIMARY KEY (id)
 ![[Pasted image 20251224121453.png|500]]
 
 
-## Restrições de integridade
+### Restrições de integridade
 ![[Pasted image 20251224123608.png|475]]
+![[Pasted image 20251224124116.png|500]]
 PRIMARY KEY (<coluna(s)>)
 
 - ex:
@@ -83,7 +84,7 @@ PRIMARY KEY (<coluna(s)>)
 
 
 
-script de exemplo criado:
+### script de exemplo criado:
 ```
 CREATE TABLE cliente  (
 	id INT AUTO_INCREMENT,
@@ -114,3 +115,16 @@ CREATE TABLE ingresso(
     foreign key (id_evento) references evento (id)
 );
 ```
+
+
+
+## alterando uma tabela:
+
+![[Pasted image 20251224124223.png|500]]
+
+
+
+## excluir uma tabela
+![[Pasted image 20251224124306.png|500]]
+drop table -> exclui a tabela
+truncate -> exclui todos os dados
