@@ -10,20 +10,14 @@ repositório:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos as 3 formas normais sendo que elas falam resumidamente de: não dados compostos, como dois telefones, em uma única coluna, não coloque colunas em uma tabela que dependam apenas de apenas uma chave e a terceira FN fala para não colocar uma coluna que dependa de outra coluna além das chaves.
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#1 forma normal:|1 forma normal:]]
+- [[#2 forma normal:|2 forma normal:]]
+- [[#3 forma normal:|3 forma normal:]]
 
 
 # Explicação dos tópicos:
-
-
-
 ## 1 forma normal:
 não deve se armazenar valores compostos dentro de um campo de uma tabela, quando se tem mais de um numero de telefone o ideal é criar um novo campo para o telefone ao invés de armazenar dentro do mesmo campo no banco de dados colocando apenas uma virgula para separar eles:
 

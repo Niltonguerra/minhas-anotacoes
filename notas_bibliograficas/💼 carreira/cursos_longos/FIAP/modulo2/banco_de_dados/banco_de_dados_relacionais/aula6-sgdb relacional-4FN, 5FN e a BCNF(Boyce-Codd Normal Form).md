@@ -4,8 +4,6 @@ tags:
   - fiap/modulo02/conexaoComBancoDeDados/DBRelacional
 repositório:
 ---
-
-
 # Notas conectadas:
 
 
@@ -22,6 +20,17 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## o que é a chave candidata?
+É uma chave que identifica o usuário mas não é usada para chave primária por exemplo:
+- id_usuario
+- cpf
+- nome
+- email
+
+normalmente escolhe apenas uma e as outras viram chaves candidatas
+
+## BCNF (Boyce-Codd Normal Form)
+Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, então $A$ deve ser uma superchave.
 
 
 
