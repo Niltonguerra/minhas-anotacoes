@@ -32,3 +32,7 @@ SELECT  * FROM cliente
 
 
 
+## comando para inserir um dado na tabela:
+```
+INSERT INTO cliente (id,nome, dt_nasc, cpf) values (1,'Lucas Ferreira', '1993-07-22', ')
+```
