@@ -112,7 +112,7 @@ CREATE TABLE ingresso(
     meia BOOLEAN,
 	PRIMARY KEY (id),
     FOREIGN KEY (id_cliente) REFERENCES cliente (id),
-    foreign key (id_evento) references evento (id)
+    FOREIGN KEY (id_evento) REFERENCES evento (id)
 );
 ```
 

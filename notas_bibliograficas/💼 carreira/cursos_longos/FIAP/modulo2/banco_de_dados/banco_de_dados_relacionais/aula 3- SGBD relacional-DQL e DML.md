@@ -45,3 +45,36 @@ inserindo vários dados de uma vez:
 ```
 UPDATE cliente SET nome = 'João Pedro' where  id=2;
 ```
+
+
+## comando para excluir:
+```
+DELETE FROM cliente WHERE id=1
+```
+
+
+
+## script para inserir os dados:
+```
+INSERT INTO cliente (nome, dt_nasc, cpf) VALUES 
+('Ana Silva', '1995-05-15', '12345678901'),
+('Bruno Oliveira', '1988-10-22', '23456789012'),
+('Carla Souza', '2001-01-30', '34567890123'),
+('Diego Santos', '1992-07-08', '45678901234'),
+('Elena Martins', '1997-12-12', '56789012345');
+
+
+INSERT INTO evento (nome, dt_evento, valor) VALUES 
+('Festival de Verão', '2025-01-20', 250.00),
+('Stand-up Comedy Noite Riso', '2025-02-10', 80.00),
+('Workshop Node.js Avançado', '2025-03-05', 150.00);
+
+
+INSERT INTO ingresso (id_cliente, id_evento, dt_compra, valor, meia) VALUES 
+(1, 1, '2024-12-01', 125.00, TRUE), 
+(2, 1, '2024-12-05', 250.00, FALSE),
+(3, 2, '2024-12-10', 40.00, TRUE),   
+(1, 3, '2024-12-15', 150.00, FALSE), 
+(4, 2, '2024-12-20', 80.00, FALSE),  
+(5, 3, '2024-12-24', 75.00, TRUE);   
+```
