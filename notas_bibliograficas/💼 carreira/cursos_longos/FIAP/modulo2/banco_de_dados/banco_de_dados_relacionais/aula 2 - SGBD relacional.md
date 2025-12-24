@@ -45,3 +45,14 @@ SHOW TABLES;
 
 
 
+## criando uma tabela:
+![[Pasted image 20251224120845.png|500]]
+
+ex:
+		CREATE TABLE cliente  (
+		<nome_da_coluna><tipo_de_dado>[modificadores]
+		)
+
+
+###tipo de dados
+![[Pasted image 20251224121138.png|500]]
