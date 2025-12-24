@@ -50,4 +50,35 @@ SELECT * FROM ingresso WHERE valor > 100
 
 ### exemplos de select:
 
-SELECT **
+todos os eventos com o id 17
+```
+SELECT * FROM ingresso WHERE id_evento=17 
+```
+
+todos os ingressos por menos de 100 
+```
+SELEC * FROM ingresso WHERE valor < 100;
+```
+
+todos os ingressos comprados exceto pelo cliente com id 1
+```
+SELEC * FROM ingresso WHERE id_cliente != 1;
+```
+
+
+todos os ingressos comprados pelo cliente um e 2
+```
+SELEC * FROM ingresso WHERE id_cliente IN (1,2)
+```
+
+todos os ingressos com preço entre 150 e 400 reais
+```
+SELEC * FROM ingresso WHERE valor BETWEEN 150 and 400;
+```
+
+todos os clientes que tem nome que começa com 'J'
+```
+SELEC * FROM cliente WHERE nome LIKE 'J%'
+```
+
+
