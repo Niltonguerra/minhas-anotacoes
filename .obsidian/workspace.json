@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula 2 - SGBD relacional-DDL"
+              "title": "aula4- SGBD relacional- aprofundamento no DQL"
             }
           }
         ]
@@ -241,9 +241,14 @@
   },
   "active": "d0b6a8e0f4eee787",
   "lastOpenFiles": [
+    "Pasted image 20251224134556.png",
+    "Pasted image 20251224134341.png",
+    "Pasted image 20251224134237.png",
+    "Pasted image 20251224134224.png",
+    "Pasted image 20251224134037.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
     "Pasted image 20251224132036.png",
     "Pasted image 20251224131456.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
@@ -251,10 +256,6 @@
     "Pasted image 20251224124223.png",
     "Pasted image 20251224124116.png",
     "Pasted image 20251224123608.png",
-    "Pasted image 20251224121453.png",
-    "Pasted image 20251224121336.png",
-    "Pasted image 20251224121252.png",
-    "Pasted image 20251224121138.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes/19112025.md",
     "notas_bibliograficas/livros/CodigoLimpo.pdf",
     "notas_bibliograficas/livros",
@@ -287,7 +288,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/Untitled.md",
     "conflict-files-obsidian-git.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipo de bancos de dados.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo4/reunioes/25102025.md",
     "Untitled 1.canvas"
   ]
 }

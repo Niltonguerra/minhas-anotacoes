@@ -21,11 +21,33 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## pesquisa com limite:
+
 ```
-SELECT * FROM cliente;
+SELECT * FROM ingresso LIMIT 5;
+```
+
+## pesquisa onde os dados são diferentes:
+![[Pasted image 20251224134037.png]]
+
+```
+SELECT DISTINCT nome FROM cliente
 ```
 
 
 
+##  filtrar os dados:
+![[Pasted image 20251224134224.png|500]]
+
+### operadores do WHERE
+![[Pasted image 20251224134237.png|500]]
+![[Pasted image 20251224134556.png|500]]
+
+```
+SELECT * FROM ingresso WHERE valor > 100
+```
 
 
+### exemplos de select:
+
+SELECT **
