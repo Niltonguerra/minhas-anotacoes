@@ -1,0 +1,24 @@
+- mostrar o link para as duvidas frequêntes
+- redefinir senha como professor
+- fazer login como professor
+- mostrar a home
+- fazer uma busca na pesquisa
+- mostrar uma postagens
+- excluir um comentário de um aluno na postagem
+- criar um comentário na postagem
+- acessar o editor de postagens
+- criar uma postagem
+- editar a mesma postagem
+- excluir a postagem
+- acessar o admin de aluno
+- editar um aluno
+- excluir um aluno
+- acessar o admin de professor
+- criar um professor
+- autenticar como o novo professor
+- se cadastrar como alunos
+- visualizar um post 
+- escrever um comentário
+- editar os dados do aluno corrente
+- logar de novo mostrando que os dados foram alterados
+- 
