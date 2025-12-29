@@ -1,4 +1,4 @@
-- mostrar o link para as duvidas frequêntes
+- mostrar o links da página de login
 - redefinir senha como professor
 - fazer login como professor
 - mostrar a home
