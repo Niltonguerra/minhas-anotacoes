@@ -30,15 +30,15 @@ normalmente escolhe apenas uma e as outras viram chaves candidatas
 ## BCNF  (Boyce-Codd Normal Form)
 Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, então $A$ deve ser uma superchave.
  
-![[Pasted image 20260101053100.png|500]]
-![[Pasted image 20260101053110.png|500]]
 
 
 
 
 
-![[Pasted image 20260101053139.png|500]]
-![[Pasted image 20260101053150.png|500]]
+
+
+
+
 
 
 
