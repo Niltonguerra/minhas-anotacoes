@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fiap/modulo02/conexaoComBancoDeDados/DBRelacional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -81,8 +81,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -111,7 +111,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
@@ -238,7 +238,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e1bb0b4d069108e4",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form).md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",

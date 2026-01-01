@@ -1,15 +1,13 @@
 ---
 Date: 2025-09-02T09:50:00
 tags:
-  - fiap/modulo02/conexaoComBancoDeDados/DBRelacional
+  - fiap/modulo02/conexaoComBancoDeDados/DBRelacionalPerformance
 ---
 # Notas conectadas:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa aula vimos o que é um índice e que o SQL automaticamente já cria índices para PK's e FK's, também vimos os comandos para criar e remover um índice assim como comandos para fazer um teste de carga, além de também ver um comando para ver a  jornada da query e também as boas práticas de que se deve ter em um SGBD relacional. 
 
 # Tópicos:
 
@@ -46,11 +44,12 @@ ALTER TABLE table_name
 	ADD INDEX[index_name](column_1);
 ```
 
-
-remover um indice:
+remover um índice:
+```
+ALTER TABLE table_name DROP INDEX [index_name] (column_1);
 ```
 
-```
+
 ## boas práticas no banco de dados relacional:
 ![[Pasted image 20250902104742.png|500]]
 - sempre que possível, fazer consultas via índices
@@ -85,3 +84,12 @@ EXPLAIN FORMAT=JSON
 
 dados importantes dados pelo EXPLAIN que vale a pena explicar:
 - query cost: custo da requisição
+
+
+
+## como fazer um teste de carga no SQL
+```
+mysqlap delimite=";"
+	--create="CREATE TABLE a (b int); INSERT INTO a VALUES(23)"
+	--query="SELECT * FROM a" --concurrency=50 --iterations=200
+```
