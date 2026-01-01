@@ -8,15 +8,26 @@ repositório:
 
 
 # Resumo da nota:
-nessa aula vimos conceitos importantes de banco de dados para depois podermos entender mais fácilmente a FNBC e a 4FN e a 5FN, sendo a FNBC
+nessa aula vimos conceitos importantes de banco de dados para depois podermos entender mais fácilmente a FNBC e a 4FN e a 5FN, sendo a FNBC define que todo determinante deve ser uma chave candidata, a 4FN define que não deve ter repetição de dados entre as tabelas e a 5FN é mais voltada para quando se faz o JOIN INNER, sendo que ela pede para separar as tabelas desde que quando for fazer o join dos dados não venha a aparecer dados fantasmas. 
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
-
-
+- [[#Conceitos prévios:|Conceitos prévios:]]
+	- [[#Conceitos prévios:#o que é a chave candidata?|o que é a chave candidata?]]
+	- [[#Conceitos prévios:#O que é um Determinante?|O que é um Determinante?]]
+	- [[#Conceitos prévios:#O que é uma Super Chave?|O que é uma Super Chave?]]
+	- [[#Conceitos prévios:#Super chave vs Chave candidata:|Super chave vs Chave candidata:]]
+	- [[#Conceitos prévios:#determinante vs chave primária:|determinante vs chave primária:]]
+- [[#BCNF  (Boyce-Codd Normal Form)|BCNF  (Boyce-Codd Normal Form)]]
+	- [[#BCNF  (Boyce-Codd Normal Form)#considerando a seguinte situação:|considerando a seguinte situação:]]
+	- [[#BCNF  (Boyce-Codd Normal Form)#não está na FNBC|não está na FNBC]]
+		- [[#não está na FNBC#por que essa tabela está errada:|por que essa tabela está errada:]]
+	- [[#BCNF  (Boyce-Codd Normal Form)#anomalias geradas:|anomalias geradas:]]
+	- [[#BCNF  (Boyce-Codd Normal Form)#está na FNBC|está na FNBC]]
+- [[#4FN- 4 forma normal|4FN- 4 forma normal]]
+- [[#5FN - 5 forma normal:|5FN - 5 forma normal:]]
+	- [[#5FN - 5 forma normal:#está na 5FN|está na 5FN]]
 # Explicação dos tópicos:
+
 ## Conceitos prévios:
 
 ### o que é a chave candidata?
@@ -67,7 +78,7 @@ pode-se afirmar que:
 
 
 ## BCNF  (Boyce-Codd Normal Form)
-Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, então $A$ deve ser uma superchave.
+Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$ (A determina B), então $A$ deve ser uma superchave.
  
 ### considerando a seguinte situação:
 - Um Aluno pode ter vários Mentores (para assuntos diferentes).
@@ -76,7 +87,11 @@ Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, en
 
 ### não está na FNBC
 ![[Pasted image 20260101064751.png|412]]
-por que essa tabela está e
+#### por que essa tabela está errada:
+- **Chave Candidata 1:** `{Aluno_ID, Assunto}` identifica o Mentor.
+- **Chave Candidata 2:** `{Aluno_ID, Mentor_ID}` identifica o Assunto (já que o mentor só tem um assunto).
+- **O Problema:** Existe a dependência $Mentor\_ID \rightarrow Assunto$.
+**A regra da FNBC diz:** Para toda dependência $X \rightarrow Y$, $X$ **deve** ser uma chave candidata.
 ### anomalias geradas:
 - **Redundância:** Toda vez que o Bruno (M01) aparecer, temos que escrever "React".
 - **Anomalia de Atualização:** Se o Bruno mudar de especialidade para "Next.js", temos que atualizar várias linhas.

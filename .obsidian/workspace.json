@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form).md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form)"
+              "title": "performance no banco Relacional"
             }
           }
         ]
@@ -240,8 +240,8 @@
   },
   "active": "e1bb0b4d069108e4",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form).md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
     "Pasted image 20260101065140.png",
     "Pasted image 20260101065128.png",
     "Pasted image 20260101064814.png",
