@@ -8,7 +8,7 @@ repositório:
 
 
 # Resumo da nota:
-nessa aula vimos a NFBC e também a 4FN e a 5FN, sendo que a NFBC é usada para quando a 3FN não é o bastante, sendo ela bem parecida com a 3FN mas mais restritiva, se diferenciando no sentido de que caso os dados se repi
+nessa aula vimos conceitos importantes de banco de dados para depois podermos entender mais fácilmente a FNBC e a 4FN e a 5FN, sendo a FNBC
 # Tópicos:
 
 comando para criar o sumário automaticamente: 
@@ -17,8 +17,9 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## Conceitos prévios:
 
-## o que é a chave candidata?
+### o que é a chave candidata?
 É uma chave que identifica o usuário mas não é usada para chave primária por exemplo:
 - id_usuario
 - cpf
@@ -28,13 +29,41 @@ table of contents: Create table of contents
 normalmente escolhe apenas uma e as outras viram chaves candidatas
 
 
-## ### O que é um Determinante?
+### O que é um Determinante?
 
 Em uma **Dependência Funcional**, representada matematicamente como $X \to Y$ (lê-se: "$X$ determina $Y$"), o **determinante** é o atributo (ou conjunto de atributos) que fica do lado esquerdo da seta ($X$).
 
 - **Definição simples:** O determinante é o campo que "manda" na informação. Se eu souber o valor do determinante, eu consigo descobrir exatamente qual é o valor do atributo dependente.
-    
-- **Exemplo:** No seu sistema educacional, se tivermos $Matricula \to Nome\_Aluno$, o campo `Matricula` é o **determinante**. Ele determina quem é o aluno.
+- **Exemplo:** considerando as seguintes regras de negócio:
+	- *Um Aluno pode ter vários Mentores (para assuntos diferentes).*
+	- *Cada Mentor é especialista em apenas **um** Assunto.*
+	- *Para um determinado Assunto, o Aluno tem apenas **um** Mentor.*  
+
+se tivermos $Matricula \to Nome\_Aluno$, o campo `Matricula` é o **determinante**. Ele determina quem é o aluno.
+
+
+### O que é uma Super Chave?
+é uma chave candidata mas só que inchada, exemplos abaixo:
+ - considerando a tabela:
+	 - `ID_Aluno` (Matrícula)
+	- `CPF`
+	- `Nome`
+	- `Email`
+
+pode-se afirmar que:
+1. `{ID_Aluno}` (Identifica o aluno sozinho).
+2. `{CPF}` (Também identifica o aluno sozinho).
+3. **`{ID_Aluno, Nome}`** (Identifica o aluno? Sim. O nome é necessário? Não, mas o conjunto ainda é uma superchave).
+4. **`{ID_Aluno, CPF, Email}`** (Identifica o aluno? Sim. Tem muita informação sobrando? Sim, mas continua sendo uma superchave).
+5. **`{ID_Aluno, CPF, Nome, Email}`** (A tabela inteira também é, tecnicamente, uma superchave).
+
+### Super chave vs Chave candidata:
+- **Superchave:** É qualquer conjunto que garanta a unicidade (pode ser "inchada").
+- **Chave Candidata:** É uma **Superchave Mínima**. Ou seja, é um conjunto que identifica a linha e que, se você remover qualquer coluna dele, ele deixa de ser único.
+
+### determinante vs chave primária:
+- o determinante define um outro campo não a linha
+- a chave primária define a linha
 
 
 ## BCNF  (Boyce-Codd Normal Form)
@@ -47,7 +76,7 @@ Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, en
 
 ### não está na FNBC
 ![[Pasted image 20260101064751.png|412]]
-
+por que essa tabela está e
 ### anomalias geradas:
 - **Redundância:** Toda vez que o Bruno (M01) aparecer, temos que escrever "React".
 - **Anomalia de Atualização:** Se o Bruno mudar de especialidade para "Next.js", temos que atualizar várias linhas.
@@ -56,7 +85,6 @@ Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, en
 ### está na FNBC
 
 ![[Pasted image 20260101065128.png|455]]
-
 ![[Pasted image 20260101065140.png|500]]
 
 
