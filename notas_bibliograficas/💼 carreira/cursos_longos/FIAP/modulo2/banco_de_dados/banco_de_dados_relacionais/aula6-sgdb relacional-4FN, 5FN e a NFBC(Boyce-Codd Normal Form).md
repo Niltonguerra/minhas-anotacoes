@@ -48,3 +48,16 @@ Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, en
 Uma tabela não deve possuir mais de uma dependência multivalorada
 é feito isso para evitar repetição dos valores, permite que seja otimizado o espaço evitando duplicidade de dados e evitando duplicidade e inscrições erradas e inconsistência dos dados
 ![[Pasted image 20260101054628.png|500]]
+
+
+## 5FN - 5 forma normal:
+condição: Não puder ser decomposta em tabelas menores que, quando juntadas (JOIN), resultem em dados "fantasmas" ou percam informações originais.
+basicamente a 5FN preve que se você quebrar uma tabela em tabelas menores, que é sempre recomendado fazer, a ta
+![[Pasted image 20260101055747.png|469]]
+
+
+### está na 5FN
+
+![[Pasted image 20260101055813.png|122]]
+![[Pasted image 20260101055823.png|122]] 
+![[Pasted image 20260101055849.png|122]]
