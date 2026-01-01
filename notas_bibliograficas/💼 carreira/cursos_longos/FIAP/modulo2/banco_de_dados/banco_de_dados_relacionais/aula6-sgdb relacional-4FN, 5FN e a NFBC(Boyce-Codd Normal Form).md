@@ -52,7 +52,8 @@ Uma tabela não deve possuir mais de uma dependência multivalorada
 
 ## 5FN - 5 forma normal:
 condição: Não puder ser decomposta em tabelas menores que, quando juntadas (JOIN), resultem em dados "fantasmas" ou percam informações originais.
-basicamente a 5FN preve que se você quebrar uma tabela em tabelas menores, que é sempre recomendado fazer, a ta
+- essa FN é para ser usada 
+- basicamente a 5FN prevê que se você quebrar uma tabela em tabelas menores, que é uma boa prática de se fazer, as tabelas menores  não devem trazer dados fantasmas quando for feito a reconstrução da tabela original via inner join 
 ![[Pasted image 20260101055747.png|469]]
 
 
