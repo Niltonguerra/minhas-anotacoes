@@ -19,13 +19,8 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## Caracteristicas do My SQL:
--  Leveza e velocidade 
-- Fácil instalação e cofiguração 
-- atenção aos padrões
-- suporte á comunidade
-- Conectividade
-
+## o que o índice faz?
+- serve como um campo que serve para ser a base da busca do SQL, assim otimizando a pesquisa
 
 ## por padrão o sql já cria índice para PF e FK
 
@@ -33,14 +28,41 @@ table of contents: Create table of contents
 	- usado para a gente ver o plano de consulta de uma query
 		- serve para você conseguir dados para poder estimar o custo de uma query
 		- ex de uso: explain format=json select * from ingresso
+
+
+## comando para criar um indice:
+na criação:
+```
+CREATE TABLE table_name (
+	colum_1 INT,
+	column_2 VARCHAR(20),
+	INDEX [index_name](column_1)
+);
+```
+
+na atualização:
+```
+ALTER TABLE table_name 
+	ADD INDEX[index_name](column_1);
+```
+
 ## boas práticas no banco de dados relacional:
-![[Pasted image 20250902104742.png]]
+![[Pasted image 20250902104742.png|500]]
 - sempre que possível, fazer consultas via índices
 - colocar índices em campos mais usados para fazer querys
 - evitar usar o like
 	- por que ele não é muito performático
+- não colocar índice em todos os campos de uma tabela
 
 
 
-## o que o indice faz?
-- serve como um campo que serve para ser a base da busca do SQL, assim otimizando a pesquisa
+## Como utilizar o EXPLAIN
+serve para a gente saber o plano de consulta usado pela query para chegar no dado
+```
+EXPLAIN
+	SELECT *
+		FROM ingresso i
+		JOIN cliente c ON i.id_cliente = c.id
+		JOIN evento e ON i.id_evento = e.id
+		WHERE status = 'PAGO'
+```
