@@ -40,3 +40,7 @@ table of contents: Create table of contents
 - evitar usar o like
 	- por que ele não é muito performático
 
+
+
+## o que o indice faz?
+- serve como um campo que serve para ser a base da busca do SQL, assim otimizando a pesquisa
