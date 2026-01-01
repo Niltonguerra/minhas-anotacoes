@@ -41,3 +41,10 @@ Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, en
 
 ![[Pasted image 20260101053139.png|500]]
 ![[Pasted image 20260101053150.png|500]]
+
+
+
+## 4FN- 4 forma normal
+Uma tabela não deve possuir mais de uma dependência multivalorada
+é feito isso para evitar repetição dos valores, permite que seja otimizado o espaço evitando duplicidade de dados e evitando duplicidade e inscrições erradas e inconsistência dos dados
+![[Pasted image 20260101054628.png|500]]
