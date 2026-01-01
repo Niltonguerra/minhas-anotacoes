@@ -8,9 +8,7 @@ repositório:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa aula vimos a NFBC e também a 4FN e a 5FN, sendo que a NFBC é usada para quando a 3FN não é o bastante, sendo usada
 # Tópicos:
 
 comando para criar o sumário automaticamente: 
@@ -52,7 +50,7 @@ Uma tabela não deve possuir mais de uma dependência multivalorada
 
 ## 5FN - 5 forma normal:
 condição: Não puder ser decomposta em tabelas menores que, quando juntadas (JOIN), resultem em dados "fantasmas" ou percam informações originais.
-- essa FN é para ser usada 
+- essa FN é para ser usada quando se estiver fazendo JOIN's no SGBD
 - basicamente a 5FN prevê que se você quebrar uma tabela em tabelas menores, que é uma boa prática de se fazer, as tabelas menores  não devem trazer dados fantasmas quando for feito a reconstrução da tabela original via inner join 
 ![[Pasted image 20260101055747.png|469]]
 
