@@ -29,9 +29,9 @@ table of contents: Create table of contents
 
 normalmente escolhe apenas uma e as outras viram chaves candidatas
 
-## BCNF (Boyce-Codd Normal Form)
+## BCNF  (Boyce-Codd Normal Form)
 Todo **determinante** deve ser uma **chave candidata**. Se $A \rightarrow B$, então $A$ deve ser uma superchave.
-
+ 
 
 
 
