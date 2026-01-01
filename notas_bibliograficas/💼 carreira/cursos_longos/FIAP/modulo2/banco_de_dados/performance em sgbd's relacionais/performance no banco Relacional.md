@@ -46,6 +46,11 @@ ALTER TABLE table_name
 	ADD INDEX[index_name](column_1);
 ```
 
+
+remover um indice:
+```
+
+```
 ## boas práticas no banco de dados relacional:
 ![[Pasted image 20250902104742.png|500]]
 - sempre que possível, fazer consultas via índices
@@ -66,3 +71,17 @@ EXPLAIN
 		JOIN evento e ON i.id_evento = e.id
 		WHERE status = 'PAGO'
 ```
+
+para mais informações da consulta use:
+```
+EXPLAIN FORMAT=JSON
+	SELECT *
+		FROM ingresso i
+		JOIN cliente c ON i.id_cliente = c.id
+		JOIN evento e ON i.id_evento = e.id
+		WHERE status = 'PAGO'
+```
+
+
+dados importantes dados pelo EXPLAIN que vale a pena explicar:
+- query cost: custo da requisição
