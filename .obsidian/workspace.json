@@ -13,11 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CodigoLimpo.pdf",
-                "page": 1,
-                "left": -18,
-                "top": 978,
-                "zoom": 0.8557164035929189
+                "file": "notas_bibliograficas/💼 carreira/Livros/CodigoLimpo.pdf"
               },
               "icon": "lucide-file-text",
               "title": "CodigoLimpo"
@@ -129,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d280047996c7655",
