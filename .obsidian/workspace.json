@@ -10,7 +10,7 @@
           {
             "id": "8b88f2b75c01d486",
             "type": "tabs",
-            "dimension": 55.520833333333336,
+            "dimension": 55.74377977766014,
             "children": [
               {
                 "id": "e1bb0b4d069108e4",
@@ -19,10 +19,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
-                    "page": 2,
-                    "left": -24,
-                    "top": 782,
-                    "zoom": 0.6376994854800733
+                    "page": 3,
+                    "left": 0,
+                    "top": 930,
+                    "zoom": 1.2
                   },
                   "icon": "lucide-file-text",
                   "title": "CodigoLimpo"
@@ -33,7 +33,7 @@
           {
             "id": "361cdc000138c76f",
             "type": "tabs",
-            "dimension": 44.479166666666664,
+            "dimension": 44.25622022233986,
             "children": [
               {
                 "id": "4fb8567dc0fa79bd",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -243,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +271,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4fb8567dc0fa79bd",
+  "active": "e1bb0b4d069108e4",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/Livros",
