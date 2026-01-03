@@ -1,0 +1,4 @@
+- 5S (cultura japonesa para a criação, principalmente para carros):
+- Seiri
+- Seiton
+- 
