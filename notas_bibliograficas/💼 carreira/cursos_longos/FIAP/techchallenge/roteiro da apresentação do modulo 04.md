@@ -6,9 +6,10 @@
 	- redefinir senha como professor
 	- fazer login como professor
 	- mostrar a home
-	- fazer uma busca na pesquisa
+
 	- mostrar uma postagens
 	- excluir um comentário de um aluno na postagem
+	- 	- fazer uma busca na pesquisa
 	- criar um comentário na postagem
 	- acessar o editor de postagens
 	- criar uma postagem
