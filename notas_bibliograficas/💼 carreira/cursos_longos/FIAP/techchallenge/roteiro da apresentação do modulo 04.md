@@ -6,10 +6,8 @@
 	- redefinir senha como professor
 	- fazer login como professor
 	- mostrar a home
-
 	- mostrar uma postagens
-	- excluir um comentário de um aluno na postagem
-	- 	- fazer uma busca na pesquisa
+	- fazer uma busca na pesquisa
 	- criar um comentário na postagem
 	- acessar o editor de postagens
 	- criar uma postagem
@@ -45,11 +43,6 @@ minhasenha1234
 
 
 aluno:
-
-niltondg.30@gmail.com
-
-minhasenha123
-
 
 niltondg.29@gmail.com
 
@@ -100,7 +93,6 @@ Esta edição da nossa Mostra busca ir além da sala de aula tradicional, aprese
 ### **Hashtags:**
 
 InovaçãoEscolar 
-Robótica 
 FuturoDaEducação 
 TecnologiaNoEnsino 
 EscolaCriativa
