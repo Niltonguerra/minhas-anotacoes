@@ -1,3 +1,4 @@
+- apresentar-se
 - apresentar os slides
 - apresentar a doc
 - mostrar o aplicativo:
