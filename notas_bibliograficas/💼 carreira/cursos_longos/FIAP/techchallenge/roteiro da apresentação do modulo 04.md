@@ -58,8 +58,10 @@ ndg.100502
 
 
 email para cadastro:
-niltondg.30@gmail.com
+newtondionisioguerra@gmail.com
 
+
+niltondg.30@outlook.com
 
 
 
