@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "66d797a86accd04f",
+        "id": "ac809b7f9c93078d",
         "type": "split",
         "children": [
           {
@@ -20,7 +20,7 @@
                     "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
                     "page": 3,
                     "left": -14,
-                    "top": 725,
+                    "top": 250,
                     "zoom": 1.0737333217057645
                   },
                   "icon": "lucide-file-text",
@@ -30,11 +30,11 @@
             ]
           },
           {
-            "id": "9e6a6fbbbadda8c5",
+            "id": "00a5c9e93d81beb3",
             "type": "tabs",
             "children": [
               {
-                "id": "1e1e791ee70c259a",
+                "id": "41a8e574ab50c4bf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -242,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +268,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1e1e791ee70c259a",
+  "active": "e1bb0b4d069108e4",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/Livros",
