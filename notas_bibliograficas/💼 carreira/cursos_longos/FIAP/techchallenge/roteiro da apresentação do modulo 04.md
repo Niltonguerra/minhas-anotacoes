@@ -96,4 +96,8 @@ Esta edição da nossa Mostra busca ir além da sala de aula tradicional, aprese
 
 ### **Hashtags:**
 
-#InovaçãoEscolar #Robótica #FuturoDaEducação #TecnologiaNoEnsino #EscolaCriativa
+InovaçãoEscolar 
+Robótica 
+FuturoDaEducação 
+TecnologiaNoEnsino 
+EscolaCriativa

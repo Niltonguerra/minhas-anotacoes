@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#InovaçãoEscolar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5b2a1af1003cabb7",
+  "active": "ae385e8e5901ef46",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
