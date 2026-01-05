@@ -5,4 +5,11 @@
 > 
 
 
+- **deve-se refazer o código de tempos em tempo, ele não é uma coisa eterna**
+> ([[CodigoLimpo.pdf#page=4&selection=2,0,2,88&color=yellow|CodigoLimpo, p.4]])
+> principais do software a partir do zero a cada sete anos ou então se livrar dos entulhos
+
+
+
+
 
