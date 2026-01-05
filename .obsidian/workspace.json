@@ -15,9 +15,9 @@
               "state": {
                 "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
                 "page": 3,
-                "left": -13,
+                "left": -14,
                 "top": 600,
-                "zoom": 1.2067236417546001
+                "zoom": 1.0737333217057643
               },
               "icon": "lucide-file-text",
               "title": "CodigoLimpo"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codigo limpo",
+                "query": "proprias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 444.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -263,9 +263,13 @@
   },
   "active": "e031b3b972141fe5",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
-    "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
+    "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
+    "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
+    "notas_permanentes/utilitarios/templates/template_Cornell.md",
+    "notas_permanentes/utilitarios/templates/templates_para_estudo",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/roteiro da apresentação do modulo 04.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
@@ -294,7 +298,6 @@
     "notas_bibliograficas/💼 carreira/utilitarios",
     "notas_bibliograficas/💼 carreira/livros/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/livros",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/tipos_de_bancos_de_dados/tipos de banco de dados 2.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/tipos_de_bancos_de_dados/tipo de bancos de dados.md",
@@ -304,12 +307,8 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/Untitled.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
     "Excel 2025-11-13 13.41.28.sheet.md",
-    "notas_permanentes/utilitarios/templates/template_english.md",
     "Untitled.canvas",
-    "notas_permanentes/utilitarios/templates/template_Cornell.md",
-    "notas_permanentes/utilitarios/templates/template programação.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/performance em sgbd's relacionais/performance no banco Relacional.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos de bancos de dados/tipos de banco de dados 2.md",
+    "notas_permanentes/utilitarios/templates/templates_para_estudo/template programação.md",
     "Untitled 1.canvas"
   ]
 }
