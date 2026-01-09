@@ -7,7 +7,7 @@ Date: 2026-01-05T09:47:00
 
 - Toda anotação feita no pdf deve ser explicada com suas próprias palavras.
 
-- Os pomodoros de leitura devem ser divididos em 15 minutos de leitura e 10 minutos de anotações com resumo do que foi aprendido no dia, não é permitido fazer anotações enquanto se lê o livro.
+- Os pomodoros de leitura devem ser divididos em 15 minutos de leitura com marcação do texto e 10 minutos de explicação desses pontos na nota com resumo do que foi aprendido.
 
 - todos os dias que eu decidir ler um livro devo criar uma nova nota para o dia.
 

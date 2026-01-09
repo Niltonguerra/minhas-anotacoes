@@ -15,9 +15,9 @@
               "state": {
                 "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
                 "page": 3,
-                "left": -14,
-                "top": 600,
-                "zoom": 1.0737333217057643
+                "left": -46,
+                "top": 517,
+                "zoom": 0.3259352925787041
               },
               "icon": "lucide-file-text",
               "title": "CodigoLimpo"
@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "regras para as anotações de livros"
+              "title": "5S"
             }
           }
         ]
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,10 +262,10 @@
   },
   "active": "e031b3b972141fe5",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/anotações CleanCode.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
+    "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
     "notas_permanentes/utilitarios/templates/template_Cornell.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo",
