@@ -4,44 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a26ed3406020a0",
+        "id": "cbd2336573e4ff01",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2a1af1003cabb7",
+            "id": "805a01d9390641a9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
-                "page": 3,
-                "left": -46,
-                "top": 517,
-                "zoom": 0.3259352925787041
-              },
-              "icon": "lucide-file-text",
-              "title": "CodigoLimpo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c6fb524e406c933b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e031b3b972141fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5S"
+              "title": "Nova aba"
             }
           }
         ]
@@ -260,12 +233,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e031b3b972141fe5",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
     "notas_permanentes/utilitarios/templates/template_Cornell.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo",
