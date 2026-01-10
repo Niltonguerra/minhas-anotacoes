@@ -11,10 +11,15 @@
             "id": "805a01d9390641a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -233,8 +238,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "805a01d9390641a9",
   "lastOpenFiles": [
+    "Sem título.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
@@ -260,7 +266,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101054628.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101053150.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
-    "Sem título.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/reunioes/19112025.md",
