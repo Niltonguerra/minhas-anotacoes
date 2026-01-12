@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "anotações sobre a 5 entrega do projeto"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +242,10 @@
   },
   "active": "805a01d9390641a9",
   "lastOpenFiles": [
+    "Pasted image 20260112203459.png",
+    "Pasted image 20260112202433.png",
     "Sem título.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
@@ -264,7 +269,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101055813.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101055747.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101054628.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101053150.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
@@ -285,7 +289,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
     "Excel 2025-11-13 13.41.28.sheet.md",
     "Untitled.canvas",
-    "notas_permanentes/utilitarios/templates/templates_para_estudo/template programação.md",
     "Untitled 1.canvas"
   ]
 }
