@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +240,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "076095e195ae4a82",
+  "active": "805a01d9390641a9",
   "lastOpenFiles": [
+    "Pasted image 20260112225505.png",
     "Pasted image 20260112205714.png",
     "Pasted image 20260112205659.png",
     "Pasted image 20260112204158.png",
@@ -265,7 +268,6 @@
     "Pasted image 20260101065140.png",
     "Pasted image 20260101065128.png",
     "Pasted image 20260101064814.png",
-    "Pasted image 20260101064751.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
