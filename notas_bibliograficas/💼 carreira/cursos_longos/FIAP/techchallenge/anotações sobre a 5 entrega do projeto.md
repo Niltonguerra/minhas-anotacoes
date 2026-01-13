@@ -54,17 +54,27 @@ cronograma interno nosso:
 	- criar um formulário para responder perguntas
 	- criar uma aplicação para criar formularios automaticamente via LLM
 
+---
+
 - criar um sistema de gamification
 	- para incentivar os alunos a estudar
 	- o que ele ganharia com os pontos?
 		- imagens?
 		- molduras?
 	- 
+---
+
 
 
 - implementar quizzes em aula:
+- colocar conteúdo que envolvam os jovens
+- capacitação de professores para eles saberem como se comunicar com os alunos
+	- usar formatos que jovens mais consomem hoje em dia
+
 - ![[Pasted image 20260112225505.png|500]]
 
+
+---
 
 
 - criar um todo para o que os alunos fazer
@@ -73,13 +83,21 @@ cronograma interno nosso:
 	- ajudar a criar relatórios dos alunos
 ![[Pasted image 20260112225709.png]]
 
+---
 
 
 - biblioteca colaborativa de conteúdo educacional
 
-
+---
 
 - plataforma de inclusão digital offline
-	- criar um leitor de QRCODE que os professores no aplicativo que contém as tags do conteúdo referido, usando essas tags a gente faz o controle para exibir o conteúdo nosso próprio ou de gerar um texto via llm(gemini) para o usuário final dentro do aplicativo.
-		- o gatinho para a geração de um texto via prompt é que deve exibir nas nossas postagens pelo menos 3 tags das contidas no QR CODE, caso não exista, deve-se criar um texto via llm
-		- a matéria exibida para o usuário final caso exista na nossa base de dados é sempre o primeiro retorno do backend, ou seja, aquela que tem mais a ver com as tags.
+	- salvar as postagens em cache
+
+---
+
+- implementar videos na aplicação
+	- permitir baixar a transcrição do texto do video do youtube
+
+
+---
+usar uma llm para responder perguntas que os alunos podem ter de forma rápida
