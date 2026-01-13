@@ -50,10 +50,6 @@ cronograma interno nosso:
 
 
 ## IDEIAS:
-
-
----
-
 ---
 
 ✅ 
@@ -71,7 +67,7 @@ cronograma interno nosso:
 
 provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
 
-
+- criar relatórios com base na pontuação do quizz e formularios.
 
 - criar um sistema de gamification
 	- para incentivar os alunos a estudar
@@ -84,9 +80,9 @@ provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educa
 - 
 
 ---
+❌
 
-
-- criar um todo para o que os alunos fazer
+- criar um 'to do' para os alunos 
 	- implementar agendas para os usuários
 	- implementar um 'to do' do que o aluno deve fazer para o que fazer
 	- ajudar a criar relatórios dos alunos
@@ -94,22 +90,28 @@ provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educa
 
 ---
 
-
+❌
 - biblioteca colaborativa de conteúdo educacional
 
 ---
-
+✅ 
 - plataforma de inclusão digital offline
-	- salvar as postagens em cache
+	- ~~salvar as postagens em cache~~
+	- ~~atualização de dados olhando para a base~~
+	- ~~criar um sistema de gerenciamento de download de postagens~~
+
+- ideia para fazer de forma simplificada:
+	- tirar um 'print' da tela da postagem
 
 ---
-
+✅ 
 - implementar videos na aplicação
 	- permitir baixar a transcrição do texto do video do youtube
 
 
 ---
-usar uma llm para responder perguntas que os alunos podem ter de forma rápida
+
+usar uma llm para responder perguntas que os alunos para perguntas rápidas que eles tiverem
 
 
 --- 
