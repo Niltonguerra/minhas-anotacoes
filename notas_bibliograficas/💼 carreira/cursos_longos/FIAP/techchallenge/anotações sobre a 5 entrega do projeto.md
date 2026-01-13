@@ -55,29 +55,46 @@ cronograma interno nosso:
 ✅ 
 - fazer um pre vestibular para o ENEM
 	- criar um formulário para responder perguntas
-	- criar uma aplicação para criar formulários automaticamente via LLM
+	- provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
 
-- implementar quizzes em aula:
-- colocar conteúdo que envolvam os jovens
-- capacitação de professores para eles saberem como se comunicar com os alunos
-	- usar formatos que jovens mais consomem hoje em dia
+
+- usar ia(LLM) para  criar formularios(quizz) com temática de anime 🔴
+
+
+- implementar quizzes em aula:🟢
+	- colocar conteúdo que envolvam os jovens
+	- capacitação de professores para eles saberem como se comunicar com os alunos
+		- usar formatos que jovens mais consomem hoje em dia
 
 - ![[Pasted image 20260112225505.png|500]]
 
 
-provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
 
-- criar relatórios com base na pontuação do quizz e formularios.
+- criar relatórios com base na pontuação do quizz e formularios. 🟢
 
-- criar um sistema de gamification
+
+
+- criar um sistema de gamification🔴
 	- para incentivar os alunos a estudar
 	- como vai ganhar esses pontos?
-
 	- o que ele ganharia com os pontos?
 		- posição no ranking
 		- o professor decidi o que o aluno vai ganhar!
-	- 
-- 
+	
+--- 
+✅ 
+- plataforma de inclusão digital offline
+	- ~~salvar as postagens em cache~~
+	- ~~atualização de dados olhando para a base~~
+	- ~~criar um sistema de gerenciamento de download de postagens~~
+
+- ideia para fazer de forma simplificada:
+	- tirar um 'print' da tela da postagem
+
+---
+✅ 
+- implementar videos na aplicação
+	- permitir baixar a transcrição do texto do video do youtube
 
 ---
 ❌
@@ -93,24 +110,9 @@ provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educa
 ❌
 - biblioteca colaborativa de conteúdo educacional
 
----
-✅ 
-- plataforma de inclusão digital offline
-	- ~~salvar as postagens em cache~~
-	- ~~atualização de dados olhando para a base~~
-	- ~~criar um sistema de gerenciamento de download de postagens~~
-
-- ideia para fazer de forma simplificada:
-	- tirar um 'print' da tela da postagem
 
 ---
-✅ 
-- implementar videos na aplicação
-	- permitir baixar a transcrição do texto do video do youtube
-
-
----
-
+❌
 usar uma llm para responder perguntas que os alunos para perguntas rápidas que eles tiverem
 
 
