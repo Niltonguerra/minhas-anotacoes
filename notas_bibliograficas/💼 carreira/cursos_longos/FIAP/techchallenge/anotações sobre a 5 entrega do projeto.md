@@ -37,11 +37,12 @@
 
 
 cronograma interno nosso:
-1(7 dias) semana planejamento e levantamento do que fazer
+(7 dias) semana planejamento e levantamento do que fazer
 - reunião dia 18/02 as 14 horas
-2(14 dias) semanas para o desenvolvimento da aplicação
-1,5(10 dias) semana para a apresentação 
-0,5(3 dias) semanas de folga
+(14 dias) semanas para o desenvolvimento da aplicação
+(3 dias +-) para o teste geral da aplicação
+(10 dias) para a apresentação 
+(2 dias) de folga
 
 
 ## O que fazer?
