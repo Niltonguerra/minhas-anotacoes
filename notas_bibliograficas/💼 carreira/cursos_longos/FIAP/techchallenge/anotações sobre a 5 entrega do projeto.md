@@ -45,13 +45,6 @@ cronograma interno nosso:
 (2 dias) de folga
 
 
-## O que fazer?
-- A gente inicia uma conversa agora para decidir o que vamos fazer
-- sugestão de feature para implementação:
-	- criar um leitor de QRCODE que os professores no aplicativo que contém as tags do conteúdo referido, usando essas tags a gente faz o controle para exibir o conteúdo nosso próprio ou de gerar um texto via llm(gemini) para o usuário final dentro do aplicativo.
-		- o gatinho para a geração de um texto via prompt é que deve exibir nas nossas postagens pelo menos 3 tags das contidas no QR CODE, caso não exista, deve-se criar um texto via llm
-		- a matéria exibida para o usuário final caso exista na nossa base de dados é sempre o primeiro retorno do backend, ou seja, aquela que tem mais a ver com as tags.
-
 
 
 
@@ -74,3 +67,19 @@ cronograma interno nosso:
 
 
 
+- criar um todo para o que os alunos fazer
+	- implementar agendas para os usuários
+	- implementar um 'to do' do que o aluno deve fazer para o que fazer
+	- ajudar a criar relatórios dos alunos
+![[Pasted image 20260112225709.png]]
+
+
+
+- biblioteca colaborativa de conteúdo educacional
+
+
+
+- plataforma de inclusão digital offline
+	- criar um leitor de QRCODE que os professores no aplicativo que contém as tags do conteúdo referido, usando essas tags a gente faz o controle para exibir o conteúdo nosso próprio ou de gerar um texto via llm(gemini) para o usuário final dentro do aplicativo.
+		- o gatinho para a geração de um texto via prompt é que deve exibir nas nossas postagens pelo menos 3 tags das contidas no QR CODE, caso não exista, deve-se criar um texto via llm
+		- a matéria exibida para o usuário final caso exista na nossa base de dados é sempre o primeiro retorno do backend, ou seja, aquela que tem mais a ver com as tags.
