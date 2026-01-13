@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "anotações sobre a 5 entrega do projeto"
             }
-          },
-          {
-            "id": "5dc3aadcbe44d541",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +240,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5dc3aadcbe44d541",
+  "active": "805a01d9390641a9",
   "lastOpenFiles": [
     "Pasted image 20260112205714.png",
     "Pasted image 20260112205659.png",
