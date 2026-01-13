@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "anotações sobre a 5 entrega do projeto"
             }
+          },
+          {
+            "id": "5dc3aadcbe44d541",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +252,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "805a01d9390641a9",
+  "active": "5dc3aadcbe44d541",
   "lastOpenFiles": [
+    "Pasted image 20260112205714.png",
+    "Pasted image 20260112205659.png",
     "Pasted image 20260112204158.png",
     "Pasted image 20260112204028.png",
     "Pasted image 20260112203830.png",
@@ -266,9 +280,7 @@
     "Pasted image 20260101065128.png",
     "Pasted image 20260101064814.png",
     "Pasted image 20260101064751.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101055849.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260101055823.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 1- SGBD relacional-introducao.md",
