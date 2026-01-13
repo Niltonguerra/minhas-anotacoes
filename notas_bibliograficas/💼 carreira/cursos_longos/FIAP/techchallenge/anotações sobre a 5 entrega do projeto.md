@@ -50,21 +50,16 @@ cronograma interno nosso:
 
 
 ## IDEIAS:
+
+
+---
+
+---
+
+✅ 
 - fazer um pre vestibular para o ENEM
 	- criar um formulário para responder perguntas
-	- criar uma aplicação para criar formularios automaticamente via LLM
-
----
-
-- criar um sistema de gamification
-	- para incentivar os alunos a estudar
-	- o que ele ganharia com os pontos?
-		- imagens?
-		- molduras?
-	- 
----
-
-
+	- criar uma aplicação para criar formulários automaticamente via LLM
 
 - implementar quizzes em aula:
 - colocar conteúdo que envolvam os jovens
@@ -73,6 +68,20 @@ cronograma interno nosso:
 
 - ![[Pasted image 20260112225505.png|500]]
 
+
+provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
+
+
+
+- criar um sistema de gamification
+	- para incentivar os alunos a estudar
+	- como vai ganhar esses pontos?
+
+	- o que ele ganharia com os pontos?
+		- posição no ranking
+		- o professor decidi o que o aluno vai ganhar!
+	- 
+- 
 
 ---
 
@@ -101,3 +110,6 @@ cronograma interno nosso:
 
 ---
 usar uma llm para responder perguntas que os alunos podem ter de forma rápida
+
+
+--- 
