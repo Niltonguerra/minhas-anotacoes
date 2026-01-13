@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -213,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +238,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "805a01d9390641a9",
+  "active": "076095e195ae4a82",
   "lastOpenFiles": [
     "Pasted image 20260112205714.png",
     "Pasted image 20260112205659.png",
