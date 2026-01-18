@@ -53,15 +53,8 @@ cronograma interno nosso:
 ---
 
 ✅ 
-- fazer um pre vestibular para o ENEM
-	- criar um formulário para responder perguntas
-	- provas: [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
-
-
-- usar ia(LLM) para  criar formularios(quizz) com temática de anime 🔴
-
-
 - implementar quizzes em aula:🟢
+	- base de dados(provas): [https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos")
 	- colocar conteúdo que envolvam os jovens
 	- capacitação de professores para eles saberem como se comunicar com os alunos
 		- usar formatos que jovens mais consomem hoje em dia
@@ -69,10 +62,9 @@ cronograma interno nosso:
 - ![[Pasted image 20260112225505.png|500]]
 
 
-
 - criar relatórios com base na pontuação do quizz e formularios. 🟢
 
-
+- usar ia(LLM) para  criar formularios(quizz) 🔴
 
 - criar um sistema de gamification🔴
 	- para incentivar os alunos a estudar
