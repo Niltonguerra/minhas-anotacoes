@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anotações sobre a 5 entrega do projeto"
+              "title": "aula5- SGDB relacional- 3 formas normais (3FN)"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 629.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +242,7 @@
   },
   "active": "805a01d9390641a9",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
     "Pasted image 20260112225709.png",
     "Pasted image 20260112225505.png",
     "Pasted image 20260112205714.png",
@@ -250,7 +253,6 @@
     "Pasted image 20260112203459.png",
     "Pasted image 20260112202433.png",
     "Sem título.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
@@ -265,7 +267,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form).md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
     "Pasted image 20260101065140.png",
-    "Pasted image 20260101065128.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
