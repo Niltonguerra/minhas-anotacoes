@@ -11,15 +11,10 @@
             "id": "d033ecbfbe937ab4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "anotações sobre a 5 entrega do projeto"
+              "title": "New tab"
             }
           }
         ]
@@ -96,15 +91,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 204.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -120,8 +116,8 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "oz-calendar"
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
             }
           },
           {
@@ -130,8 +126,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -207,23 +203,13 @@
               "icon": "lucide-list",
               "title": "Outline of aula 2 - SGBD relacional"
             }
-          },
-          {
-            "id": "98e5b1eab895198e",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,25 +231,27 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d033ecbfbe937ab4",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/roteiro da apresentação do modulo 04.md",
+    "Sem título.md",
     "Sem título.canvas",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
     "Pasted image 20260112225709.png",
-    "Pasted image 20260112225505.png",
-    "Pasted image 20260112205714.png",
-    "Pasted image 20260112205659.png",
     "Pasted image 20260112204158.png",
-    "Pasted image 20260112204028.png",
     "Pasted image 20260112203830.png",
     "Pasted image 20260112203459.png",
     "Pasted image 20260112202433.png",
-    "Sem título.md",
+    "Pasted image 20260101065140.png",
+    "Pasted image 20260101065128.png",
+    "Pasted image 20260101064814.png",
+    "Pasted image 20260101064751.png",
+    "Pasted image 20260112205659.png",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/anotações sobre a 5 entrega do projeto.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/techchallenge/roteiro da apresentação do modulo 04.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula5- SGDB relacional- 3 formas normais (3FN).md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
@@ -275,7 +263,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/Livros",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form).md",
-    "Pasted image 20260101065140.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula4- SGBD relacional- aprofundamento no DQL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 2 - SGBD relacional-DDL.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/aula 3- SGBD relacional-DQL e DML.md",
