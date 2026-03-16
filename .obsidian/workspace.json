@@ -11,10 +11,15 @@
             "id": "d033ecbfbe937ab4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/hotkey-helper/main.js",
+                "bFile": ".obsidian/plugins/hotkey-helper/main.js",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: main.js  (Index)"
             }
           }
         ]
@@ -100,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 496.5
   },
   "right": {
     "id": "6d280047996c7655",
