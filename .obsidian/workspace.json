@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90862515a9b04718",
+        "id": "9faa03f26d95b516",
         "type": "tabs",
         "children": [
           {
-            "id": "d033ecbfbe937ab4",
+            "id": "0b36698ab0afea0e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/hotkey-helper/main.js",
-                "bFile": ".obsidian/plugins/hotkey-helper/main.js",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: main.js  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -45,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -100,12 +95,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 221.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -223,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +243,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "95d1c939de81c5c0",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "Sem título.md",
     "Sem título.canvas",
