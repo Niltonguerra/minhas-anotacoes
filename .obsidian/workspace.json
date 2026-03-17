@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "6d280047996c7655",
@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +249,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "0b36698ab0afea0e",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/react",
     "Sem título.md",
     "Sem título.canvas",
     "Pasted image 20260112225709.png",
