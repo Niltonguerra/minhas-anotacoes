@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9faa03f26d95b516",
+        "id": "a826bbe591dc2104",
         "type": "tabs",
         "children": [
           {
-            "id": "0b36698ab0afea0e",
+            "id": "d692b1b6677b73e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/responsividade/responsividade 1.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco-de-dados-documentais/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "responsividade 1"
+              "title": "Sem título"
             }
           }
         ]
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +249,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "d692b1b6677b73e3",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco-de-dados-documentais/Sem título.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/responsividade/responsividade 1.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco-de-dados-documentais",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/react",
     "Sem título.md",
     "Sem título.canvas",
@@ -286,8 +290,6 @@
     "notas_bibliograficas/livros",
     "notas_bibliograficas/💼 carreira/utilitarios/template-abnt-libreoffice.odt",
     "notas_bibliograficas/💼 carreira/utilitarios",
-    "notas_bibliograficas/💼 carreira/livros/CodigoLimpo.pdf",
-    "notas_bibliograficas/💼 carreira/livros",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 1- SGBD relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/tipos_de_bancos_de_dados/tipos de banco de dados 2.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/tipos_de_bancos_de_dados/tipo de bancos de dados.md",
@@ -296,7 +298,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/tipo de bancos de dados.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/tipos_de_bancos_de_dados/Untitled.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
-    "Excel 2025-11-13 13.41.28.sheet.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
