@@ -21,12 +21,24 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
-bando de dados no sql
+## benefícios do bando de dados no sql
 - é o melhor quando você tem um schema que pode alterar através do tempo e precisa de uma grande flexibilidade, como projetos grandes e high technology
 - não é bom quando precisa colocar regras no banco de dados, como: restrições de campos e join's
 - facilidade de escalabilidade horizontal
 - melhor performance
-- 
+- alta disponibilidade
+	- permite configuração fácil para redundância
+- suporte a transações
+- integração com várias linguagens
+- comunidade ativa
 
-banco de dados sql
+## custos do mongoDB
+- community server
+	- versão gratuita
+	- mais usada no geral
+- Enterprise server
+	- menos usada
+	- você tem alguns benefícios
+
+## benefícios do banco de dados sql
 é o melhor quando o schema não varia tanto ao longo do tempo e é para um projeto menor ou que precisão de muita garantia e segurança nos processos...
