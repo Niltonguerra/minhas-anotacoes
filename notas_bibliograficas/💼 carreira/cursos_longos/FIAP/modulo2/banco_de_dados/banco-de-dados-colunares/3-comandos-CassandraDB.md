@@ -19,6 +19,20 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## tipos de strategy para o cassandra:
+estratégias de replicação:
+### SimpleStrategy:
+- quer dizer que todos os nó's vão estar na mesma máquina
+
+### NetworkTopologyStrategy
+- permite que os nó's sejam armazenados em diversas máquinas.
+- melhor para  produção por conta da escalabilidade
+
+## replication_factor:
+- é o fator da replicação dos dados para permitir maior disponibilidade em detrimento de espaço
+
+## comandos:
+
 Entra no terminal do cassandra:
 ```
 cqlsh
@@ -39,3 +53,4 @@ CREATE KEYSPACE <nome_do_keyspace>
 	 'replication_factor': <fator_de_replicação> 
  };
 ```
+

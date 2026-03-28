@@ -24,10 +24,9 @@ nessa nota é visto uma visão geral sobre os bancos de dados colunares, vale de
 ## principais características dos bancos de dados colunares
 - alta disponibilidade
 - tolerância à falha
-- permite redundância sem cobrar o espaço em disco
 - melhor para leituras de dados "analíticas"(SUM, AVG,MIN,MAX e etc)
 - facilidade na alteração no schema da tabela por conta de não existir tabelas, apenas colunas.
-
+- ocupa muito espaço em disco por conta da quantidade de redundância.
 
 ## não existes tabelas, existem colunas que são organizadas para formar "tabelas" 
 
