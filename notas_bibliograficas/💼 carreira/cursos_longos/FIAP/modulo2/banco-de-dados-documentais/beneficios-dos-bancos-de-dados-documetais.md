@@ -20,7 +20,10 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
+comando para acessar o banco de dados:
+```
+docker exec -it mongodb_dev mongosh -u admin -p password123
+```
 ## benefícios do bando de dados no sql
 - é o melhor quando você tem um schema que pode alterar através do tempo e precisa de uma grande flexibilidade, como projetos grandes e high technology
 - não é bom quando precisa colocar regras no banco de dados, como: restrições de campos e join's

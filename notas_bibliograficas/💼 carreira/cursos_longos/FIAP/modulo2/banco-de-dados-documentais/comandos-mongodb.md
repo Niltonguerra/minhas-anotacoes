@@ -1,7 +1,8 @@
 ---
-Date: 2025-11-13T13:30:00
+Date: 2026-03-28T09:35:00
 tags:
-  - fiap/modulo02/conexaoComBancoDeDados/tiposDeBancoDeDados
+  - fiap/modulo02/conexaoComBancoDeDados
+  - fiap/modulo02/conexaoComBancoDeDados/bancoDeDadosDocumental
 ---
 # Notas conectadas:
 
@@ -20,6 +21,8 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
+```
+show databases
+```
 
-
-
+criar e usar:
