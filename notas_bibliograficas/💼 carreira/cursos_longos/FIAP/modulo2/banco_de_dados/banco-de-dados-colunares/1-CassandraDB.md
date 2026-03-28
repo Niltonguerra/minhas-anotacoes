@@ -59,7 +59,7 @@ nessa aula vimos algumas caracteristicas de SGBD's colunares, em especial o Cass
 		- [[aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form)]]
 - existe chave primária composta
 - não existe FK
-- não existe PK simples
+- existe PK simples, mas não é recomendado usar
 
 
 
@@ -67,6 +67,7 @@ nessa aula vimos algumas caracteristicas de SGBD's colunares, em especial o Cass
 - curiosidade, talvez possa ser útil de alguma forma:
   os dados dentro do cassandra DB são divididos de acordo com a sua chave primária, mais precisamente falando, considerando a imagem acima sobre sistemas distribuídos, os dados são organizados fisicamente(usei essa palavra por falta de palavra melhor) nos nó's de acordo com a chave primária.
 - esse gerenciamento é feito automaticamente pelo  próprio Cassandra
+- o primeiro campo da PK composta é quem define a partition
 ![[Pasted image 20260328121859.png]]
 
 
