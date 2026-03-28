@@ -1,7 +1,6 @@
 ---
 Date: 2026-03-28T09:35:00
 tags:
-  - fiap/modulo02/conexaoComBancoDeDados
   - fiap/modulo02/conexaoComBancoDeDados/bancoDeDadosDocumental
 ---
 # Notas conectadas:

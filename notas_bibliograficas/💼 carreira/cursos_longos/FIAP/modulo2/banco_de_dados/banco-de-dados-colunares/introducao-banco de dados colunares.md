@@ -1,6 +1,8 @@
 ---
-Date: ""
-tags: []
+Date: 2026-03-28T11:53:00
+tags:
+  - fiap/modulo02/conexaoComBancoDeDados
+  - fiap/modulo02/conexaoComBancoDeDados/DBColunares
 ---
 
 # Notas conectadas:

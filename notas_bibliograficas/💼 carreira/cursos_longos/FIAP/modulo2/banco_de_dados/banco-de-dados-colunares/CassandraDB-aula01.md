@@ -1,6 +1,7 @@
 ---
-Date: ""
-tags: []
+Date: 2026-03-28T11:52:00
+tags:
+  - fiap/modulo02/conexaoComBancoDeDados/DBColunares
 ---
 # Notas conectadas:
 
@@ -49,5 +50,19 @@ table of contents: Create table of contents
 ## como modelar um SGBD colunar?
 - tabelas devem seguir as consultas desejadas, e não o contrário
 - não existe join, integridade referencial ou chaves estrangeiras
-- denormalização
-	- é o ato de depois de a
+- Denormalização
+	- é o ato de aplicar as formas normais(NF) e depois remover elas para a melhoria de performance de dados.
+	- caso deseje referencias:
+		- [[aula5- SGDB relacional- 3 formas normais (3FN)]]
+		- [[aula6-sgdb relacional-4FN, 5FN e a NFBC(Boyce-Codd Normal Form)]]
+- existe chave primária composta
+- não existe FK
+- não existe PK simples
+
+
+
+## como é feito o particionamento dos dados?
+- o que compõe uma chave primária no SGDB colunar:
+
+- curiosidade, talvez possa ser ultil de alguma forma:
+  os dados dentro do cassandra DB são divididos de acordo com a sua chave prim
