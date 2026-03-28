@@ -7,14 +7,14 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa aula vimos algumas caracteristicas de SGBD's colunares, em especial o CassandraDB, vimos qual é o seu tipo de arquitetura, como os dados são armazenados fisicamente,  e alguns padrões mínimos para modelar um banco de dados com o Cassandra
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#Cassandra:|Cassandra:]]
+	- [[#Cassandra:#criador:|criador:]]
+	- [[#Cassandra:#características no Cassandra|características no Cassandra]]
+- [[#arquiteturas de dados:|arquiteturas de dados:]]
+- [[#como modelar um SGBD colunar?|como modelar um SGBD colunar?]]
+- [[#Curiosidade: como é feito o particionamento dos dados?|Curiosidade: como é feito o particionamento dos dados?]]
 
 
 # Explicação dos tópicos:
@@ -50,6 +50,7 @@ table of contents: Create table of contents
 ## como modelar um SGBD colunar?
 - tabelas devem seguir as consultas desejadas, e não o contrário
 - não existe join, integridade referencial ou chaves estrangeiras
+	- ainda mais por conta da forma como foi criado o banco de dados
 - Denormalização
 	- é o ato de aplicar as formas normais(NF) e depois remover elas para a melhoria de performance de dados.
 	- caso deseje referencias:
@@ -65,3 +66,8 @@ table of contents: Create table of contents
 - curiosidade, talvez possa ser útil de alguma forma:
   os dados dentro do cassandra DB são divididos de acordo com a sua chave primária, mais precisamente falando, considerando a imagem acima sobre sistemas distribuídos, os dados são organizados fisicamente(usei essa palavra por falta de palavra melhor) nos nó's de acordo com a chave primária.
 - esse gerenciamento é feito automaticamente pelo  próprio Cassandra
+![[Pasted image 20260328121859.png]]
+
+
+
+
