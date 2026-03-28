@@ -31,3 +31,11 @@ DESC keyspaces;
 ```
 
 
+criar um keyspace:
+```
+CREATE KEYSPACE <nome_do_keyspace> 
+	WITH replication = {
+	 'class': '<estratégia_de_replicação>', 
+	 'replication_factor': <fator_de_replicação> 
+ };
+```
