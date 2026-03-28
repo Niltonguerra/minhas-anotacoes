@@ -22,10 +22,12 @@ table of contents: Create table of contents
 
 
 
-principais características dos bancos de dados colunares
+## principais características dos bancos de dados colunares
 - alta disponibilidade
 - tolerância à falha
 - permite redundância sem cobrar o espaço em disco
 - melhor para leituras de dados "analíticas"(SUM, AVG,MIN,MAX e etc)
 
-as tabelas 
+## não existes tabelas, existem colunas que são organizadas para formar "tabelas" 
+
+![[Pasted image 20260328105109.png]]
