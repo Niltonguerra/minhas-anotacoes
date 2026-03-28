@@ -87,20 +87,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "95d1c939de81c5c0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Etiquetas"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,8 +121,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -166,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-colunares/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250616162303"
+              "title": "Links inversos para Sem título"
             }
           },
           {
@@ -228,8 +219,23 @@
               "title": "OZ Calendar"
             }
           }
-        ],
-        "currentTab": 8
+        ]
+      },
+      {
+        "id": "35e355308cd48771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95d1c939de81c5c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,7 +265,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d692b1b6677b73e3",
+  "active": "95d1c939de81c5c0",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-colunares/introducao-banco de dados colunares.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-colunares/Sem título.md",
