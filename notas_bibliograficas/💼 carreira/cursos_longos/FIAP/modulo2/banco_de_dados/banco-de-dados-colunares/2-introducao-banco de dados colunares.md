@@ -1,7 +1,6 @@
 ---
 Date: 2026-03-28T11:53:00
 tags:
-  - fiap/modulo02/conexaoComBancoDeDados
   - fiap/modulo02/conexaoComBancoDeDados/DBColunares
 ---
 
@@ -33,6 +32,8 @@ nessa nota é visto uma visão geral sobre os bancos de dados colunares, vale de
 ![[Pasted image 20260328105109.png]]
 
 
+## funcionamento do cassandra em produção:
+O kubernetes vai por cima, ele gerencia os containers que tem docker  e usam uma imagem do Cassandra, através das configurações de rede entre eles, eles se comunicam, existe um cassandra pai que gerencia tudo? não, são sistemas distribuídos?
 
 ## banco de dados colunares:
 - Cassandra
@@ -42,3 +43,4 @@ nessa nota é visto uma visão geral sobre os bancos de dados colunares, vale de
 ```
 docker exec -it cassandra_dev cqlsh
 ```
+

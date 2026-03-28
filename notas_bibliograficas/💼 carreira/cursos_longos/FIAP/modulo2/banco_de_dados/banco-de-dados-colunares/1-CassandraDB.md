@@ -2,6 +2,7 @@
 Date: 2026-03-28T11:52:00
 tags:
   - fiap/modulo02/conexaoComBancoDeDados/DBColunares
+  - fiap/modulo02/conexaoComBancoDeDados
 ---
 # Notas conectadas:
 
