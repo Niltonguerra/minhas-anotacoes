@@ -7,20 +7,17 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa nota vimos o que é um cluster, que basicamente, é um conjunto de nó's que seguem um conjunto de regras com a finalidade de facilitar a gestão desses recursos
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#o que é um cluster?|o que é um cluster?]]
+	- [[#o que é um cluster?#Resposta:|Resposta:]]
+	- [[#o que é um cluster?#definição politizada:|definição politizada:]]
+- [[#tipos de cluster:|tipos de cluster:]]
+	- [[#tipos de cluster:#1.Master-Slave (Replicação)|1.Master-Slave (Replicação)]]
+	- [[#tipos de cluster:#2.Multi-Master (Active-Active)|2.Multi-Master (Active-Active)]]
+	- [[#tipos de cluster:#3.Sharding (Particionamento)|3.Sharding (Particionamento)]]
 
 # Explicação dos tópicos:
-
-
-
 
 ## o que é um cluster?
 ### Resposta: 

@@ -7,17 +7,16 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa nota vimos alguns comandos do cassandra
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#tipos de strategy para o cassandra:|tipos de strategy para o cassandra:]]
+	- [[#tipos de strategy para o cassandra:#SimpleStrategy:|SimpleStrategy:]]
+	- [[#tipos de strategy para o cassandra:#NetworkTopologyStrategy|NetworkTopologyStrategy]]
+- [[#replication_factor:|replication_factor:]]
+- [[#comandos:|comandos:]]
 
 # Explicação dos tópicos:
+
 
 ## tipos de strategy para o cassandra:
 estratégias de replicação:
@@ -94,9 +93,10 @@ DELETE FROM nome_da_tabela WHERE condição;
 
 selecionar dados:
 ```
-SELECT *
-FROM charges
-WHERE customer_id = 'abcdefg12345'
-  AND charge_id = '123e4567-e89b-12d3-a456-426655440000';
+SELECT created_at FROM charges
+WHERE customer_id = 'abcdefg12345' AND charge_id = '123e4567-e89b-12d3-a456-426655440000';
 ```
+
+
+
 
