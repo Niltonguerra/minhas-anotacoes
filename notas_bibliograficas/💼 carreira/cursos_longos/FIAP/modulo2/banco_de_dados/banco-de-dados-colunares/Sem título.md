@@ -27,7 +27,15 @@ table of contents: Create table of contents
 - tolerância à falha
 - permite redundância sem cobrar o espaço em disco
 - melhor para leituras de dados "analíticas"(SUM, AVG,MIN,MAX e etc)
+- facilidade na alteração no schema da tabela por conta de não existir tabelas, apenas colunas.
+
 
 ## não existes tabelas, existem colunas que são organizadas para formar "tabelas" 
 
 ![[Pasted image 20260328105109.png]]
+
+
+
+## banco de dados colunares:
+- Cassandra
+
