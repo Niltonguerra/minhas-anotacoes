@@ -2,6 +2,7 @@
 Date: 2026-03-28T18:30:00
 tags:
   - fiap/modulo02/qualidadeDeSoftware
+  - fiap/modulo02
 ---
 # Notas conectadas:
 
@@ -21,6 +22,10 @@ table of contents: Create table of contents
 
 
 teste de caixa preta:
-- o testador não sabe como o sistema funciona
+- o testador não sabe como o sistema funciona. 
 
 teste de caixa branca:
+- o testador deve saber o que acontece dentro do sistema.
+
+
+
