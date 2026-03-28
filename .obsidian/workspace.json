@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +259,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d692b1b6677b73e3",
+  "active": "375087e779dcd9f8",
   "lastOpenFiles": [
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco-de-dados-documentais/Sem título.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo3/UI-UX/responsividade/responsividade 1.md",

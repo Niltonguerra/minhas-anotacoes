@@ -31,6 +31,7 @@ table of contents: Create table of contents
 - suporte a transações
 - integração com várias linguagens
 - comunidade ativa
+- tem suporte a transações
 
 ## custos do mongoDB
 - community server
