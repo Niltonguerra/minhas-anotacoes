@@ -1,8 +1,6 @@
 ---
-Date: 2026-03-28T17:03:00
-tags:
-  - fiap/modulo02/conexaoComBancoDeDados
-  - fiap/modulo02/conexaoComBancoDeDados/DBASS
+Date: ""
+tags: []
 ---
 # Notas conectadas:
 
@@ -20,15 +18,3 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## tipos de cloud:
-![[Pasted image 20260328171832.png]]
-
-
-
-## caracteristicas da cloud:
-![[Pasted image 20260328173635.png]]
-
-
-
-## alguns serviços da AWS:
-- 
