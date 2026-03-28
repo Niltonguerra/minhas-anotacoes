@@ -20,9 +20,29 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+mostrar databases:
 
 ```
 show databases
 ```
 
-criar e usar:
+
+criar e usar database:
+```
+use <nome_da_base_de_dados>
+```
+
+comparação:
+coleções (no mongo) === tabelas(no sql)
+documento(no mongo) === registro(no sql)
+
+criar coleção:
+```
+db.createCollection("<nome_da_coleção>")
+```
+
+
+criar documento:
+```
+	db.<nome da coleção >.insertOne(<documento(ex:)>)
+```
