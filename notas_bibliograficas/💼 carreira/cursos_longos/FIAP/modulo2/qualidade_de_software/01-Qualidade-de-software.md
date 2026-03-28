@@ -20,12 +20,27 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-
+## tipos de testes:
 teste de caixa preta:
 - o testador não sabe como o sistema funciona. 
 
 teste de caixa branca:
 - o testador deve saber o que acontece dentro do sistema.
+
+
+
+## Pirâmide de teste
+- define a prioridade de quais testes são mais importantes ter:
+- é dividido em 3 partes:
+	
+	- testes e2e(end to end)(baixa prioridade)
+		- testa o software como um todo
+	
+	- integração(média prioridade)
+		- testa a integração entre os sistemas
+	
+	- testes de unidade(alta prioridade)
+		- testes unitários
 
 
 
