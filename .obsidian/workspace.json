@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS/01-DBASS introducao.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/01-Qualidade-de-software.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01-DBASS introducao"
+              "title": "01-Qualidade-de-software"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS/01-DBASS introducao.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/01-Qualidade-de-software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 01-DBASS introducao"
+              "title": "Links inversos para 01-Qualidade-de-software"
             }
           },
           {
@@ -266,8 +266,10 @@
   },
   "active": "6e124d38cec071b8",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS/02-DBASS.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS/01-DBASS introducao.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/01-Qualidade-de-software.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS/02-DBASS.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/performance em sgbd's relacionais/performance no banco Relacional.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328173635.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328171832.png",
@@ -307,12 +309,10 @@
     "notas_bibliograficas/💼 carreira/Livros/regras para as anotações de livros.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
-    "notas_permanentes/utilitarios/templates/template_Cornell.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode",
     "notas_bibliograficas/💼 carreira/Livros",
     "notas_bibliograficas/livros/CodigoLimpo.pdf",
-    "notas_bibliograficas/livros",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
