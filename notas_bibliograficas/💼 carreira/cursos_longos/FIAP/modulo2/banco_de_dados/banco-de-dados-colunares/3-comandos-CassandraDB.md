@@ -67,3 +67,36 @@ customer_id UUID, charge_id UUID, amount DECIMAL, created_at TIMESTAMP, status T
 PRIMARY KEY(customer_id,charge_id)
 );
 ```
+
+
+comando para listar tabelas:
+```
+DESC tables;
+```
+
+
+comandos de  criar sem validar dados no banco de dados um registro:
+
+```
+INSERT INTO nome_da_tabela (coluna1, coluna2, coluna3) VALUES (valor1, valor2, valor3);
+```
+
+comandos de  atualizar e criar registros validando dados:
+```
+UPDATE nome_da_tabela SET coluna = novo_valor WHERE condição;
+```
+
+comandos de  deletar registros:
+```
+DELETE FROM nome_da_tabela WHERE condição;
+```
+
+
+selecionar dados:
+```
+SELECT *
+FROM charges
+WHERE customer_id = 'abcdefg12345'
+  AND charge_id = '123e4567-e89b-12d3-a456-426655440000';
+```
+
