@@ -39,7 +39,7 @@ cqlsh
 ```
 
 
-lista todos os keyspaces(colunas das tabelas que você pode criar, já que o cassandra não tem tabelas(não vou ficar repetindo isso toda hora, mas achei legal comentar aqui)):
+lista todos os keyspaces(seria os databases do sql):
 ```
 DESC keyspaces;
 ```
@@ -54,3 +54,16 @@ CREATE KEYSPACE <nome_do_keyspace>
  };
 ```
 
+entra em um keyspace:
+```
+USE <nome do keyspace>
+```
+
+
+comando para criar a table:
+```
+CREATE TABLE chardes (
+customer_id UUID, charge_id UUID, amount DECIMAL, created_at TIMESTAMP, status TEXT, coupon TEXT, 
+PRIMARY KEY(customer_id,charge_id)
+);
+```
