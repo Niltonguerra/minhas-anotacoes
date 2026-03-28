@@ -61,8 +61,7 @@ table of contents: Create table of contents
 
 
 
-## como é feito o particionamento dos dados?
-- o que compõe uma chave primária no SGDB colunar:
-
-- curiosidade, talvez possa ser ultil de alguma forma:
-  os dados dentro do cassandra DB são divididos de acordo com a sua chave prim
+## Curiosidade: como é feito o particionamento dos dados?
+- curiosidade, talvez possa ser útil de alguma forma:
+  os dados dentro do cassandra DB são divididos de acordo com a sua chave primária, mais precisamente falando, considerando a imagem acima sobre sistemas distribuídos, os dados são organizados fisicamente(usei essa palavra por falta de palavra melhor) nos nó's de acordo com a chave primária.
+- esse gerenciamento é feito automaticamente pelo  próprio Cassandra
