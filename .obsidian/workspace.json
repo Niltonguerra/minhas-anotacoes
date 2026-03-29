@@ -219,7 +219,8 @@
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "35e355308cd48771",
@@ -239,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 294.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -268,6 +269,7 @@
   },
   "active": "539ae2ad6d0a4127",
   "lastOpenFiles": [
+    "Pasted image 20260329183040.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/01-Qualidade-de-software.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/modulo02.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/2-teste unitário.md",
@@ -295,7 +297,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_10_proximos_passos.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_7_exercitando_o_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_9_resumo_geral_do_assunto.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_4_estudo_aprofundado.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328173635.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328171832.png",

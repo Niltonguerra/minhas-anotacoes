@@ -30,7 +30,20 @@ table of contents: Create table of contents
 	- nesta fase inicial, configuramos o ambiente de teste. Isso inclui a criação dee objetos necessários configurações de mocks (simulações), definição de inputs (entradas) e preparação contexto em que o teste será executado. O objetivo é criar um cenário controlado onde todos os pré- requisitos para executar o teste estão prontamente disponíveis, garantindo um ponto de partida claro e definido. 
 
 ### 2. Ação
-- Após a preparação está etapa envolve  a execução da ação ou função que está sob teste, usando os inputs e o c
+- aqui você realizada o teste simulados usando os recursos gerados no passo 1
+
+- Após a preparação está etapa envolve  a execução da ação ou função que está sob teste, usando os inputs e o contexto definido anteriormente. O foco é no processo de interação com o código para gerar um resultado, permitindo-nos observar o comportamento do código em condições específicas.
 
 ### 3.Assert
-- 
+- valida o resultado do teste do passo 2 com o que esperávamos receber do sistema:
+
+- explicação mais completa:
+- Por fim,  avaliamos os resultados do passo 2, comparando o que foi obtido com o que era esperado. Utilizamos assertivas para verificar esses resultados, estas declarações que falham caso o resultado não corresponda ao esperado. Esta face é crucial para confirmar se o código testado atua conforme as expectativas, validando seu comportamento e garantindo que as funcionalidades atendam às especificações desejadas.
+
+
+exemplo na prática com o jest:
+![[Pasted image 20260329183040.png]]
+
+
+
+
