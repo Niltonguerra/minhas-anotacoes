@@ -4,23 +4,18 @@ tags:
   - Livros/CleanCode
 Livro: CleanCode
 ---
-# Notas conectadas:
-
-
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
-# Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+nessa nota basicamente é falado sobre como opiniões das pessoas e uma visão geral sobre o software e a importância da organização, não fiz muitas anotações, por já concordar com muita coisa, mas uma coisa que achei relevante é  que ele considera o refatoração essencial e não um custo e que um código pronto não precisa ser perfeito, isso, achei muito interessante por conta disso anotei
 
 # Explicação dos tópicos:
 
 
 
+> [!PDF|yellow] [[CodigoLimpo.pdf#page=5&selection=313,0,313,91&color=yellow|CodigoLimpo, p.5]]
+> > E enquanto o retrabalho na metáfora da manufatura leva ao custo, o no projeto leva ao valor
+> 
+> # Notas conectadas:
 
 
+> [!PDF|yellow] [[CodigoLimpo.pdf#page=5&selection=558,7,569,58&color=yellow|CodigoLimpo, p.5]]
+> > Que a refatoração seja parte do conceito de "Pronto", é uma prática recomendada no Scrum. Nem a arquitetura e nem o código limpo exigem perfeição, apenas honestidade e que façamos o melhor de nós. Errar é humano; perdoar é divino.

@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
-                "page": 4,
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/Codigo Limpo - Completo PT.pdf",
+                "page": 5,
                 "left": -15,
-                "top": 732,
-                "zoom": 1.0246795151303743
+                "top": 142,
+                "zoom": 1.0251786791917812
               },
               "icon": "lucide-file-text",
-              "title": "CodigoLimpo"
+              "title": "Codigo Limpo - Completo PT"
             }
           }
         ]
@@ -302,8 +302,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a536b4595b584482",
+  "active": "96ebc48cdbd9ddea",
   "lastOpenFiles": [
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo-anotacao.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/29032026-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/5S.md",
@@ -348,8 +350,6 @@
     "Pasted image 20260112202433.png",
     "notas_permanentes/utilitarios/templates/templates_para_estudo",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode",
-    "notas_bibliograficas/💼 carreira/Livros",
-    "notas_bibliograficas/livros/CodigoLimpo.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
