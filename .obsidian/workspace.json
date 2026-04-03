@@ -219,8 +219,7 @@
               "title": "OZ Calendar"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "35e355308cd48771",
@@ -240,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
