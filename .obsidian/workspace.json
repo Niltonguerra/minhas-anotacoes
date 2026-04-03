@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4a45c720dc223bac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "baa7d204ba1ad49a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/CodigoLimpo.pdf",
-                "page": 8,
-                "left": -15,
-                "top": 513,
-                "zoom": 1.02358943053981
-              },
-              "icon": "lucide-file-text",
-              "title": "CodigoLimpo"
-            }
-          }
-        ]
-      },
-      {
         "id": "0c0d4d94eb87c610",
         "type": "tabs",
+        "dimension": 46.26262626262626,
         "children": [
           {
             "id": "539ae2ad6d0a4127",
@@ -42,6 +21,29 @@
               },
               "icon": "lucide-file",
               "title": "05042026-clean-coded"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b9052f7e25f9522",
+        "type": "tabs",
+        "dimension": 53.73737373737374,
+        "children": [
+          {
+            "id": "f86b3788aaba4a90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+                "page": 7,
+                "left": -14,
+                "top": 245,
+                "zoom": 1.1047936191715686
+              },
+              "icon": "lucide-file-text",
+              "title": "Codigo Limpo - Completo PT"
             }
           }
         ]
@@ -285,14 +287,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "539ae2ad6d0a4127",
+  "active": "f86b3788aaba4a90",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/29032026-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/05042026-clean-coded.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/29032026-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/5S.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/00-regras para as anotações de livros-onde parou a leitura.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/2-teste unitário.md",

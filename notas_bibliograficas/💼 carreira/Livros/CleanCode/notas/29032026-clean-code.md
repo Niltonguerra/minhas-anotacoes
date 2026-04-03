@@ -20,4 +20,3 @@ nessa nota basicamente é falado sobre como opiniões das pessoas e uma visão g
 > [!PDF|yellow] [[CodigoLimpo.pdf#page=5&selection=558,7,569,58&color=yellow|CodigoLimpo, p.5]]
 > > Que a refatoração seja parte do conceito de "Pronto", é uma prática recomendada no Scrum. Nem a arquitetura e nem o código limpo exigem perfeição, apenas honestidade e que façamos o melhor de nós. Errar é humano; perdoar é divino.
 
-![[Codigo Limpo - Completo PT.pdf#page=8&rect=59,674,647,835|Codigo Limpo - Completo PT, p.8]]
