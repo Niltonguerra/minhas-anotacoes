@@ -14,14 +14,3 @@ Date: 2026-01-05T09:47:00
 - toda notação deve ter tags para facilitar a indexação.
 
 
-
-# onde parou a leitura:
-
-[[Codigo Limpo - Completo PT.pdf#page=8|Codigo Limpo - Completo PT, p.8]]
-
-
-
-> [!PDF|yellow] [[CodigoLimpo.pdf#page=7&selection=62,0,68,2&color=yellow|CodigoLimpo, p.7]]
-> > Que porta representa se
-
-
