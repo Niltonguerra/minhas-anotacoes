@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/05042026-clean-coded.md",
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/06042026-clean-code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05042026-clean-coded"
+              "title": "06042026-clean-code"
             }
           }
         ]
@@ -36,7 +36,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf"
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+                "page": 12,
+                "left": -14,
+                "top": 79,
+                "zoom": 1.1047936191715686
               },
               "icon": "lucide-file-text",
               "title": "Codigo Limpo - Completo PT"
@@ -283,11 +287,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "539ae2ad6d0a4127",
+  "active": "f86b3788aaba4a90",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/05042026-clean-coded.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/06042026-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/29032026-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/05042026-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/5S.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro",
