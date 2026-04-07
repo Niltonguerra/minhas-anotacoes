@@ -36,11 +36,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-                "page": 20,
-                "left": -13,
-                "top": 697,
-                "zoom": 1.130968393959444
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Codigo Limpo - Completo PT"
@@ -287,15 +283,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dac891e72c4763c9",
+  "active": "97cceb62c8a53a48",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/4-cleancode.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/3-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/4-cleancode.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/onde parou.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/2-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/0-5S.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/1-clean-code.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/onde parou.md",
     "notas_bibliograficas/💼 carreira/Livros/00-regras para as anotações de livros-onde parou a leitura.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado",
