@@ -6,6 +6,7 @@
       {
         "id": "f2c697fecc395a02",
         "type": "tabs",
+        "dimension": 45.05050505050505,
         "children": [
           {
             "id": "97cceb62c8a53a48",
@@ -13,13 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/00-regras para as anotações de livros-onde parou a leitura.md",
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/4-cleancode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00-regras para as anotações de livros-onde parou a leitura"
+              "title": "4-cleancode"
+            }
+          }
+        ]
+      },
+      {
+        "id": "27dc4c0607b161d8",
+        "type": "tabs",
+        "dimension": 54.94949494949495,
+        "children": [
+          {
+            "id": "dac891e72c4763c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+                "page": 18,
+                "left": -13,
+                "top": 335,
+                "zoom": 1.130968393959444
+              },
+              "icon": "lucide-file-text",
+              "title": "Codigo Limpo - Completo PT"
             }
           }
         ]
@@ -265,15 +289,16 @@
   },
   "active": "97cceb62c8a53a48",
   "lastOpenFiles": [
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/5S.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/06042026-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/4-cleancode.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/3-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/2-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/0-5S.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/1-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/onde parou.md",
     "notas_bibliograficas/💼 carreira/Livros/00-regras para as anotações de livros-onde parou a leitura.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/29032026-clean-code.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/05042026-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/2-teste unitário.md",
@@ -295,7 +320,6 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_8_analise_de_outras_perspectivas_do_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_6_avaliacao_do_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_5_Interacao_do_assunto_com_o_meio.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_1_levantamento_de_informacoes do Model Context Protocol.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328173635.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328171832.png",
