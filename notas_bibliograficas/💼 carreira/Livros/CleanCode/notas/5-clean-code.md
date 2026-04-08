@@ -21,6 +21,15 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 
+código "ruim":
+- falta de clareza
+![[Pasted image 20260408162933.png]]
 
 
+código bom:
+- abstração de lógica, 
+- variáveis claras, 
+- tipagens definida 
+absolute cinema.![[Pasted image 20260408163225.png|210]]
+![[Pasted image 20260408163058.png]]
 
