@@ -8,16 +8,15 @@ Livro: CleanCode
 
 
 # Resumo da nota:
-hoje aprendemos sobre como fazer uma abstração de um código e deixa-lo bonito, também aprendemos algumas dicas de como nomear variaveis como: não usar 'l' ou 'O', não evitar nomes grandes muito parecidos para nome de classes e funções,  evitar o nome de palavras sensíveis no mundo da programação, como List para variavéis
+hoje aprendemos sobre como fazer uma abstração de um código e deixa-lo bonito, também aprendemos algumas dicas de como nomear variaveis como: não usar 'l' ou 'O', não evitar nomes grandes muito parecidos para nome de classes e funções,  evitar o nome de palavras sensíveis no mundo da programação, como List para variáveis
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#melhoria de código:|melhoria de código:]]
+- [[#dicas para escrever nome de variaveis:|dicas para escrever nome de variaveis:]]
 
 # Explicação dos tópicos:
 
+## melhoria de código:
 
 código "ruim":
 - falta de clareza
@@ -31,6 +30,8 @@ código bom:
 absolute cinema.![[Pasted image 20260408163225.png|210]]
 ![[Pasted image 20260408163058.png]]
 
+
+## dicas para escrever nome de variaveis:
 - evite usar nomes muitos longos **e** parecidos ![[Codigo Limpo - Completo PT.pdf#page=28&rect=39,70,660,148|Codigo Limpo - Completo PT, p.28]]
 
 - evite usar List em variáveis para evistar duplo centido:
