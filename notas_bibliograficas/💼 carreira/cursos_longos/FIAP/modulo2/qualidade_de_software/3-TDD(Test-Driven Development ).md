@@ -26,4 +26,7 @@ table of contents: Create table of contents
 	- pode vir do dev
 		- se ele quiser e achar necessário
 
+## reflexão
+- refleti sobre TDD e tomei uma decisão, TDD é tão importante quanto um teste feito depois do código com coverage alto, todavia, ele permite que o dev pense sobre a estrutura de como o código vai ser feito.
+	- **o TDD é muito mais sobre organizar a sua mente para saber o que desenvolver do que realmente deixar o código seguro** 
 
