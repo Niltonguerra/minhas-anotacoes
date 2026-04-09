@@ -7,24 +7,19 @@ tags:
 
 
 # Resumo da nota:
-nessa aula vimos o que é TDD, no caso, 
+nessa aula vimos o que é TDD, no caso, acho que ele é mais uma filosofia, o maior lucro que ele pode gerar e permitir que o dev pare e pense sobre o desenvolvimento do software do que ele vai fazer, planeje em detalhes o que vai fazer, permitindo assim que o código no final seja melhor. ah, o TDD é desenvolvimento dirigido a testes, ou seja, primeiro criar o teste e depois criar o código 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#o que é TDD?|o que é TDD?]]
+- [[#reflexão|reflexão]]
 
 
 # Explicação dos tópicos:
 
-![[Pasted image 20260409112144.png]]
-
+## o que é TDD?
 - você primeiro desenvolve o teste para depois criar o código
 	- pode vir da empresa
 	- pode vir do dev
 		- se ele quiser e achar necessário
-
-
-
 
 ## reflexão
 - refleti sobre TDD e tomei uma decisão, TDD é tão importante quanto um teste feito depois do código com coverage alto, todavia, ele permite que o dev pense sobre a estrutura de como o código vai ser feito.
