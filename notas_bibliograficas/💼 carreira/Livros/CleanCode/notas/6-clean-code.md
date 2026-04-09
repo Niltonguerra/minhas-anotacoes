@@ -20,7 +20,20 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+- não use palavras vagas como info e data
+ex:
+ProductData/ProductInfo
 
 
+exemplo de função ambigua:
 
 
+❌
+```
+
+```
+
+
+```
+
+```
