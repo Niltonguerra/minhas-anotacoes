@@ -8,26 +8,24 @@ Livro: CleanCode
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa nota vimos algumas dicas de como nomear as coisas na programação, sendo elas, não crie nomes ambíguos ou sem significado determinado, além disso também vimos que os nomes devem ser pronunciáveis, além de não precisarem de prefixos ou sufixos e também que devem ter um significado.
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#nomeação de variáveis|nomeação de variáveis]]
+	- [[#nomeação de variáveis#não deve ser ambíguo|não deve ser ambíguo]]
+	- [[#nomeação de variáveis#deve ser pronunciável|deve ser pronunciável]]
+	- [[#nomeação de variáveis#deve ter significado|deve ter significado]]
+	- [[#nomeação de variáveis#não precisa ter prefixo e sufixo|não precisa ter prefixo e sufixo]]
 
 # Explicação dos tópicos:
-
+## nomeação de variáveis
+### não deve ser ambíguo
 - não use palavras vagas como info e data
 ex:
 ProductData/ProductInfo
 
 
-exemplo de função ambigua:
-
-
+exemplo de função ambígua:
 ❌
 ```
 getActicveAccount(); 
@@ -46,6 +44,8 @@ getActiveAccountMetadata();
 - mas claro para que cada função serve
 
 
+
+### deve ser pronunciável
 - crie variáveis que sejam nomeáveis
 ❌
 ![[Pasted image 20260409085149.png]]
@@ -54,13 +54,17 @@ getActiveAccountMetadata();
 ![[Pasted image 20260409085158.png]]
 
 
-
-- para regra geral não use variaveis não declarativas(que não declaram nada)
-	- variaveis de uma letra
+### deve ter significado
+- para regra geral não use variáveis não declarativas(que não declaram nada)
+	- variáveis de uma letra
 		- ex: j,i, e etc
 
 
 
+### não precisa ter prefixo e sufixo
+- hoje em dia, não é mais necessário colocar prefixos e sufixo nas variáveis:
+✅
+![[Pasted image 20260409090445.png]]
 
-- hoje em dia, não é mais necessário colocar prefixos e pós-fixo nas variáveis:
-- 
+❌
+![[Pasted image 20260409090456.png]]

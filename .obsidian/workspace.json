@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/6-clean-code.md",
+                "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/3-clean-code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "6-clean-code"
+              "title": "3-clean-code"
             }
           }
         ]
@@ -35,9 +35,9 @@
               "type": "pdf",
               "state": {
                 "file": "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-                "page": 30,
+                "page": 32,
                 "left": -15,
-                "top": 139,
+                "top": 160,
                 "zoom": 1.0240880635756198
               },
               "icon": "lucide-file-text",
@@ -287,13 +287,18 @@
   },
   "active": "a1942e1ab10d9cfb",
   "lastOpenFiles": [
-    "Pasted image 20260409085158.png",
-    "Pasted image 20260409085149.png",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/2-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/1-clean-code.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/0-5S.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260409090456.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/6-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/onde parou.md",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260409090445.png",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260409085158.png",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260409085149.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/5-clean-code.md",
-    "Pasted image 20260408164631.png",
+    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408164631.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408163058.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408163225.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260329183040.png",
@@ -301,9 +306,6 @@
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/4-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/3-clean-code.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/2-clean-code.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/0-5S.md",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/notas/1-clean-code.md",
     "notas_bibliograficas/💼 carreira/Livros/00-regras para as anotações de livros-onde parou a leitura.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado",
@@ -327,10 +329,7 @@
     "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/protocolo_MCP_Model_Context_Protocol/part_8_analise_de_outras_perspectivas_do_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328173635.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328171832.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328121859.png",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260328114127.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-colunares",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-documentais",
     "Sem título.canvas",

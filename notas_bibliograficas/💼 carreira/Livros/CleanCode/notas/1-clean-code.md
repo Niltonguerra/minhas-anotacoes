@@ -5,8 +5,7 @@ tags:
 Livro: CleanCode
 ---
 # Resumo da nota:
-nessa nota basicamente é falado sobre como opiniões das pessoas e uma visão geral sobre o software e a importância da organização, não fiz muitas anotações, por já concordar com muita coisa, mas uma coisa que achei relevante é  que ele considera o refatoração essencial e não um custo e que um código pronto não precisa ser perfeito, isso, achei muito interessante por conta disso anotei
-
+nessa nota basicamente é falado sobre como opiniões das pessoas e uma visão geral sobre o software e a importância da organização, não fiz muitas anotações, por já concordar com muita coisa, mas uma coisa que achei relevante é  que ele considera o refatoração essencial e não um custo e que um código pronto não precisa ser perfeito.
 # Explicação dos tópicos:
 
 
