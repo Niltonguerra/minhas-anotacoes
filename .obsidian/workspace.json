@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/5-teste-BDD.md",
+                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/5-teste-BDD(Behavior driven development).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5-teste-BDD"
+              "title": "5-teste-BDD(Behavior driven development)"
             }
           }
         ]
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -266,8 +267,10 @@
   },
   "active": "120e80625875f3e5",
   "lastOpenFiles": [
+    "Pasted image 20260409142750.png",
+    "Pasted image 20260409142521.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/4-testes de integração.md",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/5-teste-BDD.md",
+    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/5-teste-BDD(Behavior driven development).md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/3-TDD(Test-Driven Development ).md",
     "Pasted image 20260409112144.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/2-teste unitário.md",
@@ -289,7 +292,6 @@
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408163058.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408163225.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260329183040.png",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img/Pasted image 20260408162933.png",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/img",
     "notas_bibliograficas/💼 carreira/Livros/00-regras para as anotações de livros-onde parou a leitura.md",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
@@ -307,7 +309,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 04 – Limpeza de Dados e Normalização de textos.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 04 – Limpeza de Dados Textuais e Normalização de Texto.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/OneDrive-Fatec-Centro-Paula-Souza/6semestre/processamento de linguagem natural/Aula 03 - Ferramentas para PLN.md",
-    "notas_bibliograficas/💼 carreira/cursos_curtos/autodidata/trabalhando com theads no node/part_7_exercitando_o_assunto.md",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/DBASS",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco-de-dados-colunares",
