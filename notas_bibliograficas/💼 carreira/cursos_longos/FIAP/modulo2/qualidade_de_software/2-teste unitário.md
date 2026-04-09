@@ -1,7 +1,7 @@
 ---
 Date: 2026-04-09T18:15:00
 tags:
-  - fiap/modulo02/qualidadeDeSoftware
+  - fiap/modulo02/qualidadeDeSoftware/testes
 ---
 # Notas conectadas:
 
