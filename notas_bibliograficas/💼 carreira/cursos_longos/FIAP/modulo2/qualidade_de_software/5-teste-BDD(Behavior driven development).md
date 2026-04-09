@@ -7,14 +7,13 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa aula vimos um pouco sobre BDD, no caso ele é escrito em gherkin, e usa algumas palavras chave para facilitar a leitura e interpretação das pessoas
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#o que é?|o que é?]]
+- [[#características:|características:]]
+- [[#como escrever em Gherkin:|como escrever em Gherkin:]]
+	- [[#como escrever em Gherkin:#exemplo de BDD em Gherkin:|exemplo de BDD em Gherkin:]]
+	- [[#como escrever em Gherkin:#outro exemplo de BDD:|outro exemplo de BDD:]]
 
 
 # Explicação dos tópicos:
@@ -25,12 +24,9 @@ table of contents: Create table of contents
 
 
 ## características:
-- é usado o Gherkin como linguagem para o BDD
-	- se parece muito com a linguagem natural
+- usa a linguagem Gherkin
+	- se parece com linguagem natural
 - se foca no comportamento do sistema da perspectiva do usuário.
-
-
-
 
 
 ## como escrever em Gherkin:
@@ -40,6 +36,12 @@ pontos para escrever em Gherkin:
 ### exemplo de BDD em Gherkin:
 ![[Pasted image 20260409142750.png]]
 	-o texto na penultima linha está cortado, mas o que está escrito é "núcleo"
+- perceba que as palavras **'Cenário','Dado', 'Quando' e  'Então' (e embora não esteja sendo usado nesse caso 'E')** estão sendo usados no exemplo acima, isso caracteriza o BDD. 
+
+- quem escreve o BDD normalmente é o QA e não o DEV.
 
 
 
+
+### outro exemplo de BDD:
+![[Pasted image 20260409143529.png]]
