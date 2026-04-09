@@ -1,5 +1,5 @@
 ---
-Date: 2026-03-29T18:15:00
+Date: 2026-04-09T18:15:00
 tags:
   - fiap/modulo02/qualidadeDeSoftware
 ---
@@ -18,11 +18,6 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
-
-
-
-
 ## padrão dos 3 A's para testes unitários:
 ### 1.Arrange:
 - preparar o ambiente para os testes:
@@ -41,9 +36,7 @@ table of contents: Create table of contents
 - Por fim,  avaliamos os resultados do passo 2, comparando o que foi obtido com o que era esperado. Utilizamos assertivas para verificar esses resultados, estas declarações que falham caso o resultado não corresponda ao esperado. Esta face é crucial para confirmar se o código testado atua conforme as expectativas, validando seu comportamento e garantindo que as funcionalidades atendam às especificações desejadas.
 
 
-exemplo na prática com o jest:
+exemplo na prática com o Jest:
 ![[Pasted image 20260329183040.png]]
-
-
 
 
