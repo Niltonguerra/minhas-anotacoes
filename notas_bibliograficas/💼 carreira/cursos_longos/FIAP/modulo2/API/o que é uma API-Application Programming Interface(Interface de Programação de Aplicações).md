@@ -18,7 +18,23 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
+ um endpoint tem:
+ - adresses
+	 - endereço do endpoint
+	   ex:http://google.com 
+- bindings
+	- como se conectar ao endpoint
+		- ex:
+			- protocolo de comunicação
+				- http,https,soap,webSocket e etc
+- contracts
+	- parametros para dar e receber
+		- ex:
+			- tokens
+			- DTO's
+			- Types
+			- etc
+			- tudo o que define o contrato entre "cliente" e "servidor"
 
 
 
