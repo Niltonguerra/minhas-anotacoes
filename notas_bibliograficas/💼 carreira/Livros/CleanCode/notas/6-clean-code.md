@@ -45,3 +45,22 @@ getActiveAccountMetadata();
 ```
 - mas claro para que cada função serve
 
+
+- crie variáveis que sejam nomeáveis
+❌
+![[Pasted image 20260409085149.png]]
+
+✅
+![[Pasted image 20260409085158.png]]
+
+
+
+- para regra geral não use variaveis não declarativas(que não declaram nada)
+	- variaveis de uma letra
+		- ex: j,i, e etc
+
+
+
+
+- hoje em dia, não é mais necessário colocar prefixos e pós-fixo nas variáveis:
+- 
