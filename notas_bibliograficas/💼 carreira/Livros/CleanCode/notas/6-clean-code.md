@@ -33,6 +33,7 @@ getActiveAccounts();
 getActiveAccountInfo();
 ```
 - difícil de entender o uso das funções
+- nomes parecidos
 
 
 ✅

@@ -8,18 +8,10 @@ Livro: CleanCode
 
 
 # Resumo da nota:
-nessa nota li mais declarações do que as pessoas acham um código bonito, boa parte eu já concordava então não achei nada muito memorável exceto essa de que nosso código deve ser decisivo, eu não devo tentar tratar algo que não sei, não devo fazer uma coisa só por que eu estou com medo do código quebrar, se eu já comei contra medidas com relação ao problema não devo encher de tratativas de erros redundantes
-
-# Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+nessa nota li mais declarações do que as pessoas acham um código bonito, boa parte eu já concordava então não achei nada muito memorável exceto essa de que nosso código deve ser decisivo, eu não devo tentar tratar algo que não sei, não devo fazer uma coisa só por que eu estou com medo do código quebrar, se eu já fiz medidas contra com relação ao problema não devo encher de tratativas de erros redundantes
 
 
 # Explicação dos tópicos:
-
-
-
 
 ![[Codigo Limpo - Completo PT.pdf#page=18&rect=33,137,649,178|Codigo Limpo - Completo PT, p.18]]
 

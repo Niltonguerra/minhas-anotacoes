@@ -34,9 +34,9 @@ absolute cinema.![[Pasted image 20260408163225.png|210]]
 ## dicas para escrever nome de variaveis:
 - evite usar nomes muitos longos **e** parecidos ![[Codigo Limpo - Completo PT.pdf#page=28&rect=39,70,660,148|Codigo Limpo - Completo PT, p.28]]
 
-- evite usar List em variáveis para evistar duplo centido:
+- evite usar List em variáveis para evitar duplo sentido:
   ![[Codigo Limpo - Completo PT.pdf#page=28&rect=50,151,662,217|Codigo Limpo - Completo PT, p.28]]
-- evite usar 'l' minusculo e 'O' maiusculo por que se parecem muito com 1 e 0
+- evite usar 'l' minusculo e 'O' maiúsculo por que se parecem muito com 1 e 0
   
   - evite usar a1,a2,a3,a4 e etc.
     - isso não é um nome de variável claro:
