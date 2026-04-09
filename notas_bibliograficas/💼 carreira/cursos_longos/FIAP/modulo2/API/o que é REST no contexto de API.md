@@ -39,6 +39,10 @@ o que precisa ter:
 para ser considerado RESTful é preciso ter:
 - padrão na identificação dos recursos
 - uso correto dos métodos HTTP
-- c
-
-## Diferenças entre REST e RESTful
+- comunicação stateless
+	- quer dizer que cada requisição para cada endpoint deve ser tratada isoladamente
+- representação de recursos
+	- disponibilizar os dados em diferentes formatos, ex: json,xml e etc
+- hipermídia-HATEOAS( _Hypermedia as the Engine of Application State_)
+- usar códigos de status HTTP
+- o dado deve ser acessível em qualquer plataforma desejada(web/desktop/mobile e outros se existir...)
