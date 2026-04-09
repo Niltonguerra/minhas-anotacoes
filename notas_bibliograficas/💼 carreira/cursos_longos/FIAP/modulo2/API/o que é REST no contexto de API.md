@@ -19,9 +19,26 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 ## O que é REST?
-
-
+os níveis são acumulativos, logo: o nível 2 também inclui o nível 0,1 e 2, o nível 3 incluir o nível 0,1,2 e 3 e assim por diante
+o que precisa ter:
+- nível 0:
+	- não tem padrão nem nada
+- nível 1-Recursos:
+	- começa a ter padrão
+	- por exemplo:
+		- organizar por rotas
+			- ex: /cliente, /produto e etc
+- nível 2-verbos HTTP:
+	- usa agora os metodos corretos:
+		- como put e patch corretamente
+		- 
+- nível 3-HATEOAS( _Hypermedia as the Engine of Application State_):
+	- nesse nível a gente coloca dentro da resposta do endpoint todos as outras rotas que tem alguma coisa a ver com o endpoint acessado.
+	
 ## O que é RESTful?
-
+para ser considerado RESTful é preciso ter:
+- padrão na identificação dos recursos
+- uso correto dos métodos HTTP
+- c
 
 ## Diferenças entre REST e RESTful
