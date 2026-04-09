@@ -1,6 +1,8 @@
 ---
 Date: 2025-09-01T20:47:00
-tags: []
+tags:
+  - fiap/modulo02
+  - fiap/modulo02/API
 ---
 # Notas conectadas:
 
