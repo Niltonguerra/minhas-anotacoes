@@ -30,10 +30,18 @@ exemplo de função ambigua:
 
 ❌
 ```
-
+getActicveAccount(); 
+getActiveAccounts();
+getActiveAccountInfo();
 ```
+- difícil de entender o uso das funções
 
 
+✅
 ```
-
+getActiveAccount(); 
+getAllActiveAccounts();
+getActiveAccountMetadata();
 ```
+- mas claro para que cada função serve
+
