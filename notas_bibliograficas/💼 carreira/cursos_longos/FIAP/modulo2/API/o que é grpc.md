@@ -8,18 +8,14 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos o que é rpc e grpc, sendo o grpc um tipo de rpc, o grpc é um protocolo de comunicação entre 'cliente' e 'servidor' muito utilizados em arquiteturas de micro serviços; já o rpc é um conceito mais amplo, representa quando uma máquina local usa recursos remotos como se estivessem localmente
 
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#o que é rpc?|o que é rpc?]]
+- [[#o que é grpc?|o que é grpc?]]
 
 # Explicação dos tópicos:
-
 
 ## o que é rpc?
 O RPC(remote procedure call) é uma tecnologia para desenvolvimento de programas distribuídos client/server de comunicação de alto nível no sistema operacional.
