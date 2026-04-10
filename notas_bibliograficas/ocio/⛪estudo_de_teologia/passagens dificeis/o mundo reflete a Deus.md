@@ -35,3 +35,16 @@ Jó 38:39-41
 ³⁹ Porventura caçarás tu presa para a leoa, ou saciarás a fome dos filhos dos leões,
 ⁴⁰ Quando se agacham nos covis, e estão à espreita nas covas?
 ⁴¹ Quem prepara aos corvos o seu alimento, quando os seus filhotes gritam a Deus e andam vagueando, por não terem o que comer?
+
+
+## questão a ser desenvolvida: Se o mundo reflete a Deus, por que animais pequenos são comidos por animais maiores e esses últimos são comidos por animais ainda maiores?
+- sendo sincero não sei,
+- C.S Lewis grande teólogo dedicou um capitulo inteiro em seu livro 'o problema da Dor' e admitiu que não tem resposta definitiva e fácil de aceitar
+	- p.s: eu não li o livro estou fazendo com base em uma pesquisa na internet
+
+## mas existem 3 caminhos Teologicos para encarar isso:
+### 1 o que a criação revela não é a bondade de Deus, mas a grandeza de Deus
+- na minha opinião essa é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
+
+### 
+  
