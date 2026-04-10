@@ -42,10 +42,20 @@ Jó 38:39-41
 - C.S Lewis grande teólogo dedicou um capitulo inteiro em seu livro 'o problema da Dor' e admitiu que não tem resposta definitiva e fácil de aceitar
 	- p.s: eu não li o livro estou fazendo com base em uma pesquisa na internet
 
-## mas existem 3 caminhos Teologicos para encarar isso:
-### 1 o que a criação revela não é a bondade de Deus, mas a grandeza de Deus
-- na minha opinião essa é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
+## linha de pensamento sobre esse assunto: 
+### 1 o que a criação revela não é a bondade de Deus, mas a grandeza de Deus.
+#### problema:na minha opinião essa é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
 
+### 2 a Teologia cristã tenta explicar
+- na Teologia cristã a gente fala que o mundo possui algum tipo de desorgem
+	- em Romanos 8:20-22 fala:
+		²⁰ Porque a criação ficou sujeita à vaidade, não por sua vontade, mas por causa do que a sujeitou,
+		²¹ Na esperança de que também a mesma criatura será libertada da servidão da corrupção, para a liberdade da glória dos filhos de Deus.
+		²² Porque sabemos que toda a criação geme e está juntamente com dores de parto até agora.
+
+- a natureza predatória pode tentar ser lida nesse cotexto
+
+#### problema: mas se tudo está sujeito a Deus, tanto que o Diabo teve que pedir permissão de Deus para tocar em Jó, porque Deus permitiu que os animais sofressem? eu sei que as vezes Deus permite que o inimigo nos prove 
 
 
 
