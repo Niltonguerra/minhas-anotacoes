@@ -47,4 +47,11 @@ Jó 38:39-41
 - na minha opinião essa é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
 
 ### 
-  
+
+
+
+## minha opinião/reflexão
+
+	-vou escrever logo essa parte por que não vou terminar hoje, logo, não quero manter isso na minha cabeça durante o dia inteiro e não sei nem por quantos dias.
+
+essa não é uma passagem fácil, até C.S. Lewis, um grande Teólogo, não soube responder essa resposta por completo, eu sinceramente nem me atrevo a tentar responder ela, sei que talvez eu não tenha estrutura para isso e acho que talvez ninguém; mas enfim, o que quero falar é que eu não sei o porque da cadeia alimentar nem como isso revela a natureza de Deus que é amor e justiça e difícil de entender e quero me esconder debaixo de uma pedra toda vez que penso sobre isso, assim como também fugir desse assunto pois não é um assunto fácil, é difícil e doí, mas talvez em minha ignorância a resposta para isso seja, Deus é bom para quem o serve e não é bom/ se retira(falo isso por que é outro ponto difícil que )
