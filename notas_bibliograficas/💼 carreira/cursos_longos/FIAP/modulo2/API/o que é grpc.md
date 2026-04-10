@@ -26,4 +26,99 @@ O gRPC trabalha com protobuf(protocol buffers), método criado e utilizado pelo 
 - basicamente é atualmente a melhor forma de transferir dados serializados entre duas aplicações(client/server)
 
 
-exemplo de código em grc
+## exemplo de código em grpc:
+repo de referência: https://github.com/Niltonguerra/nest-grpc
+```
+syntax = "proto3";
+
+  
+
+package fullcycle;
+
+  
+
+service OrderService{
+
+rpc CreateOrder (CreateOrderRequest) returns (CreateOrderResponse) {};
+
+rpc FindAllOrders (FindAllOrdersRequest) returns (FindAllOrdersResponse) {};
+
+rpc FindOneOrder (FindOneOrderRequest) returns (FindOneOrderResponse) {};
+
+}
+
+  
+
+message CreateOrderRequest {
+
+string account_id = 1;
+
+string asset_id = 2;
+
+int32 quantity = 3;
+
+}
+
+  
+
+message Order {
+
+string order_id = 1;
+
+string account_id = 2;
+
+string asset_id = 3;
+
+int32 quantity = 4;
+
+string status = 5;
+
+}
+
+  
+
+message CreateOrderResponse {
+
+Order order = 1;
+
+}
+
+  
+
+message FindAllOrdersRequest {
+
+string account_id = 1;
+
+}
+
+  
+  
+
+message FindAllOrdersResponse {
+
+repeated Order orders = 1;
+
+}
+
+  
+
+message FindOneOrderRequest {
+
+string order_id = 1;
+
+}
+
+  
+
+message FindOneOrderResponse {
+
+Order order = 1;
+
+}
+
+  
+  
+
+//stub - classes que habilitam a comunicação entre client e server, elas permiter a comunicação via grpc
+
+```
