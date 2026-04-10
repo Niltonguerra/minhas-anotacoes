@@ -7,19 +7,13 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa aula vimos sobre graphQL, no vimos que ele facilita na manutenção da api e também diminui a quantidade de dados trafegados na rede.
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#o que é graphQL?|o que é graphQL?]]
+- [[#quais são os benefícios de usar o GraphQL?|quais são os benefícios de usar o GraphQL?]]
 
 # Explicação dos tópicos:
-
-
 ## o que é graphQL?
 - é basicamente uma outra forma de buscar os dados
 - ele é uma linguagem de consulta, uma alternativa ao REST
