@@ -24,3 +24,6 @@ O RPC(remote procedure call) é uma tecnologia para desenvolvimento de programas
 O gRPC trabalha com protobuf(protocol buffers), método criado e utilizado pelo google para serializar dados estruturados, tornando a comunicação entre serviços mais eficiente. Ele é uma forma simples e agnóstica com relação a linguagem de se definir uma estrutura de dados como XML, só que mais rápido e mais simples
 
 - basicamente é atualmente a melhor forma de transferir dados serializados entre duas aplicações(client/server)
+
+
+exemplo de código em grc
