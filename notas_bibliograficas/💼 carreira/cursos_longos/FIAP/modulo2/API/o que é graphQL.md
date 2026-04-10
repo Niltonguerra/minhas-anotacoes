@@ -1,6 +1,7 @@
 ---
-Date: ""
-tags: []
+Date: 2026-04-09T22:16:00
+tags:
+  - fiap/modulo02/API
 ---
 # Notas conectadas:
 
@@ -21,9 +22,10 @@ table of contents: Create table of contents
 
 ## o que é graphQL?
 - é basicamente uma outra forma de buscar os dados
-- ele é uma opção ao padrão REST
+- ele é uma linguagem de consulta, uma alternativa ao REST
 
 
-
-
-
+## quais são os benefícios de usar o GraphQL?
+- diminui a quantidade de dados trafegando na rede
+- facilita o versionamento da API
+- 
