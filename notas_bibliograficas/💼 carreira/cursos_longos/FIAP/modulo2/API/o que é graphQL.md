@@ -28,4 +28,11 @@ table of contents: Create table of contents
 ## quais são os benefícios de usar o GraphQL?
 - diminui a quantidade de dados trafegando na rede
 - facilita o versionamento da API
-- 
+- diminui a quantidade de rotas criadas
+	- diminui o escopo da manutenção/refatoração
+
+
+![[Pasted image 20260409223658.png]]
+
+
+
