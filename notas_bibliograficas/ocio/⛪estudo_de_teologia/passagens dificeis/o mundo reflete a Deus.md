@@ -44,7 +44,7 @@ Jó 38:39-41
 
 ## linha de pensamento sobre esse assunto: 
 ### 1 o que a criação revela não é a bondade de Deus, mas a grandeza de Deus.
-#### problema:na minha opinião essa é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
+#### problema:na minha opinião essa afirmação é complicada por conta da passagem de romanos 1:20 por conta que fala não só da revelação de seu poder, mas também da revelação da sua natureza divina.
 
 ### 2 a Teologia cristã tenta explicar
 - na Teologia cristã a gente fala que o mundo possui algum tipo de desorgem
@@ -57,7 +57,6 @@ Jó 38:39-41
 
 #### problema: mas se tudo está sujeito a Deus, tanto que o diabo teve que pedir permissão de Deus para tocar em Jó, porque Deus permitiu que os animais sofressem? eu sei que as vezes Deus permite que o inimigo nos prove para testar a nossa fé, mas porque Deus  permite que os animais sofram desde a criação do mundo?
 - Resposta: eu não sei, mas eu acredito que Deus tem um bom motivo, mesmo que eu não saiba, é fé afinal
-
 
 
 ## minha opinião/reflexão
