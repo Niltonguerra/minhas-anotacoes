@@ -55,7 +55,8 @@ Jó 38:39-41
 
 - a natureza predatória pode tentar ser lida nesse cotexto
 
-#### problema: mas se tudo está sujeito a Deus, tanto que o Diabo teve que pedir permissão de Deus para tocar em Jó, porque Deus permitiu que os animais sofressem? eu sei que as vezes Deus permite que o inimigo nos prove 
+#### problema: mas se tudo está sujeito a Deus, tanto que o diabo teve que pedir permissão de Deus para tocar em Jó, porque Deus permitiu que os animais sofressem? eu sei que as vezes Deus permite que o inimigo nos prove para testar a nossa fé, mas porque Deus  permite que os animais sofram desde a criação do mundo?
+- Resposta: eu não sei, mas eu acredito que Deus tem um bom motivo, mesmo que eu não saiba, é fé afinal
 
 
 
