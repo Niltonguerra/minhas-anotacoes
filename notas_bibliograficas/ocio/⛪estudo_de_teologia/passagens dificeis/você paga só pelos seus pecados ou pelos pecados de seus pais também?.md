@@ -22,7 +22,7 @@ table of contents: Create table of contents
 
 ## passagem:
 
-Deuteronômio
+Deuteronômio 5:4-9
  4No monte, o Senhor falou com vocês face a face do meio do fogo. 5Eu servi de intermediário entre o Senhor e vocês, pois vocês tiveram medo do fogo e não quiseram se aproximar do monte. Ele falou comigo, e eu lhes transmiti suas palavras. Foi isto que ele disse:
 
 6“Eu sou o Senhor, seu Deus, que o libertou da terra do Egito, onde você era escravo.

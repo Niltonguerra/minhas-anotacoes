@@ -19,6 +19,8 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 ## passagem:
+Números 31
+
 1O Senhor disse a Moisés: 2“Vingue-se dos midianitas pelo que fizeram aos israelitas. Depois disso, você morrerá e será reunido a seus antepassados”.
 
 3Então Moisés disse ao povo: “Escolham e armem alguns homens para lutarem na vingança do Senhor contra Midiã. 4De cada tribo de Israel, enviem mil homens para a batalha”. 5Assim, escolheram mil homens de cada tribo de Israel, no total de doze mil homens armados para guerrear. 6Moisés enviou mil homens de cada tribo, sob o comando de Fineias, filho do sacerdote Eleazar. Fineias levou consigo os objetos sagrados e as trombetas para dar a ordem de ataque. 7Atacaram Midiã, como o Senhor havia ordenado a Moisés, e mataram todos os homens. 8Os cinco reis midianitas morreram na batalha: Evi, Requém, Zur, Hur e Reba. Também mataram à espada Balaão, filho de Beor.

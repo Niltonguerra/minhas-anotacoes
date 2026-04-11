@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: []
+tags:
+  - Teologia/passagensDificeis
 ---
 # Notas conectadas:
 
@@ -17,6 +18,11 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+
+## passagem:
+Deuteronômio 23:24-25
+
+24“Quando entrarem no vinhedo de seu vizinho, poderão comer uvas até se saciarem, mas não as levem num cesto. 25E, quando entrarem no campo de um vizinho, poderão apanhar as espigas de cereal com a mão, mas não usem a foice para cortá-las.”
 
 
 
