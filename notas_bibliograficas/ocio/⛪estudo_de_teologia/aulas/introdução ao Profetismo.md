@@ -2,7 +2,7 @@
 Date: 2024-11-09
 tags:
   - Teologia/aulas
-  - Teologia/Profetismo
+  - Teologia/AulaTeologica/Profetismo
 ---
 # Notas conectadas:
 Aula de análise para saber se vale a pena assinar a aula de teologia
