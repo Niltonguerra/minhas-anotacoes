@@ -1,7 +1,6 @@
 ---
 Date: 2026-04-10T06:24:00
 tags:
-  - Teologia/passagensDificeis/OMundoRefleteADeus
   - Teologia/passagensDificeis
 ---
 # Notas conectadas:
