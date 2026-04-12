@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-04-12T13:47:00
 tags:
   - Teologia/passagensDificeis
 ---
