@@ -7,18 +7,14 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos que na passagem de Marcos 2:23-28 Jesus Cristo não roubou, mas sim, já estava previsto que ele poderia pegar da plantação de outro sem pedir.
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#passagem:|passagem:]]
+- [[#explicação|explicação]]
+- [[#opinião/ reflexão:|opinião/ reflexão:]]
 
 # Explicação dos tópicos:
-
 ## passagem:
 
 Deuteronômio 23:24-25
@@ -37,6 +33,10 @@ Marcos 2:23-28
 ²⁸ Assim o Filho do homem até do sábado é Senhor.
 
 ## explicação
-- nessa passagem o que me deixa curioso não é que Jesus diz que o sábado foi feito para o homem e não o contrário, mas que Jesus estava passando e 
+- nessa passagem o que me deixa curioso não é que Jesus diz que o sábado foi feito para o homem e não o contrário, mas que Jesus estava passando e do nada pega da colheita de outra pessoa sem permissão para comer, ou seja, aparenta roubo
+	- mas se você for ver em Deuteronômio 23:24-25, você vê que não é bem assim, é liberado pegar a comida de outra, não é roubo segundo a bíblia, interessante, né? e  ainda mais no cenário de uma possível 3 guerra mundial
+
+## opinião/ reflexão:
+sempre fiquei na dúvida sobre essa passagem e ninguém me explicava isso, fico feliz de ter encontrado essa passagem para tirar minha dúvida sozinho, que felicidade 😆.
 
 
