@@ -95,11 +95,28 @@ table of contents: Create table of contents
 > [!NOTE]
 > essa passagem é difícil, sem sombra de dúvidas, eu fico pensando sobre isso, para ser franco eu pesquisei isso no claude, e a resposta dele me satisfez então vou só transcrever o que ele falou aqui:
 > 
-### linhas de pensamento:
-#### linha 1o pecado dos pais realmente afeta os filhos
+
+### possíveis causas/formas de os filhos pagarem pelos pecados dos pais:
+
+### o pecado dos pais realmente afeta os filhos
 - Seja como consequência de traumas na infância, da pobreza, da cultura ou da estrutura social em que vivem, não podemos negar esses impactos.
 	-  Quero apenas comentar um caso que ouvi: um casal que fazia uso de drogas teve um filho e, infelizmente, durante a gestação, o bebê foi exposto às substâncias consumidas pela mãe. Como resultado, ao nascer, apresentou sequelas e crises de abstinência 
 		-  mesmo nunca tendo usado drogas diretamente, já que sua exposição ocorreu ainda no útero.
+
+### as vezes é para demonstrar a glória de Deus
+em João 9:2-5 Jesus Cristo fala
+
+> ² E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego?
+> ³ Jesus respondeu: Nem ele pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus.
+> ⁴ Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar.
+> ⁵ Enquanto estou no mundo, sou a luz do mundo.> 
+> João 9:2-5> 
+
+nesse caso em especifico,o sofrimento do homem foi para mostrar a glória de Deus
+- todavia, não podemos dizer que isso é para todo caso, já que não podemos provar intrinsecamente isso.
+	- tendo isso em vista, me reservo nesse aspecto para comentar sobre isso.
+
+
 
 
 ### conclusão: todas as linhas de pensamento concordam em uma coisa:
