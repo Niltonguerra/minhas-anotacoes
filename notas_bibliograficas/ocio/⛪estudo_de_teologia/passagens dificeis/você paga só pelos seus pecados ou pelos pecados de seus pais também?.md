@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-04-13T13:23:00
 tags:
   - Teologia/passagensDificeis
 ---
@@ -8,14 +8,18 @@ tags:
 
 
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa nota vimos se os filhos pagam pelos pecados dos pais e sim, isso acontece, mas é apenas aqui na terra no dia do juízo final, cada um vai pagar pelos seus próprios pecados.
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#passagem:|passagem:]]
+	- [[#passagem:#passagens que falam sobre ser punido pelo erro dos pais:|passagens que falam sobre ser punido pelo erro dos pais:]]
+	- [[#passagem:#passagens que falam sobre não ser punido pelo erro dos pais:|passagens que falam sobre não ser punido pelo erro dos pais:]]
+	- [[#passagem:#|]]
+- [[#Explicação|Explicação]]
+	- [[#Explicação#possíveis causas/formas de os filhos pagarem pelos pecados dos pais:|possíveis causas/formas de os filhos pagarem pelos pecados dos pais:]]
+	- [[#Explicação#o pecado dos pais realmente afeta os filhos|o pecado dos pais realmente afeta os filhos]]
+	- [[#Explicação#as vezes é para demonstrar a glória de Deus|as vezes é para demonstrar a glória de Deus]]
+	- [[#Explicação#conclusão: todas as linhas de pensamento concordam em uma coisa:|conclusão: todas as linhas de pensamento concordam em uma coisa:]]
+- [[#Opinião/reflexão|Opinião/reflexão]]
 
 
 # Explicação dos tópicos:
@@ -123,4 +127,9 @@ nesse caso em especifico,o sofrimento do homem foi para mostrar a glória de Deu
 **isso não implica que os filhos vão responder pelo pecado moral dos pais no dia do juízo final**
 - mesmo que eles sofram as consequências aqui na terra, como por exemplo as crianças que foram comidas pelos próprios pais durante o exílio da babilônia, ainda que elas sofram pelos erros dos pais aqui na terra, no dia do juízo final, elas só iram responder pelos seus próprios pecados assim como os pais 
 
+***Deus permite que consequências naturais e sociais do pecado se propaguem — isso é parte da realidade do mundo caído — mas o juízo moral é estritamente pessoal***
+
+
+
 ## Opinião/reflexão
+essa é uma passagem difícil, assim como todas as outras que tinha comentado antes nesse contexto dessas notas, realmente, o que vou falar, mas mesmo sabendo que os filhos pagam aqui na terra pelos erros dos pais indiretamente ou diretamente, não tem o que eu possa fazer. eu vou continuar acreditando em Deus e tentando melhor a Deus, sei que não sou perfeito e já cometi varias coisas erradas, mas mesmo assim, como eu sempre digo nessas notas, não podemos perder o porque começamos nessa caminhada, Jesus Cristo, filho de Deus, eu creio que Ele existiu e que Ele é o filho de Deus que veio ao mundo e que nas palavras Dele estão a vida eterna, por conta disso vou continuar a servir Ele e tentar melhorar a Deus, mesmo que eu não entenda o porque de Deus permitir a dor e o sofrimento.
