@@ -95,9 +95,15 @@ table of contents: Create table of contents
 > [!NOTE]
 > essa passagem é difícil, sem sombra de dúvidas, eu fico pensando sobre isso, para ser franco eu pesquisei isso no claude, e a resposta dele me satisfez então vou só transcrever o que ele falou aqui:
 > 
+### linhas de pensamento:
+#### linha 1o pecado dos pais realmente afeta os filhos
+- Seja como consequência de traumas na infância, da pobreza, da cultura ou da estrutura social em que vivem, não podemos negar esses impactos.
+	-  Quero apenas comentar um caso que ouvi: um casal que fazia uso de drogas teve um filho e, infelizmente, durante a gestação, o bebê foi exposto às substâncias consumidas pela mãe. Como resultado, ao nascer, apresentou sequelas e crises de abstinência 
+		-  mesmo nunca tendo usado drogas diretamente, já que sua exposição ocorreu ainda no útero.
 
-### o pecado dos pais realmente afeta os filhos, seja como conseguencia de traumas nas crianças, pobreza, cultura ou estrutura em que vivem, não podemos negar isso, apenas passando por um caso que ouvi falar, um casal que usava drogas teve um filho, mas infelizmente o filho deles por conta de eles usarem drogas teve sequelas por conta disso e acabou desde o nascimento sofrendo que crises de abstinencia de drogas mesmo nunca tendo usado as mesmas diretamente apenas via os pais, isso realmente é bem critico não?
 
-
+### conclusão: todas as linhas de pensamento concordam em uma coisa:
+**isso não implica que os filhos vão responder pelo pecado moral dos pais no dia do juízo final**
+- mesmo que eles sofram as consequências aqui na terra, como por exemplo as crianças que foram comidas pelos próprios pais durante o exílio da babilônia, ainda que elas sofram pelos erros dos pais aqui na terra, no dia do juízo final, elas só iram responder pelos seus próprios pecados assim como os pais 
 
 ## Opinião/reflexão
