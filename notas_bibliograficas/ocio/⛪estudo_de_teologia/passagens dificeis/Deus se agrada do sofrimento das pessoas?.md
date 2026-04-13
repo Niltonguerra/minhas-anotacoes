@@ -31,5 +31,5 @@ Deus é Amor e também Justiça, o amor é fácil de entender, já que amar é e
 		- sei é  ainda assim fica meio forçado, não vou negar, mas não vamos negar o principio de nossa fé, Jesus Cristo, filho de Deus, ele veio ao mundo para salvar o mundo(joão 3.16) se crermos que Jesus é o filho de Deus, acreditamos que Deus enviou seu filho para nos salvar, e se está é pedra principal(angular de nossa fé) então cremos que Deus amo os humanos e deseja nos salvar, essa passagem não representa que Deus não é amor, mas que Deus é Justiça também.
 			- sei que é uma passagem difícil, mas o como sempre digo: 'a fé é uma escolha'.
 
-## opinião/ explicação:
+## opinião/reflexão:
  sei que é uma passagem difícil, mas ainda assim escolho crer.
