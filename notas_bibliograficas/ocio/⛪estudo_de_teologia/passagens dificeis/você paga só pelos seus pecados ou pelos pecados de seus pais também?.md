@@ -23,16 +23,16 @@ table of contents: Create table of contents
 ## passagem:
 
 ### passagens que falam sobre ser punido pelo erro dos pais:
-Deuteronômio 5:9-10
-9Não se curve diante deles nem os adore, pois eu, o Senhor, seu Deus, sou um Deus zeloso. Trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração dos que me rejeitam, 10mas demonstro amor por até mil gerações
+> Deuteronômio 5:9-10
+> 9Não se curve diante deles nem os adore, pois eu, o Senhor, seu Deus, sou um Deus zeloso. Trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração dos que me rejeitam, 10mas demonstro amor por até mil gerações
+> 
+
+> Êxodo 20:5
+> ⁵ Não te encurvarás a elas nem as servirás; porque eu, o Senhor teu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos, até a terceira e quarta geração daqueles que me odeiam.
 
 
-Êxodo 20:5
-⁵ Não te encurvarás a elas nem as servirás; porque eu, o Senhor teu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos, até a terceira e quarta geração daqueles que me odeiam.
-
-
-Números 14:18
-¹⁸ O Senhor é longânimo, e grande em misericórdia, que perdoa a iniquidade e a transgressão, que o culpado não tem por inocente, e visita a iniquidade dos pais sobre os filhos até a terceira e quarta geração.
+> Números 14:18
+> ¹⁸ O Senhor é longânimo, e grande em misericórdia, que perdoa a iniquidade e a transgressão, que o culpado não tem por inocente, e visita a iniquidade dos pais sobre os filhos até a terceira e quarta geração.
 
 
 > Lamentações 5:7
@@ -91,6 +91,13 @@ Números 14:18
 
 ### 
 ## Explicação
-- até passagem é difícil, no caso, até determinado ponto da bíblia 
+
+> [!NOTE]
+> essa passagem é difícil, sem sombra de dúvidas, eu fico pensando sobre isso, para ser franco eu pesquisei isso no claude, e a resposta dele me satisfez então vou só transcrever o que ele falou aqui:
+> 
+
+### o pecado dos pais realmente afeta os filhos, seja como conseguencia de traumas nas crianças, pobreza, cultura ou estrutura em que vivem, não podemos negar isso, apenas passando por um caso que ouvi falar, um casal que usava drogas teve um filho, mas infelizmente o filho deles por conta de eles usarem drogas teve sequelas por conta disso e acabou desde o nascimento sofrendo que crises de abstinencia de drogas mesmo nunca tendo usado as mesmas diretamente apenas via os pais, isso realmente é bem critico não?
+
+
 
 ## Opinião/reflexão
