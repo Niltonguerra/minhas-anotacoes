@@ -130,8 +130,11 @@ Mas atenção: Jesus também falou de juízo: Inferno, Condenação eterna, Sepa
 
 Aqui está uma síntese equilibrada:  
 ✔ Deus é imutável em seu caráter: Santo, Justo, Amoroso
-✔ O que muda é a administração:   Antes: juízo imediato e nacional                                                                                       Agora: graça e tempo para arrependimento                                                    ✔ Números 31 não é regra geral:
-- É um evento específico - Não é modelo para hoje, se esse texto te incomoda, isso não te afasta de Deus — pode te aproximar mais profundamente. Porque você está perguntando: “Como Deus pode ser justo e amoroso ao mesmo tempo?” E essa pergunta encontra resposta na cruz. Na cruz: A justiça de Deus foi satisfeita - O amor de Deus foi revelado o mesmo Deus que julgou o pecado em Números 31 - é o Deus que tomou o juízo sobre si em Cristo não é um texto fácil = e não precisa ser suavizado artificialmente. Mas podemos afirmar com segurança: 
+✔ O que muda é a administração:   
+- Antes: juízo imediato e nacional                                                                                       
+- Agora: graça e tempo para arrependimento                                                    
+✔ Números 31 não é regra geral:
+- É um evento específico - Não é modelo para hoje, se esse texto te incomoda, isso não te afasta de Deus — pode te aproximar mais profundamente. Porque você está perguntando: “Como Deus pode ser justo e amoroso ao mesmo tempo?” E essa pergunta encontra resposta na cruz. Na cruz: A justiça de Deus foi satisfeita - O amor de Deus foi revelado o mesmo Deus que julgou o pecado em Números 31 - é o Deus que tomou o juízo sobre si em Cristo não é um texto fácil e não precisa ser suavizado artificialmente. Mas podemos afirmar com segurança: 
 	- Não é genocídio arbitrário → é juízo específico 
 	- Não é mudança de Deus → é mudança de dispensação
 	- Não é contradição com Jesus → é preparação para o Evangelho
