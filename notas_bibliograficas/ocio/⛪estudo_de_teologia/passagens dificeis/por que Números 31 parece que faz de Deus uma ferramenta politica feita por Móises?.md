@@ -107,22 +107,37 @@ Essa é a parte mais difícil:Aqui precisamos ter muito cuidado e reverência, a
 - Deus é o dono da vida
 	- Segundo a própria Bíblia: 
 		- Deus dá a vida, Deus pode tirá-la Isso não se aplica ao ser humano — só a Deus.
+
 - Juízo coletivo no contexto antigo
 	- Na mentalidade bíblica antiga:  A nação era vista como um todo,  o pecado era coletivo e contínuo.
-- Os midianitas não eram inocentes isoladamente, 
-	- eram parte de uma cultura profundamente corrompida e hostil a Deus.
-Não significa prazer em matar, A Bíblia afirma claramente:                                                                                                                                                                                 Deus não tem prazer na morte do ímpio (Ezequiel 33:11)                                                                                                                       Ou seja:  Isso não é crueldade divina — é juízo após persistência no pecado.
-E as virgens como “espólio”?
-Essa parte causa muito desconforto — e com razão. Mas precisamos entender o contexto:
-Não era incentivo à exploração sexual
-Na Lei de Moisés havia regras claras: Mulheres capturadas deveriam ser protegidas,                                                 Havia período de luto. Não podiam ser tratadas como objeto sexual descartável (Deuteronômio 21)
-Ou seja: dentro daquele contexto, isso era regulamentação para evitar abuso, não incentivo.                                    Essa é a chave da sua pergunta.                                                                                                                                             A resposta é: Deus não mudou — a forma de lidar com o homem mudou.                                                                   Em Antigo Testamento:                                                                                                                                                                                       Deus trata com nações, Juízo muitas vezes é imediato e físico
-Em Novo Testamento:                                                                                                                                                                                       Deus trata com indivíduos,  O juízo é adiado, A graça é enfatizada
-Em Mateus 5: Jesus ensina: Amor ao inimigo, Perdão, Misericórdia                                                                                                    Isso não anula a justiça — revela o coração de Deus plenamente.
-Mas atenção: Jesus também falou de juízo: Inferno, Condenação eterna, Separação final                                                                    Ou seja: O Deus do Novo Testamento continua sendo juiz — só que o juízo final ainda não aconteceu.
-Aqui está uma síntese equilibrada:  ✔ Deus é imutável em seu caráter: Santo, Justo, Amoroso
-✔ O que muda é a administração:   Antes: juízo imediato e nacional                                                                                       Agora: graça e tempo para arrependimento                                                                                                                                                 ✔ Números 31 não é regra geral:
-É um evento específico - Não é modelo para hoje                                                                                                        Se esse texto te incomoda, isso não te afasta de Deus — pode te aproximar mais profundamente.                               Porque você está perguntando:                                                                                                                                         “Como Deus pode ser justo e amoroso ao mesmo tempo?”                                                                                              E essa pergunta encontra resposta na cruz. Na cruz: A justiça de Deus foi satisfeita - O amor de Deus foi revelado
-O mesmo Deus que julgou o pecado em Números 31 - é o Deus que tomou o juízo sobre si em Cristo
-Não é um texto fácil = e não precisa ser suavizado artificialmente. Mas podemos afirmar com segurança:                     Não é genocídio arbitrário → é juízo específico                                                                                                              Não é mudança de Deus → é mudança de dispensação                                                                                                         Não é contradição com Jesus → é preparação para o Evangelho
+
+- Os midianitas não eram inocentes isoladamente, eram parte de uma cultura profundamente corrompida e hostil a Deus.
+	- Não significa prazer em matar, A Bíblia afirma claramente:                                                                                                                                                                                 
+		- Deus não tem prazer na morte do ímpio (Ezequiel 33:11)                                                                                                                       
+			- Ou seja:  Isso não é crueldade divina — é juízo após persistência no pecado.
+
+#### E as virgens como “espólio”?
+- Essa parte causa muito desconforto — e com razão. Mas precisamos entender o contexto:
+	- Não era incentivo à exploração sexual
+		- Na Lei de Moisés havia regras claras: Mulheres capturadas deveriam ser protegidas, Havia período de luto. Não podiam ser tratadas como objeto sexual descartável (Deuteronômio 21) Ou seja: dentro daquele contexto, isso era regulamentação para evitar abuso, não incentivo. Essa é a chave da sua pergunta.
+			- A resposta é: Deus não mudou — a forma de lidar com o homem mudou.                                                                   
+				- Em Antigo Testamento: Deus trata com nações, Juízo muitas vezes é imediato e físico
+				- Em Novo Testamento:Deus trata com indivíduos,  O juízo é adiado, A graça é enfatizada
+					- Em Mateus 5: Jesus ensina: Amor ao inimigo, Perdão, Misericórdia Isso não anula a justiça — revela o coração de Deus plenamente
+
+Mas atenção: Jesus também falou de juízo: Inferno, Condenação eterna, Separação final 
+- Ou seja: O Deus do Novo Testamento continua sendo juiz — só que o juízo final ainda não aconteceu.
+
+Aqui está uma síntese equilibrada:  
+✔ Deus é imutável em seu caráter: Santo, Justo, Amoroso
+✔ O que muda é a administração:   Antes: juízo imediato e nacional                                                                                       Agora: graça e tempo para arrependimento                                                    ✔ Números 31 não é regra geral:
+- É um evento específico - Não é modelo para hoje, se esse texto te incomoda, isso não te afasta de Deus — pode te aproximar mais profundamente. Porque você está perguntando: “Como Deus pode ser justo e amoroso ao mesmo tempo?” E essa pergunta encontra resposta na cruz. Na cruz: A justiça de Deus foi satisfeita - O amor de Deus foi revelado o mesmo Deus que julgou o pecado em Números 31 - é o Deus que tomou o juízo sobre si em Cristo não é um texto fácil = e não precisa ser suavizado artificialmente. Mas podemos afirmar com segurança: 
+	- Não é genocídio arbitrário → é juízo específico 
+	- Não é mudança de Deus → é mudança de dispensação
+	- Não é contradição com Jesus → é preparação para o Evangelho
+
 ## reflexão/ opinião
+bom, pelo que pode ver não é algo fácil de se digerir, me sinto mau em pensar sobre essa passagem, você pode ver que teve um apelo para o lado sentimental e também de usar o meu ego na resposta que meu pastor me deu, não que esteja criticando nem nada, mas no caso, é uma passagem difícil, você pode aceitar tudo que ele me falou, você também pode aceitar a resposta do claude, no fim, é uma passagem difícil, não é que nem o diluvio, que teve milhões de mortes e ninguém para para pensar, a gente está falando da morte de uma nação inteira, mas a gente não para para pensar, que loucura, não?
+no fim, é questão de fé!
+
+ps: acho que essas notas deveriam deixar de se chamar de 'passagens difíceis' para passagens de fé, já que você não consegue entender elas a não ser que seja por fé!
