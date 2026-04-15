@@ -19,6 +19,11 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 ## passagem:
+
+> Deutetonômio 34
+> 10Nunca houve em Israel outro profeta como Moisés, a quem o Senhor conhecia face a face. 11O Senhor o enviou ao Egito para realizar todos os sinais e maravilhas contra o faraó, contra todos os seus servos e contra toda a sua terra. 12Com grande poder, Moisés realizou atos temíveis diante dos olhos de todo o Israel. 
+
+
 > Números 31
 > 
 > 1O Senhor disse a Moisés: 2“Vingue-se dos midianitas pelo que fizeram aos israelitas. Depois disso, você morrerá e será reunido a seus antepassados”.
