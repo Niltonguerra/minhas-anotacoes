@@ -25,7 +25,8 @@ table of contents: Create table of contents
     - Duração: 4 tempos (em um compasso 4/4, preenche todo o compasso).
 
 2. **Mínima (Half Note)**
-    - Representação: ♪ (um círculo vazio com uma haste).
+    - Representação:     ![[Pasted image 20260415203345.png|65]](um círculo vazio com uma haste).
+
     - Duração: 2 tempos (metade de uma semibreve).
 
 3. **Semínima (Quarter Note)**
@@ -37,23 +38,25 @@ table of contents: Create table of contents
     - Duração: ½ tempo (metade de uma semínima).
 
 5. **Semicolcheia (Sixteenth Note)**
-    - Representação: ♪♪ (um círculo preenchido com uma haste e duas bandeiras).
+    - Representação: ![[Pasted image 20260415203525.png]] (um círculo preenchido com uma haste e duas bandeiras).
     - Duração: ¼ de tempo (metade de uma colcheia).
 
 6. **Fusa (Thirty-second Note)**
-    - Representação: ♪♪♪ (um círculo preenchido com uma haste e três bandeiras).
+    - Representação: ![[Pasted image 20260415203559.png]] (um círculo preenchido com uma haste e três bandeiras).
     - Duração: ⅛ de tempo (metade de uma semicolcheia).
 
 7. **Semifusa (Sixty-fourth Note)**
-    - Representação: ♪♪♪♪ (um círculo preenchido com uma haste e quatro bandeiras).
+    - Representação: ![[Pasted image 20260415203625.png]] (um círculo preenchido com uma haste e quatro bandeiras).
     - Duração: 1/16 de tempo (metade de uma fusa).
 
-
+### resumo:
+![[Pasted image 20260415203656.png]]
 ### **Pausas Correspondentes**
 
 Cada figura rítmica possui uma pausa equivalente, indicando o tempo de silêncio na música.  
 Exemplo:
 - Pausa de semibreve: Uma linha retangular pendurada na linha superior (silêncio de 4 tempos).
+- 
 - Pausa de colcheia: Uma marca curva com uma bandeira (silêncio de ½ tempo).
 
 ---

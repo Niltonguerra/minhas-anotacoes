@@ -19,8 +19,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 ## importância das escalas musical
-- e importante para que a música saia bonita mais facilmente, por exemplo, se está tocando uma musica na escala de dó maior então você só pode tocar usando as teclas brancas
-
+- e importante para que a música saia bonita mais facilmente, por exemplo, se está tocando uma musica na escala de dó maior então você só tocar usando os arranjos de dó maior.
 
 ## Convertendo notas da escala em graus
 - O primeiro grau de cada escala é a tônica(ex: o primeiro grau da escala de Dó maior é a nota Dó) 
