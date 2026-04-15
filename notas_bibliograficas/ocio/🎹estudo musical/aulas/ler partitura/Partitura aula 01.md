@@ -59,6 +59,5 @@ table of contents: Create table of contents
 
 
 ## Como ler partitura na prática
-- Aprender a ler notas na partitura pode parecer complicado no início, mas é mais fácil do que parece.
 - De baixo para cima, as notas da clave de sol nas linhas são E, G, B, D, F; e as notas dos espaços são F, A, C, E.
 ![[Pasted image 20250115085853.png]]
