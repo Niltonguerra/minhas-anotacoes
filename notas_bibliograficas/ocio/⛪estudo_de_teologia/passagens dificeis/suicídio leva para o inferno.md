@@ -8,11 +8,19 @@ tags:
 
 # Resumo da nota:
 esse é um prompt que tive do claude (não coloque outras LLM's por que elas não são boas ou não responderam com clareza como o claude, mas elas tem o core da questão em comum, que é a bíblia não fala claramente sobre suicídio, parece muita mais uma coisa colocada pelo regime governamental da época). se matar parece pouco provável que te leve para o inferno aos meus olhos!
+opinião formada: quem comete suicídio não vai para o inferno!!!
+
 # Tópicos:
 - [[#O que a Bíblia realmente diz (ou não diz)|O que a Bíblia realmente diz (ou não diz)]]
 - [[#De onde vem a tradição então|De onde vem a tradição então]]
 - [[#Sua intuição sobre Números 31 é pertinente|Sua intuição sobre Números 31 é pertinente]]
-- [[#Conclusão honesta|Conclusão honesta]]
+- [[#Conclusão do claude|Conclusão do claude]]
+- [[#O que papas recentes disseram|O que papas recentes disseram]]
+- [[#Base oficial da Igreja|Base oficial da Igreja]]
+- [[#Comparando com o passado|Comparando com o passado]]
+- [[#Resposta direta|Resposta direta]]
+- [[#reflexão/ opinião:|reflexão/ opinião:]]
+- [[#na minha opinião quem se mata(comete suicídio) não vai para o inferno!!!|na minha opinião quem se mata(comete suicídio) não vai para o inferno!!!]]
 
 # Explicação dos tópicos:
 ## O que a Bíblia realmente diz (ou não diz)
@@ -82,4 +90,5 @@ Hoje:
 
 
 ## reflexão/ opinião:
-antigamente provavelmente as igrejas não sepultavam que se suicidava por conta que a vida era muito difícil na idade média, então se matar para ir para o céu que é um lugar maravilhoso não parece uma coisa tão ruim, então acredito que naquela época colocar o suicídio como um pecado imperdoável, era muito mais como a politica entrando na religião para as pessoas não se matarem e isso gerar quebra econômica e o que pessoas poderosas desejavam, como pode ser visto na famosa frase que rodou o Brasil em 2022: 'quem votar no Lula vai para o inferno', esse tipo de afirmação serve muito bem para os políticos e para uma elite econômica, hoje, com a evidenciação das doenças mentais e do sofrimento das pessoas, a própria igreja católica que tinha se posicionado como um pecado, hoje defende que 'não é bem assim', uma clara alteração de fala por conta dos tempos, logo, pela informação intrínseca que Deus não muda, como podemos afirmar que em alguma momento o suicídio foi pecado? se a essa mudança de narrativa de quem mesmo criou a regra e existe vários ponto
+antigamente provavelmente as igrejas não sepultavam que se suicidava por conta que a vida era muito difícil na idade média, então se matar para ir para o céu que é um lugar maravilhoso não parece uma coisa tão ruim, então acredito que naquela época colocar o suicídio como um pecado imperdoável, era muito mais como a politica entrando na religião para as pessoas não se matarem e isso gerar quebra econômica e o que pessoas poderosas desejavam, como pode ser visto na famosa frase que rodou o Brasil em 2022: 'quem votar no Lula vai para o inferno', esse tipo de afirmação serve muito bem para os políticos e para uma elite econômica, hoje, com a evidenciação das doenças mentais e do sofrimento das pessoas, a própria igreja católica que tinha se posicionado como um pecado, hoje defende que 'não é bem assim', uma clara alteração de regra por conta dos tempos,e logo, pela certeza que temos que  Deus não muda, como podemos afirmar que em alguma momento o suicídio foi pecado? (considerando que na idade média também era defendida a Indulgência(que era um valor que você pagava para ir para o céu ))  se existe essa mudança de narrativa de quem mesmo criou a regra,  e considerando que usam passagens bíblicas que  defendem essa linha de pensamento que o suicídio é um pecado mortal sendo tão ambíguas e carentes de clareza, na minha opinião defender que o suicídio é um pecado mortal é errado! 
+## na minha opinião quem se mata(comete suicídio) não vai para o inferno!!!
