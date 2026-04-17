@@ -11,10 +11,15 @@
             "id": "2065cf8570bcb88e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/ocio/⛪estudo_de_teologia/passagens dificeis/o mundo reflete a Deus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "o mundo reflete a Deus"
             }
           }
         ]
@@ -258,8 +263,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "2065cf8570bcb88e",
   "lastOpenFiles": [
+    "notas_bibliograficas/ocio/🎹estudo musical/aulas/teclado/musica para tocar.md",
     "notas_bibliograficas/ocio/🎹estudo musical/imagens/Pasted image 20260415203656.png",
     "notas_bibliograficas/ocio/🎹estudo musical/imagens/Pasted image 20260415203625.png",
     "Sem título.base",
