@@ -1,6 +1,7 @@
 ---
-Date: ""
-tags: []
+Date: 2026-04-18T08:01:00
+tags:
+  - Teologia/anotacoesBíblia
 ---
 # Notas conectadas:
 
@@ -11,13 +12,24 @@ exemplo de tamanho:
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#O que a própria Bíblia diz|O que a própria Bíblia diz]]
+- [[#O problema teológico real|O problema teológico real]]
+- [[#A questão soteriológica central|A questão soteriológica central]]
+- [[#Resumo honesto|Resumo honesto]]
+- [[#A tensão central|A tensão central]]
+- [[#As posições principais|As posições principais]]
+- [[#O que os casos bíblicos sugerem|O que os casos bíblicos sugerem]]
+- [[#O problema real da pergunta hoje|O problema real da pergunta hoje]]
+- [[#Minha leitura honesta|Minha leitura honesta]]
+- [[#O que muda com o tempo prolongado|O que muda com o tempo prolongado]]
+- [[#O que cada tradição faz com o Cenário C|O que cada tradição faz com o Cenário C]]
+- [[#O problema do "fruto"|O problema do "fruto"]]
+- [[#O que a Escritura não resolve de forma limpa|O que a Escritura não resolve de forma limpa]]
+- [[#Síntese honesta|Síntese honesta]]
+- [[#reflexão/opinião|reflexão/opinião]]
 
 
 # Explicação dos tópicos:
-
 
 
 > [!NOTE]
