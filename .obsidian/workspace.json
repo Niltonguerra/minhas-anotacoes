@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af4e4262730db7eb",
+        "id": "1696009cc57b8dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "e5221a995c7ba5f6",
+            "id": "64107b8c7cc43882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
+                "file": "notas_passageiras/microserviços.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "onde parou"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0f0c034b4b4207b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f72cf051d07d2d43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-                "page": 33,
-                "left": -14,
-                "top": 977,
-                "zoom": 1.0469909915150106
-              },
-              "icon": "lucide-file-text",
-              "title": "Codigo Limpo - Completo PT"
+              "title": "microserviços"
             }
           }
         ]
@@ -285,13 +263,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f72cf051d07d2d43",
+  "active": "64107b8c7cc43882",
   "lastOpenFiles": [
+    "notas_passageiras/está no google notas.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/o mundo reflete a Deus.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Deus se agrada do sofrimento das pessoas.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/00-passagens dificeis.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/aulas/00-aulas.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/aulas/introdução ao Profetismo.md",
+    "notas_bibliograficas/carreira/idiomas/por que aprender outro idioma.md",
+    "notas_bibliograficas/carreira/idiomas/english/inglês - por que aprender.md",
+    "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/por que se integrar na lingua- como estudar isso.md",
+    "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #64.mp4",
+    "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #11.mp4",
+    "notas_bibliograficas/carreira/estudo_empresas_trabalhadas/techtalk/04072025.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro mastery.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro Como Fazer amigos e influenciar pessoas.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro 1 ano em 12 semanas.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
+    "notas_passageiras/o que estudar, prioridade 0.md",
+    "notas_passageiras/microserviços.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
-    "notas_passageiras/está no google notas.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Deus se agrada do sofrimento das pessoas.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Números 31 parece que faz de Deus uma ferramenta politica feita por Móises.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/Deus te amo!!!.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/você paga só pelos seus pecados ou pelos pecados de seus pais também.md",
@@ -299,29 +292,17 @@
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/prostitutas vão para o céu.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/suicídio leva para o inferno.md",
     "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/o mundo reflete a Deus.md",
     "notas_bibliograficas/ocio/estudo musical/aulas/teclado/musica para tocar.md",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203656.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203625.png",
     "Sem título.base",
     "notas_bibliograficas/ocio/estudo musical/aulas/teclado/fórmula dos acordes.md",
-    "notas_bibliograficas/ocio/estudo musical/aulas/ler partitura/tempos - o que é na musica.md",
-    "notas_bibliograficas/ocio/estudo musical/aulas/ler partitura/Partitura aula 01.md",
-    "notas_bibliograficas/ocio/estudo musical/aulas/ler partitura/importancia_das_escala_musical aula 02.md",
-    "notas_bibliograficas/ocio/estudo musical/aulas/ler partitura/figuras rítmicas aula 02.md",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203559.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203525.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203345.png",
-    "notas_bibliograficas/ocio/estudo musical/plano de como estudar musica.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Jesus não roubou quanto estava passando por uma plantação e colheu algumas espigas para comer.md",
     "notas_bibliograficas/saude/treinos/Captura de tela de 2026-01-14 13-53-14.png",
-    "Deus te amo!!!.md",
     "notas_bibliograficas/saude/treinos/Captura de tela de 2026-01-14 13-51-51.png",
     "notas_bibliograficas/saude/treinos/Captura de tela de 2026-01-14 13-51-23.png",
-    "notas_bibliograficas/ocio/estudo_de_teologia/estudo Teológico.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/aulas/00-aulas.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/aulas/introdução ao Profetismo.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/00-passagens dificeis.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas",
     "notas_bibliograficas/ocio/estudo_de_teologia/aulas",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis",
@@ -330,8 +311,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/img/Pasted image 20260409223658.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/img",
     "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/img",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "Sem título.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
