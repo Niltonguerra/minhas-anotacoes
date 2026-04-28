@@ -1,0 +1,118 @@
+<style type="text/CSS">
+p {
+	margin-top: 3px;
+}
+
+h1 {
+	background-color: black;
+	color: yellow;
+	text-align: center;
+	font-family: arial;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+body {
+	background-color: black;
+	color: black;
+	text-align: center;
+	font-family: arial;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+.superior_esquerda {
+	background-color: green;
+	border: solid 5px;
+	border-color: white;
+	height: 250px;
+	width: 250px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+.superior_direita {
+	background-color: red;
+	border: solid 5px;
+	border-color: white;
+	height: 250px;
+	width: 250px;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+.inferior_esquerda {
+	background-color: blue;
+	border: solid 5px;
+	border-color: white;
+	height: 250px;
+	width: 250px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+}
+
+.inferior_direita {
+	background-color: orange;
+	border: solid 5px;
+	border-color: white;
+	height: 250px;
+	width: 250px;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+
+.centro {
+	background-color: cyan;
+	border: solid 5px;
+	border-color: white;
+	height: 400px;
+	width: 400px;
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+}
+
+#caixa {
+	background-color:white;
+	border-radius:10px;
+	height:30px;
+	border:solid px;
+}
+
+#caixa:focus {
+	font-size:medium;
+	font-family:arial;
+	background-color:yellow;
+	color:blue;
+	box-shadow: 0 0 30px green;
+	}
+	
+	
+#botao {
+	border-radius:30px;
+	font-size:medium;
+	font-family:arial;
+	background-color:red;
+	color:blue;
+	box-shadow: 0 0 30px green;
+	}
+	
+#botao:hover {
+	font-size:xx-large;
+	border-radius:30px;
+	font-family:arial;
+	background-color:red;
+	color:white;
+	box-shadow: 0 0 30px green;
+	}
+
+
+</style>

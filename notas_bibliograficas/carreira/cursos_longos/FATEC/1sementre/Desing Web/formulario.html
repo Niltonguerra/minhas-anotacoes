@@ -1,0 +1,67 @@
+<html>
+<!--colocando o título da página-->
+<head>
+	<title>Aula 02 - Programação Web</title>
+</head>
+
+<!--corpo da página-->
+
+<body bgcolor="MidnightBlue" text="white">
+<center>
+<b><u><h1>CADASTRO DE CLIENTE</h1></u>                                       		  <!--<b> == negrito,<u> subrinhado,<h1>altura da fonte, <i>italico-->
+</center>
+<form name="frm_cadastro">
+<fieldset>                                     									      <!--caixa de texto -->
+	<legend>DADOS PESSOAIS:</legend
+	NOME DO CLIENTE <br>                                                              <!-- br == quebra de linha -->
+	<input type= 'text' size = '60' maxlength = '60' required  = 'yes'>               <!-- maxlength == é o numero maximo de caracteris-->
+	<p>                                                                   			  <!--<p> == paragrafo -->   <!-- required == torna o campo obrigatório -->
+	Digite uma senha:<br>
+	<input type="password" size='20'  maxlength = '20'>
+	<p>
+	selecione a idade:
+	<input type='number' min='10' max='100'> &nbsp;&nbsp;  							  <!--&nbsp ==  atribui espaçoes entre dois "campos" -->
+	sexo:
+	<input type='radio' name='sexo'>Masculino
+	<input type='radio' name='sexo'>Feminino
+	<p>
+	selecione cores aleatórias: <br>
+	<ol>                                                      					  	 <!--<ol> == coloca todos em ordem, com uma numeração na frente, como, 1,2,3,4,5,6,7  -->    
+		<li><input type='checkbox' name= 'cor'> verde      						     <!--<ul> == coloca marcadores do lado da lista  -->
+		<li><input type='checkbox' name= 'cor'> amarelo
+		<li><input type='checkbox' name= 'cor'> vermelho
+		<li><input type='checkbox' name= 'cor'> cinza                          	<!--  -->
+		<li><input type='checkbox' name= 'cor'> laranja
+		<li><input type='checkbox' name= 'cor'> Azul
+	</ol>
+	
+		<ul>                                                      					  	 <!--<ol> == coloca todos em ordem, com uma numeração na frente, como, 1,2,3,4,5,6,7  -->    
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgColor= 'green'"> verde      						     <!--<ul> == coloca marcadores do lado da lista  -->
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgColor= 'yellow'"> amarelo
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgColor= 'red'"> vermelho
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgColor= 'gray'"> cinza                          	<!--  -->
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgColor= 'orange'"> laranja
+		<li><input type='checkbox' name= 'cor' Onclick= "document.bgolor= 'blue'"> Azul
+	</ul>
+	<p>
+	
+	Selecione uma cidade: <br>
+	<select name= 'cidades'>
+		<option value= 'SA'>Santo André</option>
+		<option value= 'SBC'>São Bernado</option>
+		<option value= 'SCS'>São Caitano</option>
+		<option value= 'MA'>Mauá</option>
+	</select>
+	
+	<p>
+	
+	Observações gerais: <br>
+	<textarea cols='100' rows='5' Onclick= clear>Digite aqui</textarea>	<!--row == linhas, cols= tamanho na tela  -->
+	</fieldset>
+	<p>
+	<center>
+	<input type='submit' value='ENVIAR'> &nbsp;&nbsp
+	<input type='reset' value='Limpar'>
+</form>
+</body>
+</html>	

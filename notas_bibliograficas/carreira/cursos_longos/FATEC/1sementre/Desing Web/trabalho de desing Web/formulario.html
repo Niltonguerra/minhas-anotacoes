@@ -1,0 +1,88 @@
+<html>
+<!--colocando o título da página-->
+<head>
+	<title>Aula 02 - Formulario De Cadastramento</title>
+</head>
+
+<!--corpo da página-->
+
+<body bgcolor="gray" text="black">
+<center>
+<marquee behavior="alternate"><b><u><h1>CADASTRO DE CLIENTE</h1></u> </marquee>                                      		  <!--<b> == negrito,<u> subrinhado,<h1>altura da fonte, <i>italico-->
+</center>
+<form name="frm_cadastro">
+<fieldset> <br>                                    									      <!--caixa de texto -->
+	<legend>DADOS DA EMPRESA:</legend>
+	Nome de cliente: <br>                                                              <!-- br == quebra de linha -->
+	<input type= 'text' size = '60' maxlength = '60' required  = 'yes'>               <!-- maxlength == é o numero maximo de caracteris-->
+	<p>                                                                   			  <!--<p> == paragrafo -->   <!-- required == torna o campo obrigatório -->
+	Digite uma senha:<br>
+	<input type="password" size='20'  maxlength = '20'>
+	<p>
+	</fieldset>
+	Repita sua senha:<br>
+	<input type="password" size='20'  maxlength = '20'>
+	<p>
+	<p>
+	selecione quantos funcionarios você tem:
+	<input type='number' min='1' max='10000'> &nbsp;&nbsp; 							  <!--&nbsp ==  atribui espaçoes entre dois "campos" -->
+	<p>
+	Qual pacote você gostaria de assinar:
+	<input type='radio' name='pacote'>pacote simples
+	<input type='radio' name='pacote'>pacote plus
+	<input type='radio' name='pacote'>pacote plus utra
+	<p>
+	Qual é o seu nicho de mercado: <br>
+	<ol>                                                      					  	 <!--<ol> == coloca todos em ordem, com uma numeração na frente, como, 1,2,3,4,5,6,7  -->    
+		<li><input type='checkbox' name= 'nicho'> Educação 						     <!--<ul> == coloca marcadores do lado da lista  -->
+		<li><input type='checkbox' name= 'nicho'> Técnologia
+		<li><input type='checkbox' name= 'nicho'> Sáude
+		<li><input type='checkbox' name= 'nicho'> Lazer                   	<!--  -->
+		<li><input type='checkbox' name= 'nicho'> Investimento
+		<li><input type='checkbox' name= 'nicho'> Suplementação
+		<li><input type='checkbox' name= 'nicho'> Alimentação
+		<li><input type='checkbox' name= 'nicho'> Entreterimento
+	</ol>
+	<p>
+	
+	Selecione seu estado: <br>
+	<select name= 'estados'>
+		<option value= 'AC'>AC</option>
+		<option value= 'AL'>AL</option>
+		<option value= 'AP'>AP</option>
+		<option value= 'AM'>AM</option>
+		<option value= 'BA'>BA</option>
+		<option value= 'CE'>CE</option>
+		<option value= 'DF'>DF</option>
+		<option value= 'ES'>ES</option>
+		<option value= 'GO'>GO</option>
+		<option value= 'MA'>MA</option>
+		<option value= 'MT'>MT</option>
+		<option value= 'MS'>MS</option>
+		<option value= 'MG'>MG</option>
+		<option value= 'PA'>PA</option>
+		<option value= 'PB'>PB</option>
+		<option value= 'PR'>PR</option>
+		<option value= 'PE'>PE</option>
+		<option value= 'PI'>PI</option>
+		<option value= 'RJ'>RJ</option>
+		<option value= 'RN'>RN</option>
+		<option value= 'RS'>RS</option>
+		<option value= 'RO'>RO</option>
+		<option value= 'RR'>RR</option>
+		<option value= 'SC'>SC</option>
+		<option value= 'SP'>SP</option>
+		<option value= 'SE'>SE</option>
+		<option value= 'TO'>TO</option>
+	</select>
+	<p>
+	
+	Gostaria de colocar alguma mais algum pedido especial: <br>
+	<textarea cols='100' rows='5' Onclick= clear>Digite aqui</textarea>	<!--row == linhas, cols= tamanho na tela  -->
+	<p>
+	<center>
+	<<a href="Cadastro finalizado.html" target= "selecao"> Finalizar</a> &nbsp;&nbsp
+	<<a href="formulario.html" target= "selecao"> Recomeçar</a>
+</form>
+</body>
+</html>	
