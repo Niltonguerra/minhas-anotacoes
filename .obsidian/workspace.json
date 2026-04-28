@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1696009cc57b8dd4",
+        "id": "bf187e6eb01b80a1",
         "type": "tabs",
         "children": [
           {
-            "id": "64107b8c7cc43882",
+            "id": "5ac64a3998555ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_passageiras/microserviços.md",
+                "file": "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "microserviços"
+              "title": "onde parou"
             }
           }
         ]
@@ -120,8 +120,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -214,11 +214,22 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "oz-calendar"
+            }
+          },
+          {
+            "id": "c5815e669d737e0d",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "35e355308cd48771",
@@ -263,8 +274,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "64107b8c7cc43882",
+  "active": "5ac64a3998555ece",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
+    "notas_passageiras/microserviços.md",
     "notas_passageiras/está no google notas.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/o mundo reflete a Deus.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Deus se agrada do sofrimento das pessoas.md",
@@ -282,8 +296,6 @@
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro 1 ano em 12 semanas.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
     "notas_passageiras/o que estudar, prioridade 0.md",
-    "notas_passageiras/microserviços.md",
-    "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Números 31 parece que faz de Deus uma ferramenta politica feita por Móises.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/Deus te amo!!!.md",
@@ -296,7 +308,6 @@
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203656.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203625.png",
     "Sem título.base",
-    "notas_bibliograficas/ocio/estudo musical/aulas/teclado/fórmula dos acordes.md",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203559.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203525.png",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203345.png",
