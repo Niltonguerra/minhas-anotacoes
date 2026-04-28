@@ -1,0 +1,110 @@
+
+resumo:
+teste caixa preta
+não precisa saber como foi criado o produto, para pessoas leigas
+isso se insere os testes de para hacker de fora da empresa?
+
+teste de caixa branca
+para pessoas com mais conhecimentos
+é quando você pede para uma outra pessoa para dar uma olhada no seu código
+
+teste de integração
+se qualifica testes unitários?
+
+
+
+testes de regressão:
+eu tenho uma janela com 3 campos, faço uma alteração e insiro mais um, o testador verifica se esse campo não quebrou o funcionamento, não quebrou o layout da janela
+verifica se quando ocorre uma mudança do código vai acontecer um erro Jenkins 
+
+
+
+menos resumido:
+caixa preta:
+técnicas de teste de caixa preta
+	teste de caminho
+	teste de partição de equivalência
+	teste de valor limite
+	teste de tabela de decisão
+	teste de transição de aceite
+
+	benefícios:
+	independência do código
+	foco na experiência do usuário
+	garantia da qualidade
+	identificação de erros
+
+caixa branca:
+	visão geral
+	objetivo
+	técnicas de teste de caixa branca
+	benefícios do teste de caixa branca
+
+tipos de teste de caixa branca:
+	teste
+
+
+
+teste de integração:
+verifica algo novo não vai quebrar
+	tipos de testes de integração:
+	integração top-down
+	começa de cima do sistema é vai descendo para os módulos
+
+	integração bottom-up
+	começa nos módulos e vai subindo
+
+	integração big-bang
+	testa o sistema inteiro ao mesmo tempo
+
+	etapas para o desenvolvimento dos testes de integração
+	planejamento
+	preparação
+	execução
+	relato
+
+	benefícios:
+	testes de integração
+	detecção de erros
+	gerenciamento de riscos
+	melhora a qualidade
+	eficiência
+
+teste de regressão:
+verifica se nada já existe no sistema quebra
+	etapas para criar o teste:
+		identificação
+		seleção
+		execução
+		análise
+	benefícios dos testes de regressão:
+		manutenção de qualidade
+		prevenção de erros
+		aumento da confiança
+
+ boas práticas:
+	automatização
+
+	colaboração
+	envolve a equipe  no processo de desenvolvimento dos testes
+
+	documentação 
+
+	feedback continua
+
+
+
+estratégias de testes de software:
+	testes de aceitação
+	verifica se o sistema é bom para o usuário final
+ 
+
+	testes de sistema
+	verifica o comportamento do sistema como um todo
+
+	testes de unitários
+	verifica uma funcionalidade
+
+testes de performance:
+	verifica o desempenho do sistema
+
