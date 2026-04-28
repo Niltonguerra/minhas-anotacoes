@@ -1,0 +1,59 @@
+C:\Users\lab5\Desktop\teste\bin\Debug\teste.exe.config
+C:\Users\lab5\Desktop\teste\bin\Debug\teste.exe
+C:\Users\lab5\Desktop\teste\bin\Debug\teste.pdb
+C:\Users\lab5\Desktop\teste\bin\Debug\Guna.UI.dll
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.Form1.resources
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.csproj.CopyComplete
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.exe
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.pdb
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.Form2.resources
+C:\Users\lab5\Desktop\teste\obj\Debug\teste.Form3.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.Form1.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.Form2.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.Form3.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.FormJogo.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.Properties.Resources.resources
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.exe
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.pdb
+C:\Users\lab5\Desktop\experimento\bin\Debug\teste.exe.config
+C:\Users\lab5\Desktop\experimento\bin\Debug\teste.exe
+C:\Users\lab5\Desktop\experimento\bin\Debug\teste.pdb
+C:\Users\lab5\Desktop\experimento\bin\Debug\Guna.UI.dll
+C:\Users\lab5\Desktop\experimento\obj\Debug\teste.csproj.CopyComplete
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\bin\Debug\teste.exe.config
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\bin\Debug\teste.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\bin\Debug\teste.pdb
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.Form1.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.Form2.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.Form3.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.FormJogo.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.Properties.Resources.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.csproj.CopyComplete
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2\obj\Debug\teste.pdb
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\bin\Debug\teste.exe.config
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\bin\Debug\teste.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\bin\Debug\teste.pdb
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.cadastrar.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.home.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.saves.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.FormJogo.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.Properties.Resources.resources
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.csproj.CopyComplete
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.exe
+C:\Users\nilto\OneDrive\Documentos\0GitHub\faculdade\Técnicas de Programação\videogame-P2 - Copia\obj\Debug\teste.pdb

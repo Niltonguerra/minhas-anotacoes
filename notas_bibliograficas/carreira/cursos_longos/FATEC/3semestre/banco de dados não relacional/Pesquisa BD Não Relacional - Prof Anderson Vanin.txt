@@ -1,0 +1,12 @@
+Realizar uma pesquisa sobre os principais tipos de Banco de Dados NoSQL.
+Incluir na pesquisa a descrição de cada tipo e finalidades bem como os nomes dos Sistemas Gerenciadores utilizados.
+BD orientado a:
+- Documentos
+- Colunas
+- Chave:valor
+- Grafos
+enviar arquivo em PDF para:
+anderson.vanin@fatec.sp.gov.br
+Colocar no Assunto: Nome Completo - Pesquisa BD NoSQL
+
+Prazo para entrega: 03/04/2023
