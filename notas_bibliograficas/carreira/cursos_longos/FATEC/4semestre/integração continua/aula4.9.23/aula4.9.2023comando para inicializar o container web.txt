@@ -1,0 +1,6 @@
+entra dentro do container para alterar as configurações do container
+docker exec -it meu-projet0o-web-1 sh
+
+
+dá a permição para o servidor com o container web funcione:
+chmod 777 index.php
