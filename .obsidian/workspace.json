@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 368.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -268,7 +268,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c8187831d5ff2d5",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/carreira/cursos_longos/FATEC/1sementre/Engenharia de software/exemplo de diagrama de atividades/exemplo de diagrama de atividades.PNG",
     "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
