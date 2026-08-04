@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c8187831d5ff2d5",
+            "id": "0d6c359017b134d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "6-clean-code"
             }
           }
         ]
@@ -37,10 +42,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -219,11 +226,22 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "oz-calendar"
+            }
+          },
+          {
+            "id": "31a08cbb4112f837",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       },
       {
         "id": "35e355308cd48771",
@@ -243,20 +261,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 649.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "random-note:Abrir nota aleatória": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -264,15 +282,15 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "0d6c359017b134d6",
   "lastOpenFiles": [
-    "notas_bibliograficas/carreira/cursos_longos/FATEC/1sementre/Engenharia de software/exemplo de diagrama de atividades/exemplo de diagrama de atividades.PNG",
     "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
+    "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FATEC/1sementre/Engenharia de software/exemplo de diagrama de atividades/exemplo de diagrama de atividades.PNG",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "notas_passageiras/microserviços.md",
     "notas_passageiras/está no google notas.md",
@@ -291,7 +309,6 @@
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro Como Fazer amigos e influenciar pessoas.md",
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro 1 ano em 12 semanas.md",
     "notas_passageiras/o que estudar, prioridade 0.md",
-    "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Números 31 parece que faz de Deus uma ferramenta politica feita por Móises.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/Deus te amo!!!.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/você paga só pelos seus pecados ou pelos pecados de seus pais também.md",
@@ -314,7 +331,6 @@
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis",
     "Pasted image 20260409223827.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/img",
-    "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/img/Pasted image 20260409223658.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/img",
     "Sem título.canvas",
     "Untitled.canvas",
